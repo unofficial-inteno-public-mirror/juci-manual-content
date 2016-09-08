@@ -1,0 +1,24 @@
+{{indexmenu_n>30}}
+
+# Agent
+
+The **Agent** tab allows you to manage [SNMP agents](/glossary/s/snmp_agent).
+
+##
+
+^ Item ^ Description ^
+| Agent Address | Protocol and port for the agent variable. |
+
+
+### Add Agent
+
+You can add as many agents as you like.
+
+To add an agent:
+
+* Click the **Add** button
+
+* Enter an **Agent Address**
+
+* Click **Apply**
+

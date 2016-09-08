@@ -1,0 +1,15 @@
+
+{{indexmenu_n>30}}
+
+# IPv6 Routes
+
+The IPv4 section lets you add [static routes](/glossary/s/static_route) for [IPV4](/glossary/i/ipv6).
+
+##
+
+^ Item ^ Description ^
+| Interface | Affected [connection](../../network/connections/start) for the route. |
+| Target | Destination [IP address](/glossary/i/ipv6).  |
+| Gateway | IP address to the internet [gateway](/glossary/g/gateway). |  |
+| Metric | Route [metric](/glossary/r/route_metric). |
+| MTU | [MTU](/glossary/m/mtu) size to use. |

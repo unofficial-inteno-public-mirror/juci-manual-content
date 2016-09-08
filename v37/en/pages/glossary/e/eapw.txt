@@ -1,0 +1,5 @@
+
+
+# Ethernet Auto Power Down
+
+Ethernet Auto Power Down allows the hardware ports to be turned off automatically when not in use.

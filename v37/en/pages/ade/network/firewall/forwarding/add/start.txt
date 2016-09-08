@@ -1,0 +1,32 @@
+{{tag>user_expert}}
+
+{{indexmenu_n>999}}
+
+# Add or Edit Port Mapping
+
+The **Add or Edit Port Mapping** view allows you to add or change [port](/glossary/p/port) mapping settings.
+
+##
+
+^ Item ^ Comment ^
+| Rule Name | Rule name. |
+| Source Zone | Incoming [zone](/glossary/f/firewall_zone). |
+| Destination Zone | Destination [zone](/glossary/f/firewall_zone). |
+| Source IP Address | Source [IP](/glossary/i/ip) address (for filtering). |
+| Dst. Device | Client [hostname](/glossary/h/hostname). |
+| Dst. IP Address | Client [IP](/glossary/i/ip) address. |
+| Protocol | Mapping [protocol](/glossary/p/port) ([UDP](/glossary/u/udp) / [TCP](/glossary/t/tcp) / TCP + UDP ). |
+| Public port(s) | Public (external) [port](/glossary/p/port). |
+| Private port(s) | Private (client) [port](/glossary/p/port). |
+| NAT Loopback | Enable [NAT Loopback](/glossary/n/nat_loopback) |
+
+
+### Protocol
+
+The protocol setting filters traffic by protocol for the port forward.
+
+^ Protocol ^ Description ^
+| TCP + UDP | Both [TCP](/glossary/t/tcp) and [UDP](/glossary/u/udp). |
+| TCP | [TCP](/glossary/t/tcp) only. |
+| UDP | [UDP](/glossary/u/udp) only.  |
+

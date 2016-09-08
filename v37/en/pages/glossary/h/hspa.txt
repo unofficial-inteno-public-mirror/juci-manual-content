@@ -1,0 +1,7 @@
+
+
+# HSPA / HSPA+
+
+High Speed Packet Access (HSPA) is an extension of 3G mobile networks utilizing [WCDMA](/glossary/w/wcdma).
+
+Evolved High Speed Packet Access (HSPA+) is a furhter improvement on HSPA allowing for higher speeds.

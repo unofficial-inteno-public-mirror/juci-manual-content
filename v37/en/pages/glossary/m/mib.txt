@@ -1,0 +1,5 @@
+
+
+# MIB
+
+A management information base (MIB) is used in [SNMP](/glossary/s/snmp) to describe the management data structure, in the form of a hierarchical namespace containing object identifiers (OID). Each OID identifies a variable that can be read or set via SNMP.

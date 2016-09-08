@@ -1,0 +1,26 @@
+{{indexmenu_n>80}}
+
+# Pass
+
+The **Pass** tab lets you configure [Com2Sec](/glossary/c/com2sec) passthrough for [MIBs](/glossary/m/mib) the SNMP service.
+
+##
+
+^ Item ^ Description ^
+| Persist | Enable permanent passthrough. |
+| Priority | Passthrough priority. |
+| MIB OID | Object ID for the MIB. |
+| Program | Execution for the arguments. |
+
+
+### Add Passthrough
+
+You can add as many passthroughs as you like.
+
+To add a passthrough:
+
+* Click the **Add** button
+
+* Enter parameters as needed
+
+* Click **Apply**

@@ -1,0 +1,17 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>999}}
+
+# General
+
+In the **General** settings tab you can change different general features about your MiniDLNA server.
+
+##
+
+^ Item ^ Comment ^
+| Port | [Port](/glossary/p/port) for HTTP traffic. |
+| Network | List of interfaces to serve. |
+| Friendly Name | Name to display to clients. |
+| Root Container | Start point when browsing. |
+| Media Directories | File system locations for media. |
+| Album-Art Names | List of file names for album art. |

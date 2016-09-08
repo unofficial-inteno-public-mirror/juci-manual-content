@@ -1,0 +1,15 @@
+{{indexmenu_n>1100}}
+
+# Point-to-point Tunnel
+
+A Point-to-Point Tunnel connection uses [PPP](/glossary/p/ppp)  across a [VPN](/glossary/v/vpn) tunnel to establish the network.
+
+##
+
+{{page>/glossary/p/ptpt}}
+
+##
+
+{{page>./general}}
+
+{{page>./advanced}}

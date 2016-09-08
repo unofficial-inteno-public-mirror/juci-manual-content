@@ -1,0 +1,5 @@
+
+
+# NTP - Network Time Protocol
+
+NTP is a networking protocol for clock synchronization between devices in networks.

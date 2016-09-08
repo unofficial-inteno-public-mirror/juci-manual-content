@@ -1,0 +1,26 @@
+{{indexmenu_n>60}}
+
+# View
+
+The **View** tab lets you configure [Com2Sec](/glossary/c/com2sec) views for the SNMP service.
+
+##
+
+^ Item ^ Description ^
+| View Name | Name of the view. |
+| Type | Type of view. |
+| OID | Object ID |
+| Mask | [Netmask](/glossary/n/netmask). |
+
+
+### Add View
+
+You can add as many views as you like.
+
+To add a view:
+
+* Click the **Add** button
+
+* Enter parameters as needed
+
+* Click **Apply**

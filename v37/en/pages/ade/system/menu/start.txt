@@ -1,0 +1,20 @@
+
+
+{{indexmenu_n>120}}
+
+# Menu Access
+
+The **Menu Access** view allows you to switch access to menus and menu items in the web interface on or off.
+
+##
+
+**Note**: The admin account cannot have restrictions on menu access.
+
+##
+
+At the top of the page is a list of selectable user roles.
+
+When a particular role is selected, all menu and menu items are shown in the list.
+
+You can change the access status of any item by moving the associated slider.
+

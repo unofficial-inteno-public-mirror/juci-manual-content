@@ -1,0 +1,5 @@
+
+
+# SSDP
+
+Simple Service Discovery Protocol (SSDP) is a network protocol capable of discovering universal plug and play devices on a home network.

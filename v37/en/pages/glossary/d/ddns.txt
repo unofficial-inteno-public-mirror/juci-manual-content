@@ -1,0 +1,5 @@
+
+
+# Dynamic DNS (DDNS or DynDNS)
+
+Dynamic DNS (DDNS) is a method for automatically providing DNS servers with up to date information about configured hostnames and addresses.

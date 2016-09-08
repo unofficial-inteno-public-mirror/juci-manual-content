@@ -1,0 +1,19 @@
+
+
+{{indexmenu_n>120}}
+
+# XSDL
+
+The **xDSL** view allows you to configure line settings and profiles.
+
+##
+
+The xDSL settings are divided into several tabs.
+
+
+{{page>./modulation}}
+
+{{page>./profile}}
+
+{{page>./capabilites}}
+

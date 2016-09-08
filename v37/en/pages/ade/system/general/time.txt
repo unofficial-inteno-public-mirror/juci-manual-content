@@ -1,0 +1,26 @@
+
+
+{{indexmenu_n>20}}
+
+## Time Servers
+
+The Time Servers section shows [NTP](/glossary/n/ntp) time servers in use.
+
+
+##
+
+^ Item ^ Description ^
+| Time Servers (NTP)| List of [NTP](/glossary/n/ntp) servers to use. |
+| Server Mode | Turn [NTP server mode](/glossary/n/ntp_mode) on or off. |
+
+
+#### Add Server
+
+To add a time server:
+
+* Click the {{/icon/add.png}} **add** button
+
+* Enter the server address in **URL** box
+
+* Click **Apply**
+

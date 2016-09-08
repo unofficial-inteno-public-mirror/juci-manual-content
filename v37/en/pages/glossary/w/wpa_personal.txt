@@ -1,0 +1,11 @@
+
+
+# WPA personal
+
+Wi-Fi Protected Access (WPA), also referred to as WPA-PSK (pre-shared key) does not require an authentication server.
+
+It uses [TKIP](/glossary/t/tkip), with a key either as a string of 64 hexadecimal digits, or as a passphrase of 8 to 63 characters.
+
+WPA also includes a message integrity check, which is designed to prevent an attacker from altering and resending data packets.
+
+WPA-Personal mode is available with both WPA and WPA2.

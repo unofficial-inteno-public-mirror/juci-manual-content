@@ -1,0 +1,23 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>999}}
+
+# Processes
+
+The **Processes** view shows information about system processes and CPU usage.
+
+## Overview
+
+The overview shows a summary of the processes:
+
+^ Item ^ Description ^ Comment ^
+| Total number of processes |  | 96 |
+| Total CPU usage |  | 9% |
+
+###  Process Detail Toggle
+
+You can access detailed realtime information about running processes, by clicking the information toggle.
+
+To open the **Details** view:
+
+* Click **Click here to view details**

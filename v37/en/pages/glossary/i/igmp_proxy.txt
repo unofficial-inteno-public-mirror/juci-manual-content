@@ -1,0 +1,5 @@
+
+
+# IGMP Proxy
+
+An Internet Group Management Protocol (IGMP) Proxy is a setting to enable the device to handle IGMP host tasks such as sending membership and leave group membership reports to groups.

@@ -1,0 +1,36 @@
+
+{{indexmenu_n>30}}
+
+# Class
+
+The **class** tab lets you manage QoS [classes](/glossary/q/qos_class).
+
+##
+
+At the top of the page is a list of selectable classes.
+
+When a particular class is selected, details about it is shown in the configuration section.
+
+^ Item ^ Description ^
+| Priority | Bandwidth allocation limit (%). |
+| Average Rate | Average target rate (%). |
+| Limit Rate | Bandwidth rate limit (%). |
+| Packet Size | Size of packets (bytes). |
+| Packet Delay | Target delay for packets (ms). |
+| Max Size | Maximum size of packets (bytes). |
+
+
+### Add Class
+
+You can add as many classes as you like.
+
+To add a class:
+
+* Click the **Add** button
+
+* Enter a **Name** for the class
+
+* Enter QoS values as needed.
+
+* Click **Apply**
+

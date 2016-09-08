@@ -1,0 +1,16 @@
+
+
+# WPA2 PSK
+
+Short for Wi-Fi Protected Access 2 – Pre-Shared Key, and also called WPA2 Personal, it is a method of securing your network using Pre-Shared Key (PSK) authentication,
+
+Wi-Fi Protected Access 2 Personal uses pre-shared passphrases between 8 and 63 characters long.
+
+The wireless device converts the preshared key to a hash and uses that for communication authentication.
+
+
+
+
+
+
+

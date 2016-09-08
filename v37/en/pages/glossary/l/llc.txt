@@ -1,0 +1,5 @@
+
+
+# LLC
+
+The logical link control (LLC) layer provides multiplexing to enable different network protocols to coexist and be transported over the same network medium.

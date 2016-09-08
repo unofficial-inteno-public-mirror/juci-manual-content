@@ -1,0 +1,15 @@
+{{indexmenu_n>1110}}
+
+# IPv6 Tunnel in IPv4
+
+A IPv6 Tunnel in IPv4 connection uses IPv4 to transmit IPv6 traffic.
+
+##
+
+{{page>/glossary/0/6in4}}
+
+##
+
+{{page>./general}}
+
+{{page>./advanced}}

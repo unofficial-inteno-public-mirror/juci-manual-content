@@ -1,0 +1,13 @@
+
+
+# WMM
+
+WMM ([WiFi](/glossary/w/wifi) Multimedia) improves quality of service on a network by prioritizing data by four configrable categories:
+
+**Voice**: Voice packets for Voice over IP (VoIP) calls.
+
+**Video**: Video packets for support of TV streams.
+
+**Best effort**: Support for legacy devices or devices lacking QoS standards.
+
+**Background**: File downloads, print jobs and other traffic that does not suffer from increased latency.

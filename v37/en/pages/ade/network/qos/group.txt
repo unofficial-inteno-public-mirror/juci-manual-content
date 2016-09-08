@@ -1,0 +1,39 @@
+
+
+{{indexmenu_n>40}}
+
+# Classification Group
+
+The **Classification Group** tab lets you manage groupings of QoS [classes](/glossary/q/qos_class).
+
+##
+
+At the top of the page is a list of selectable classification groups.
+
+When a particular group is selected, details about it is shown in the configuration section.
+
+^ Item ^ Description ^
+| Default Class | Fallback class. |
+| Classes | Classes to include in the group. |
+
+
+### Add Classification Group
+
+You can add as many classes as you like.
+
+To add a class:
+
+* Click the **Add** button
+
+* Enter a **Name** for the group
+
+* Select **Default group**
+
+* Add classes as needed:
+
+    * Click **Add a new class**
+
+    * Select the desired class from the list
+
+* Click **Apply**
+

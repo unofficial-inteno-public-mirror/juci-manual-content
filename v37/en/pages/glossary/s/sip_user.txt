@@ -1,0 +1,6 @@
+
+
+# SIP User
+
+A SIP User is the identifier for a [SIP account](/glossary/s/sip_account). This may be a phone number.
+

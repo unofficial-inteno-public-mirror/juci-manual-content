@@ -1,0 +1,5 @@
+
+
+# DCPM
+
+Differential Pulse-Code Modulation (DPCM) is a signal encoding method that uses [pulse code modulation](/glossary/p/pcm) as a baseline and then compares nearby values to encode a difference instead of a fixed value.

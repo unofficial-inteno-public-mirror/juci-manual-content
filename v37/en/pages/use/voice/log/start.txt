@@ -1,0 +1,1 @@
+../../../ade/voice/log/start.txt

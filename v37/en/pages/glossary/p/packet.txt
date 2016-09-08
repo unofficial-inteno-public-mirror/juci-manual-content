@@ -1,0 +1,5 @@
+# Packet
+
+A packet is a portion of data that transmitted between a source and destination in a network. It normally a smaller part of some larger unit of data, which is tagged with an identification number and an address. When all packets for a specific data unit arrives at their destination, they are reassembled to form the original data.
+
+Division into packets, transmission and reassembly is governed by a transmission  [protocol](/glossary/p/protocol).

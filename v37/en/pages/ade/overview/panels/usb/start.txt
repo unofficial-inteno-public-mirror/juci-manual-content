@@ -1,0 +1,11 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>40}}
+
+# USB
+
+The **USB** panel displays the status of any connected [USB](/glossary/u/usb) devices.
+
+##
+
+![USB panel](./main.png)

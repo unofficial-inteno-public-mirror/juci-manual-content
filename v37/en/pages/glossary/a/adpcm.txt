@@ -1,0 +1,5 @@
+
+
+# ADPCM
+
+Adaptive Differential Pulse-Code Modulation (ADPCM) is a [differential pulse-code modulation](/glossary/d/dpcm) variant where the size of [quantization](/glossary/q/quantization) ranges is modified with a scaling factor before encoding. This means that the bandwidth requiremetns are reduced.

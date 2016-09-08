@@ -1,0 +1,23 @@
+
+
+#  WiFi Mode
+
+The WiFi Mode defines which to use for wireless communication in the network.
+
+###  Auto
+
+The Auto Mode allows the device to automatically select a suitable profile among the available options.
+
+
+{{page>/glossary/0/802_11a}}
+
+{{page>/glossary/0/802_11ac}}
+
+{{page>/glossary/0/802_11b}}
+
+{{page>/glossary/0/802_11bg}}
+
+{{page>/glossary/0/802_11g}}
+
+{{page>/glossary/0/802_11n}}
+

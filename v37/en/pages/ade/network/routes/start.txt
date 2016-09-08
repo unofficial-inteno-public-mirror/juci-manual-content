@@ -1,0 +1,25 @@
+
+
+{{indexmenu_n>140}}
+
+# Routes
+
+Static routes are useful if you have several networks accessible from your router and you want to correctly route packets between them.
+
+
+##
+
+{{page>./ipv4}}
+
+{{page>./ipv6}}
+
+
+## Add Static Route
+
+To add a static route:
+
+* Click the {{/icon/add.png}} **add** button
+
+* Enter information for the route fields.
+
+* Click **Apply**

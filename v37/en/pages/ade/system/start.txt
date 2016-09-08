@@ -1,0 +1,33 @@
+{{indexmenu_n>60}}
+
+# System
+
+The **System** view provides access to device information, management, provisioning and settings.
+
+##
+
+{{page>./general/start}}
+
+{{page>./menu/start}}
+
+{{page>./passwords/start}}
+
+{{page>./firmware/start}}
+
+{{page>./restore/start}}
+
+{{page>./iup/start}}
+
+{{page>./tr69/start}}
+
+{{page>./management/start}}
+
+{{page>./hardware/start}}
+
+{{page>./power/start}}
+
+{{page>./services/start}}
+
+{{page>./restart/start}}
+
+

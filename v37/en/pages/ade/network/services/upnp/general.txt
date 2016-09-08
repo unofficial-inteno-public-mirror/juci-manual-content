@@ -1,0 +1,22 @@
+{{indexmenu_n>20}}
+
+# General
+
+The **General** tab allows you to enable and configure the service parameters.
+
+##
+
+| Automatically Start Service At Bootup  | Enable upnp daemon at boot time |
+| Start / Stop Service | Start/stop upnp daemon. |
+| Enable UPNP
+Enable UPNP protocol
+
+| Enable NAT-PMP | Enable [NAT-PMP](/glossary/n/nat_pmp) protocol. |
+| Enable secure mode | Only add forwards to requesting ip addresses. |
+| Enable additional logging | Aadd extra debugging information to the system log. |
+| Downlink | Nominal uplink speed (KByte/s). |
+| Uplink | Nominal downlink speed (KByte/s). |
+| Port | [Port](/glossary/p/port) for the service. |
+| External Interface | Interface for external access. |
+| Internal Interface | Interface to use for local access. |
+

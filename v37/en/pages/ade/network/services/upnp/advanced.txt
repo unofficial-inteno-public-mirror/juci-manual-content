@@ -1,0 +1,17 @@
+{{indexmenu_n>30}}
+
+# Advanced
+
+The **Advanced** tab lets you configure advanced [UPNP](/glossary/u/upnp) settings.
+
+##
+
+^  ^  ^
+| Device UUID | [UUID](/glossary/u/uuid) |
+| Announced serial number | Serial number to show to clients. |
+| Announced model number | Model number to show to clients. |
+| Notify interval | Time between notification messages. |
+| Clean rules threshold | Number of rules to keep. |
+| Clean rules interval | Time between cleaning of UPnP rules. |
+| Presentation URL | Location for service control web interface.  |
+| UPnP lease file | Location for file containing leases. |

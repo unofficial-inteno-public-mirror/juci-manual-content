@@ -1,0 +1,15 @@
+{{indexmenu_n>20}}
+
+# General
+
+The general tab contains status information and settings relating to the protocol.
+
+##
+
+^ Item ^ Description ^
+| Status | Connection status. |
+| Device | Device for the connection. |
+| Protocol | Protocol in use. |
+| DS-Lite AFTR address | Address to [Address Family Transition Router](/glossary/a/aftr). |
+| Local IPv6 address | [IPv6](/glossary/i/ipv6) address to use instead of WAN address. |
+

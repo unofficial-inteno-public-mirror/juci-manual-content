@@ -1,0 +1,5 @@
+
+
+# PPPoA
+
+PPP over ATM (PPPoA) is a protocol using [PPP](/glossary/p/ppp) to provide an [DSL](/glossary/d/dsl) Internet connection over [Ethernet](/glossary/a/atm).

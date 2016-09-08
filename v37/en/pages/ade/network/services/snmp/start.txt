@@ -1,0 +1,23 @@
+{{indexmenu_n>80}}
+
+# SNMP
+
+The **SNMP Configuration** view lets you configure the [Simple Network Management Protocol](/glossary/s/snmp) service.
+
+##
+
+The SNMP settings are divided into tabs.
+
+{{page>./system}}
+
+{{page>./agent}}
+
+{{page>./com2sec}}
+
+{{page>./group}}
+
+{{page>./view}}
+
+{{page>./access}}
+
+{{page>./pass}}

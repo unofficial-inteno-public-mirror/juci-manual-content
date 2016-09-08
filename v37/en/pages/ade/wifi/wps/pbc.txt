@@ -1,0 +1,25 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>30}}
+
+# WPS-PBC: Push Button on Device
+
+The WPS-PBC: Push Button on Device section lets you [pair](/glossary/p/pairing) your devices.
+
+##
+
+^ Item ^ Comment ^
+| Enable WPS button on device | Turn on or off. |
+| Pressing WiFi on/off button on your device for long time activates pairing | Turn on or off. |
+| Pair (within 2 minutes) | Pair button. |
+
+
+## Pairing Your Device
+
+To a device via WPS:
+
+* Click the **Pair** button
+
+* Press the corresponding button on the device you wish to connect
+
+Your device will be open for pairing for two minutes.
