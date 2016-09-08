@@ -46,3 +46,5 @@ crashlytics-build.properties
 fabric.properties
 /inteno_content.iml
 /.idea/
+.DS_Store
+v37/
