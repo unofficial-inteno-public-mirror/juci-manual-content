@@ -1,0 +1,5 @@
+
+
+# IPv4 Broadcast Address
+
+Broadcast addresses in IPv4 networks are special values in the host-identification part of an IP address.

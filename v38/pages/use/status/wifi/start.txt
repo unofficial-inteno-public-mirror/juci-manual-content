@@ -1,0 +1,14 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>30}}
+
+# WiFi Status
+
+The **WiFi Status** view shows information about the wireless network, and allows you
+ to scan the local area for other wireless access points.
+
+##
+
+{{page>./general/start}}
+
+{{page>./scan/start}}

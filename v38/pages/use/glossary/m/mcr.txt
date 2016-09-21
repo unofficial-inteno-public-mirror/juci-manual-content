@@ -1,0 +1,5 @@
+
+
+# MCR
+
+The Minimum Cell Rate (MCR) defines the lowest rate at which cells can be transported in an [ATM](/glossary/a/atm) connection.

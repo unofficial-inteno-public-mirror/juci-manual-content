@@ -1,0 +1,5 @@
+
+
+# PSK
+
+A Pre-Shared Key (PSK) is a shared secret which was previously shared between the two parties using some secure channel before it is used.

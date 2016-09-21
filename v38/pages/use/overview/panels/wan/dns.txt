@@ -1,0 +1,32 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>31}}
+
+# Edit DNS Servers
+
+The **Edit DNS Server** dialog allows you to view automatically acquired [DNS servers](/glossary/d/dns_server), and add or remove custom DNS servers.
+
+##
+
+The Acquired DNS servers section shows DNS servers that have been added automatically added from the WAN connections.
+
+![DNS Server Settings](./dns.png)
+
+
+### Add/Remove custom DNS Servers
+
+You can add as many custom DNS servers as you like, but they must be unique.
+
+To add a custom DNS server:
+
+* Click the {{/icon/add.png}} **add** button
+
+* Add the IP numbers to the DNS server
+
+* Click **Save**
+
+To remove a custom DNS server:
+
+* Click the {{/icon/delete.png}} **delete** button next to the item to delete
+
+* Click **Save**

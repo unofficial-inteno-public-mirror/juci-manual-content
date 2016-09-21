@@ -1,0 +1,6 @@
+
+
+# IUP
+
+Inteno Universal Provisioning (IUP) is a technology for automatic delivery of service configuration and device settings.
+

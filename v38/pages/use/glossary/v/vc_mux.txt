@@ -1,0 +1,8 @@
+
+
+# VC-MUX
+
+Virtual Circuit Multiplexing (VC-MUX) is a method for identifying the protocol carried in [frames](/glossary/f/frame) used in [ATM](/glossary/a/atm).
+
+Using virtual circuit multiplexing, hosts agree on the high-level protocol for a given circuit. Each high-level protocol requires a separate virtual circuit.
+

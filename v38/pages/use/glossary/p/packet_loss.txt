@@ -1,0 +1,5 @@
+
+
+# Packet Loss
+
+When packets are transmitted in a network they may travel different routes from source to destination. This means there is no guarantee that packets will arrive in time or arrive at all. They may also be denied at the receiver due to a full buffer or other issues. A collective term this is packet loss.

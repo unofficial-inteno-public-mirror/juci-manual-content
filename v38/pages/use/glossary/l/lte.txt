@@ -1,0 +1,10 @@
+
+
+# LTE
+
+Long-Term Evolution (LTE) is a standard for high-speed wireless communication for mobile phones and data terminals, based on [GSM](/glossary/g/gsm) and [UMTS](/glossary/u/umts).
+
+
+
+
+

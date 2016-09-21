@@ -1,0 +1,5 @@
+
+
+# Static Route
+
+A static route is a manually entered route to a network destination, which is used instead of any routes discovered automatically.

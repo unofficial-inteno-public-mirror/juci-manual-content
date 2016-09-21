@@ -1,0 +1,47 @@
+{{indexmenu_n>20}}
+
+# WiFi Scan
+
+The **WiFi scan** view allows you to scan the area around the device to find out what other access points are visible.
+
+### Chart
+
+The scan results table displays all detected access points and information about each in a graphical manner.
+
+![Graph](./graph.png)
+
+#### Axes
+
+The horizontal axis shows the discovered [channels](/glossary/w/wifi_channel).
+
+The vertical axis shows the signal strength, according to [RSSI](/glossary/r/rssi).
+
+^ Color ^ Description ^ Comment ^
+| Red | Poor. |  |
+| Yellow | Acceptable. |  |
+| Green | Good. |  |
+
+
+### Table
+
+The scan results table displays all detected access points and information about each:
+
+^ Column ^ Description ^ Comment ^
+| SSID | [SSID](/glossary/s/ssid) identifying the [access point](/glossary/a/access_point). |  |
+| Frequency | [WiFi frequency band](/glossary/w/wifi_band) for the access point. |  |
+| Channel | [Channel](/glossary/w/wifi_channel) used by the access point. |  |
+| RSSI | [RSSI](/glossary/r/rssi) strength for the signal. |  |
+| Noise | [Noise level](/glossary/n/noise_level) for the connection to the access point. |  |
+| Cipher | [Cipher](/glossary/c/cipher) used for encryption in the access point. |  |
+| WPS | [WPS](/glossary/w/wps) version used by the access point. |  |
+
+
+## Scan WiFi
+
+To scan a frequency band:
+
+* Select **Frequency to Scan**
+
+* Click **Scan**
+
+The results for the selected band are displayed in the graph and table.

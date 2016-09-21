@@ -1,0 +1,7 @@
+
+
+# SNR Margin
+
+The SNR margin is the difference between the current [Signal to Noise Ratio](/glossary/s/snr) and minimal SNR required to sync at a specific transfer speed.
+
+Higher SNR margin means a better signal, with less background noise, which in turn means a more stable the connection.

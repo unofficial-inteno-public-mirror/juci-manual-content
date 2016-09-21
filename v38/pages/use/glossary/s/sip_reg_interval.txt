@@ -1,0 +1,5 @@
+
+
+# SIP Reg Interval
+
+The SIP Reg Interval is how often connections to a [SIP](/glossary/s/sip) provider is updated. This is normally done by updating the registration with the server.

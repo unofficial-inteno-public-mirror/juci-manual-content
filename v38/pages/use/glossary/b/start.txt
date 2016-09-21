@@ -1,0 +1,5 @@
+{{indexmenu_n>102}}
+
+# B
+
+{{pagequery>@* *;sort=a,name;display={title};group;cols=3;filter=!name:start}}

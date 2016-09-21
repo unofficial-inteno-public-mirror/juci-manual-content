@@ -1,0 +1,127 @@
+
+overview
+
+voice-call-log
+
+voice-sip-accounts
+
+voice-sip-users
+
+voice-lines
+
+voice-advanced-settings
+  voice-advanced-settings-sip
+  voice-advanced-settings-lines
+  voice-advanced-settings-dialplan
+
+voice-number-blocking
+
+voice-ringing-schedule
+
+voice-speed-dialing
+
+voice-dect
+
+
+internet-ethernet
+  page-broadcom-ethernet-phy
+  page-broadcom-adsl
+  page-broadcom-vdsl
+  page-broadcom-ethernet-vlan
+
+network-xdsl
+
+internet-network
+
+internet-routes
+
+internet-firewall
+  internet-firewall-zones
+  internet-firewall-rules
+  internet-firewall-port-mapping
+  internet-firewall-dmz
+
+internet-parental-control
+
+juci-inteno-qos
+
+internet-multiwan
+
+internet-services-title
+  internet-services-printer
+  internet-services-minidlna
+  upnpd-settings
+  internet-services-ddns
+  broadcom-iptv
+  dhcp-settings
+  snmpd-config
+  internet-services-samba
+
+wireless-interfaces-general
+  wireless-devices-radios
+  wireless-interfaces
+
+wireless-wps
+
+wireless-filtering
+
+
+
+settings-system
+  settings-system-timeservers
+  settings-system-log
+
+
+settings-users
+
+settings-password
+
+settings-upgrade
+  settings-upgrade-options
+
+settings-configuration
+  inteno-backup-settings
+
+settings-provisioning-iup
+
+icwmp-config
+
+settings-management
+  settings-management-owsd
+  settings-management-dropbear
+  internet-firewall-services
+
+settings-hardware-buttons
+  settings-hardware-buttons
+  settings-hardware-leds
+
+broadcom-pwrmgmt
+
+settings-services
+
+settings-restart
+
+status-system
+  status-system-processes
+
+status-network
+  netifd-status-clients
+  status-network-routes
+  upnpd-status
+  dhcp-status
+  status-network-nat
+
+wireless-status
+    wireless-status-scan
+
+page-broadcom-dsl-status
+
+status-tv
+
+status-usb
+
+status-diagnostics
+  status-diagnostics-speedtest
+
+status-phone
+status-events

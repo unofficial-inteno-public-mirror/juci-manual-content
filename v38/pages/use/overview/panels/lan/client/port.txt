@@ -1,0 +1,58 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>22}}
+
+# Port Forwarding
+
+In the **Port Forwarding** tab you can map incoming connections on different [ports](/glossary/p/port) to ports on the client.
+
+
+## Mapping Section
+
+^ Item ^ Description ^
+| Name | Port name. |
+| Excluded ports | Protected ports that can't be mapped.  |
+| Public port | Public (external) port. |
+| Private port | Private (client) port. |
+| Protocol | Protocol. |
+
+
+###  Protocol
+
+The protocol setting filters traffic by protocol for the port forward.
+
+^ Protocol ^ Description ^
+| TCP + UDP | Both [TCP](/glossary/t/tcp) and [UDP](/glossary/u/udp). |
+| TCP | [TCP](/glossary/t/tcp) only. |
+| UDP | [UDP](/glossary/u/udp) only.  |
+| All | Any protocol. |
+
+
+
+## Mapping Settings
+
+To map incoming connections:
+
+* Click **Add mapping** to open the mapping section
+
+The mapping section lets you add configuration settings for the mapping.
+
+Ports can be added one by one (`80`), as comma-separated lists (`8080, 8090`) or as ranges (`21-22`).
+
+* Add information:
+
+    * Add a name as identification
+
+    * Add ports:
+
+        * Add public/incoming port(s)
+
+        * Add private/client port(s)
+
+    * Select protocol
+
+* Click **Save**
+
+* Click **Close**
+
+Your information has now been saved and is visible in the mapping list.

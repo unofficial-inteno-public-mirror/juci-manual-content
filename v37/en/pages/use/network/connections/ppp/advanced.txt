@@ -1,1 +1,0 @@
-../../../../ade/network/connections/ppp/advanced.txt

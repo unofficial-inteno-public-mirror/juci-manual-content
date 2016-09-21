@@ -1,0 +1,5 @@
+
+
+# Auto-Negotiation
+
+Auto-negotiation is a method in Ethernet where two devices agree on the best performance transmission mode they both support.

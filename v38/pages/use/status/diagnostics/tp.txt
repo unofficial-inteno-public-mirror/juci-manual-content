@@ -1,0 +1,62 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>30}}
+
+# Speed Test
+
+The **Speed Test** view allows you to perform a [TP Test](/glossary/t/tptest) for your network, using your device as the endpoint.
+
+
+## Configuration
+
+^ Option ^ Description ^ Comment ^
+| Direction | Traffic direction to test. | `Up and Down`, `Up`, `Down`. |
+| Package Size | Size of test [data packages](/glossary/d/data_package) to send. | Size of test packages to send. |
+| Speedtest Server | Server to use for the test. | A number of default servers are provided, but you can edit the list. |
+
+
+### Perform Speed Test
+
+
+#### Example
+
+**Test results:**
+
+```
+Downstream: 103.45 Mbit/s
+Upstream: 44.10 Mbit/s
+```
+
+### Add test server
+
+If you have additional test servers you want to use, you can add them to the dropdown list.
+
+To add a test server:
+
+* Click the **+** plus sign
+
+A dialog is shown allowing you to enter parameters:
+
+^ Option ^ Description ^ Comment ^
+| Hostname | Test Server [hostname](/glossary/h/hostname) |  |
+| Port  | Test server [port](/glossary/p/port) |  |
+
+
+* Add a valid Server **Hostname**
+
+* Add a valid server **Port**
+
+* Click **OK**
+
+
+### Remove test server
+
+Servers in the test server list can be removed.
+
+To remove a test server:
+
+* Select the server in the **Speedtest Server** list
+
+* Click the **-** minus sign
+
+The server is removed from the list immediately.

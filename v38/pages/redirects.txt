@@ -1,0 +1,127 @@
+*:glossary:*   $1:glossary:$1
+
+overview    :overview:start
+
+voice-call-log  :voice:log:start
+
+voice-sip-accounts  :voice:accounts:start
+
+voice-sip-users :voice:users:start
+
+voice-lines :voice:lines:start
+
+voice-advanced-settings :voice:advanced:start
+  voice-advanced-settings-sip   :voice:advanced:sip:start
+  voice-advanced-settings-lines :voice:advanced:line:start
+  voice-advanced-settings-dialplan  :voice:advanced:dialplan:start
+
+voice-number-blocking   :voice:blocking:start
+
+voice-ringing-schedule  :voice:schedule:start
+
+voice-speed-dialing :voice:dialing:start
+
+voice-dect  :voice:dect:start
+
+
+internet-ethernet   :network:devices:base:start
+  page-broadcom-ethernet-phy :network:devices:ethernet:start
+  page-broadcom-adsl    :network:devices:adsl:start
+  page-broadcom-vdsl    :network:devices:vdsl:start
+  page-broadcom-ethernet-vlan   :network:devices:vlan:start
+
+network-xdsl    :network:xsdl:start
+
+internet-network     :network:connections:start
+
+internet-routes  :network:routes:start
+
+internet-firewall   :network:firewall:start
+  internet-firewall-zones   :network:firewall:zones:start
+  internet-firewall-rules   :network:firewall:rules:start
+  internet-firewall-port-mapping    :network:firewall:forwarding:start
+  internet-firewall-dmz :network:firewall:dmz:start
+
+internet-parental-control :network:parental:start
+
+juci-inteno-qos :network:qos:start
+
+internet-multiwan   :network:multiwan:start
+
+internet-services :network:services:start
+  internet-services-printer :network:services:printer:start
+  internet-services-minidlna    :network:services:minidlna:start
+  upnpd-settings    :network:services:upnp:start
+  internet-services-ddns    :network:services:ddns:start
+  broadcom-iptv :network:services:iptv:start
+  dhcp-settings :network:services:dhcp:start
+  snmpd-config  :network:services:sndmp:start
+  internet-services-samba   :network:services:samba:start
+
+wireless-interfaces :wifi:general:wireless:start
+  wireless-interfaces-general :wifi:general:wireless:start
+  wireless-devices-radios   :wifi:general:radios:start
+
+wireless-wps    :wifi:wps:start
+
+wireless-filtering  :wifi:mac:start
+
+settings-system :system:general:start
+  settings-system-timeservers   :system:general:time
+  settings-system-log   :system:general:log
+
+settings-users  :system:menu:start
+
+settings-password   :system:password:start
+
+settings-upgrade   :system:upgrade:start
+  settings-upgrade-options  :system:upgrade:options:start
+
+settings-configuration  :system:restore:start
+  inteno-backup-settings    :system:restore:settings:start
+
+settings-provisioning-iup   :system:iup:start
+
+icwmp-config    :system:tr69:start
+
+
+settings-management :system:management:start
+  settings-management-owsd  :system:management:owsd
+  settings-management-dropbear  :system:management:ssh
+  internet-firewall-services    :system:management:services
+
+settings-hardware   :system:hardware:start
+  settings-hardware-buttons :system:hardware:buttons
+  settings-hardware-leds    :system:hardware:leds
+
+broadcom-pwrmgmt    :system:power:start
+
+settings-services   :system:services:start
+
+settings-restart    :system:restart:start
+
+status-system   :status:system:general:start
+  status-system-processes   :status:system:process:start
+
+status-network  :status:network:start
+  netifd-status-clients :status:network:clients:start
+  status-network-routes :status:network:routing:start
+  upnpd-status  :status:network:upnp:start
+  dhcp-status   :status:network:dhcp:start
+  status-network-nat    :status:network:nat:start
+
+wireless-status  :status:wifi:general:start
+    wireless-status-scan    :status:wifi:scan:start
+
+page-broadcom-dsl-status     :status:dsl:start
+
+status-tv    :status:igmp:start
+
+status-usb    :status:usb:start
+
+status-diagnostics       :status:diagnostics:start
+  status-diagnostics-speedtest  :status:diagnostics:tp:start
+
+status-phone    :status:voice:start
+
+*:status-events   $1:status:log:start

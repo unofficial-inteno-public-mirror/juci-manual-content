@@ -1,0 +1,6 @@
+
+
+# Wireless radio
+
+A wireless radio is the device sending out a wireless signal. Each radio can have several [interfaces](/glossary/w/wifi_interface) associated with it.
+
