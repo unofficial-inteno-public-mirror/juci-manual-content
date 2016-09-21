@@ -1,0 +1,17 @@
+{{indexmenu_n>1150}}
+
+# Point-to-Point Protocol over L2TP
+
+A Point-to-Point Protocol over L2TP connection uses PPP and L2TP server to establish the network.
+
+##
+
+{{page>/glossary/p/ppp}}
+
+{{page>/glossary/l/l2tp}}
+
+##
+
+{{page>./general}}
+
+{{page>./advanced}}

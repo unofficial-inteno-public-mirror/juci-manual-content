@@ -1,0 +1,5 @@
+
+
+# Samba
+
+Samba is an open source software that provides file and print services between Linux/Unix servers and Windows-based clients.

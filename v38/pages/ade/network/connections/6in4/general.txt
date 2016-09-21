@@ -1,0 +1,18 @@
+{{indexmenu_n>20}}
+
+# General
+
+The general tab contains status information and settings relating to the protocol.
+
+##
+
+^ Item ^ Description ^
+| Status | Connection status. |
+| Device | Device for the connection. |
+| Protocol | Protocol in use. |
+| Local IPv4 address | IPv4 address to use instead of WAN address.  |
+| Remote IPv4 address | Address to use tunnel broker [Point of Presence](/glossary/p/pop) |
+| Local IPv6 address | Endpoint provided by the tunnel broker. |
+| IPv6 routed prefix | Prefix to be used by clients. |
+| Dynamic tunnel | Dynamic update of endpoint. |
+

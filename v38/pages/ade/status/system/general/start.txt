@@ -1,0 +1,22 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>10}}
+
+# System Status
+
+The **System Status** overview shows basic data about the device.
+
+## Configuration
+
+^ Option ^ Description ^ Sample value ^
+| Hostname | The [hostname](/glossary/h/hostname) for the gateway. | Inteno |
+| Model | Gateway model. | DG400A |
+| Firmware Version | Version of installed firmware. | DG400-WU7U_INT3.5.5-160513_1617 |
+| Kernel Version | The gateway operating system kernel version. | 3.4.11-rt19 |
+| Filesystem | Filesystem used in gateway storage. | [UBIFS](/glossary/u/ubifs) |
+| BRCM Version | Version number for the Broadcom driver. | 4.16L.04 |
+| Local Time | Time according to the gateway internal clock. | Mon May 23 2016 17:21:12 GMT+0200 (CEST) |
+| Uptime | Time the gateway has been runnning since last startup. | 5d 2h 53m 14s |
+| CPU | Percentage of CPU processing in use. | 0% |
+| Active Connections | Number and percentage of connections to the gateway. | 259 / 7660 (3%) |  |
+

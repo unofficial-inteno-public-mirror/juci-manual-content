@@ -1,0 +1,16 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>30}}
+
+# MiniDLNA
+
+The **MiniDLNA** view lets you configure the [MiniDLNA](/glossary/m/minidlna) server.
+
+##
+
+The MiniDLNA settings are divided into tabs.
+
+{{page>./general}}
+
+{{page>./advanced}}
+

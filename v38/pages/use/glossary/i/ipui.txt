@@ -1,0 +1,5 @@
+
+
+# IPUI
+
+International Portable User Identity (IPUI), is a unique identifier for each DECT Handset, allowing it to be assigned a [SIP](/glossary/s/sip) identity. The identifier is a 10-digit (40-bit) hexadecimal code

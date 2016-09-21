@@ -1,0 +1,7 @@
+
+
+# Access point
+
+An access point is a device or interface that connects users to other users within the network. I can also serve as the point of interconnection between the [WLAN](/glossary/w/wlan) and a fixed wire network.
+
+The number of required access points depends on the number of network users and the area the network covers.

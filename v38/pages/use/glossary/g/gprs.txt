@@ -1,0 +1,7 @@
+
+
+# GPRS
+
+General Packet Radio Service (GPRS) is a mobile data service for mobile communication over [2G](/glossary/0/2g) and [3G](/glossary/0/3g).
+
+

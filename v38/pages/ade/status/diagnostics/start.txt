@@ -1,0 +1,17 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>70}}
+
+# Diagnostics
+
+The **Diagnostic Utility** allows you to perform diagnostic tests from the web interface.
+
+##
+
+{{page>./ping}}
+
+
+{{page>./trace}}
+
+
+{{page>./tp}}

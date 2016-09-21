@@ -1,0 +1,5 @@
+
+
+# MBS
+
+Maximum Burst Size (MBS) is the maximum size of [cells](/glossary/c/cell) that can be transmitted in direct sequence on a particular connection.

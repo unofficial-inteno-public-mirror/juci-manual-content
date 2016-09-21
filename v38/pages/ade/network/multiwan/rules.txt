@@ -1,0 +1,34 @@
+{{indexmenu_n>999}}
+
+# Traffic Rules
+
+The **Traffic Rules** tab allows you to filter LAN traffic and assign it to the appropriate WAN.
+
+##
+
+At the top of the page is a list of rules.
+
+When a particular rule is selected, details about it is shown in the configuration section.
+
+^ Item ^ Description ^
+| Source Address | Originating device. |
+| Destination Address | External target address. |
+| Protocol | Protocol affected: ([UDP](/glossary/u/udp) / [TCP](/glossary/t/tcp) / [ICMP](/glossary/i/icmp) |
+| Ports |[Port](/glossary/p/port)  |
+| WAN Uplink | Target WAN or balancing option. |
+
+
+### Add Rule
+
+You can add as many rules as you like.
+
+To add a rule:
+
+* Click the **Add** button
+
+A new rule is added to the list.
+
+* Edit the parameters as needed.
+
+* Click **Apply**
+

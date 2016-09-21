@@ -1,0 +1,11 @@
+
+
+# Port Speed
+
+Port speed settings affect how a LAN or WAN port negotiates the speed setting.
+
+Negotiation can be turned off (speed setting: **only**) or use [Autonegotiation](/glossary/a/auto_negotiation) (speed setting **max**) to determine actual speed.
+
+Communication on a port can be either half or full [duplex](/glossary/d/duplex).
+
+A port that is set to **disabled** does not handle any traffic.

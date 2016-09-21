@@ -1,0 +1,9 @@
+
+
+# PID
+
+The PID – Process ID – is an unique idenitifer for a process, assigned to it when it is loaded into memory.
+
+
+
+

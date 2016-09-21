@@ -1,0 +1,5 @@
+
+
+# Iopsys
+
+Iopsys stands for Inteno Open Platform System. It combines the efficiency and power of the SOC (System on Chip) with the [OpenWrt](/glossary/o/openwrt) open source distribution. It further enables the operator to leverage on the modularity of OpenWrt to integrate new applications to the CPE.

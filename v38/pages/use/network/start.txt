@@ -1,0 +1,27 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>40}}
+
+# Network
+
+The **Network** view provides access to the devices, connections and available configurations in the network.
+
+##
+
+{{page>./devices/start}}
+
+{{page>./xsdl/start}}
+
+{{page>./connections/start}}
+
+{{page>./routes/start}}
+
+{{page>./firewall/start}}
+
+{{page>./parental/start}}
+
+{{page>./qos/start}}
+
+{{page>./multiwan/start}}
+
+{{page>./services/start}}

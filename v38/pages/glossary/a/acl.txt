@@ -1,0 +1,5 @@
+
+
+# Access Control List
+
+An Access Control List (ACL) is an table containing permissions for a particular service or device, defining access to objects and allowed operations.

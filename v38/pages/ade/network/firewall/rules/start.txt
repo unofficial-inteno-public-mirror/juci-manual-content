@@ -1,0 +1,54 @@
+
+
+{{indexmenu_n>30}}
+
+# Rules
+
+Firewall rules are more fine grained filtering rules for filtering your traffic.
+
+##
+
+At the top of the page is a list of selectable interfaces.
+
+When a particular interface is selected, details about it is shown in the configuration section.
+
+Where applicable, the configuration is divided into separate sections for **source** and **destination** zones.
+
+^ Item ^ Description ^
+| Name | Identifier for the rule. |
+| Zone | Device / Any / LAN / WAN |
+| IP | [IPv4](/glossary/i/ipv4) / [IPv6](/glossary/i/ipv6) address. |
+| MAC | [MAC](/glossary/m/mac) address.  |
+| Port | [Port](/glossary/p/port) affected. |
+| IP version | Any / [IPv4](/glossary/i/ipv4) / [IPv6](/glossary/i/ipv6) |
+| Protocol | Protocol affected: ([UDP](/glossary/u/udp) / [TCP](/glossary/t/tcp) / [ICMP](/glossary/i/icmp) / TCP + UDP / [ESP](/glossary/e/esp)) |
+| Firewall action | [Firewall action](/glossary/f/firewall_action) to perform. |
+
+
+### Add Firewall Rule
+
+If you have networks/devices set up, you can add them to the zone.
+
+To add a device as a zone member:
+
+* Click the **Add** button
+
+The **Select network device** dialog opens.
+
+* Open the **Select network** menu
+
+* Select the device
+
+* Click **OK**
+
+* Click **Apply**
+
+
+### Reorder Firewall Rules
+
+The firewall rules are applied in order from top to bottom in the list.
+
+ You can rearrange the rules by using the buttons:
+
+| {{/icon/up.png}} | Move up |
+| {{/icon/down.png}} | Move down |

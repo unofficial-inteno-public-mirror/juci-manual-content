@@ -1,0 +1,8 @@
+
+
+# SIP Realm
+
+A SIP realm is a [SIP](/glossary/s/sip) authentication/authorization component, defining the set of usernames and passwords for a particular protection domain. The SIP realm does not have to be the same as a the [SIP domain](/glossary/s/sip_domain).
+
+The SIP Realm is used together with an [SIP authentication username](/glossary/s/sip_auth) to provide access to SIP services.
+

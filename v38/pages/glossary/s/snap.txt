@@ -1,0 +1,7 @@
+
+
+# SNAP
+
+The Subnetwork Access Protocol (SNAP) is an [LLC](/glossary/l/llc) extension used to distinguish additional higher layer protocols compared to [LSAP](/glossary/l/lsap).
+
+SNAP fields allow the receiving node to pass each received frame to an appropriate device driver which understands given protocol.

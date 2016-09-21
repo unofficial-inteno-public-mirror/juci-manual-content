@@ -1,0 +1,23 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>50}}
+
+# DHCP
+
+The **Active DHCP Leases** view shows the status of any [DHCP leases](/glossary/d/dhcp_lease) currently in use.
+
+### DHCPv4 Leases
+
+^ Column ^ Description ^
+| Hostname | Client [hostname](/glossary/h/hostname). | 
+| IPv4 Address | Client [IPv4 Address](/glossary/i/ip). | 
+| MAC Address | Client [MAC Address](/glossary/m/mac).  | 
+| Leasetime remaining | Time until the lease expires. |
+
+### DHCPv6 Leases
+
+^ Column ^ Description ^
+| Hostname | Client [hostname](/glossary/h/hostname). |
+| IPv6 Address | Client [IPv6 Address](/glossary/i/ip). |  
+| DUID | Client [DUID](/glossary/d/duid). |
+| Leasetime remaining | Time until the lease expires. |

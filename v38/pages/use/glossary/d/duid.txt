@@ -1,0 +1,5 @@
+
+
+# DUID
+
+The DHCP Unique IDentifier – DUID – is a unique identifier associated with each client and server in a [DHCP](/glossary/d/dhcp) environment. The DUID should be permanently stored and not changed.

@@ -1,0 +1,32 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>10}}
+
+# Status
+
+The **Network Status** view provides an overview of network elements for your device.
+
+##
+
+### WAN6
+
+The **WAN6** view shows information about any connected [IPv6](/glossary/i/ipv6) network.
+
+
+### LAN
+
+The **LAN** view shows information about the local network connected [IPv6](/glossary/i/ipv6) network.
+
+^ Option ^ Description ^ Comment ^
+| IP Address | [IP address](/glossary/i/ip) of the device on the local network. | Typically `192.168.1.1`. |
+
+
+### WAN
+
+The **WAN** view shows information about any connected [IPv4](/glossary/i/ipv4) network.
+
+^ Option ^ Description ^
+| IP Address | [IP address](/glossary/i/ip) for the device on the Internet.  |  |
+| Gateway | IP address to the internet [gateway](/glossary/g/gateway). |  |
+| Primary DNS | First priority [DNS server](/glossary/d/dns_server). |  |
+| Secondary DNS | Second priority [DNS server](/glossary/d/dns_server). |  |

@@ -1,0 +1,11 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>60}}
+
+# Expert Mode
+
+Expert mode provides access to a larger number of settings and aspects of features. This mode is suitable when you have deeper technical knowledge and want to do specific customizations or troubleshooting.
+
+## Features
+
+In expert mode, all Basic mode settings and views are also shown.

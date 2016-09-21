@@ -1,0 +1,23 @@
+
+
+# SRV
+
+A Service Record (SRV record) is a specification of data in the [Domain Name System](/glossary/d/dns) containing information about [IP](/glossary/i/ip) and [port](/glossary/p/port) for a specific service.
+
+It is used by domain servers to keep track of their own changes without having to contact a central DNS server.
+
+An SRV record has the form:
+
+`_Service._Proto.Name TTL Class SRV Priority Weight Port Target`
+
+^ Item ^ Description ^
+| Service | Identifier for the service. |
+| Proto | The service protocol. |
+| Name | Domain name where the record is valid. |
+| TTL | DNS [time to live](/glossary/t/ttl). |
+| Class | DNS class (IN for Internet). |
+| Priority | Target host priority, lower value means more preferred. |
+| Weight | A relative weight for records with the same priority. |
+| Port | Port for the service. |
+| Target | [Hostname](/glossary/h/hostname) for the service provider. |
+

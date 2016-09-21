@@ -1,0 +1,66 @@
+
+
+{{indexmenu_n>130}}
+
+# Connections
+
+The **Connections** view allows you configure various connection interfaces to use in your device.
+
+##
+
+At the top of the page is a list of selectable interfaces.
+
+When a particular interface is selected, details about it is shown in the connection section.
+
+The connection section consists of a number of tabs. The exact tabs can vary with connection type, but the standard tabs are General, Physical Settings, Advanced. Additional tab become visible as they are needed.
+
+### Add Connections
+
+You can add connections by clicking the **Add** button. This will open the **Create New Network Interface**  dialog.
+
+### Default Connections
+
+{{page>./lan/start}}
+
+{{page>./wan/start}}
+
+{{page>./wan6/start}}
+
+
+##
+
+{{page>./add}}
+
+### Connection Types
+
+{{page>./unmanaged/start}}
+
+{{page>./static/start}}
+
+{{page>./v4/start}}
+
+{{page>./v6/start}}
+
+{{page>./ppp/start}}
+
+{{page>./pppoe/start}}
+
+{{page>./pppoa/start}}
+
+{{page>./3g/start}}
+
+{{page>./4g/start}}
+
+{{page>./ptpt/start}}
+
+{{page>./6in4/start}}
+
+{{page>./6to4/start}}
+
+{{page>./6rd/start}}
+
+{{page>./ds_lite/start}}
+
+{{page>./pppol2tp/start}}
+
+

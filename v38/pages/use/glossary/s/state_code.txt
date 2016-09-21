@@ -1,0 +1,20 @@
+
+
+# State Code
+
+The process state code indicates the state for a process.
+
+^ Short Code ^ Meaning ^ Description ^
+| D | Uninterruptible sleep | Usually refers to IO processes. |
+| l | Is multi-threaded (using CLONE_THREAD, like NPTL pthreads do) |
+| L | Has pages locked into memory (for real-time and custom IO) |
+| N | Low-priority (nice to other users) |
+| R | Running runnable (on run queue) | |
+| s | Is a session leader |
+| S | Interruptible sleep | Waiting for an event to complete. |
+| T | Stopped | May have been stopped by control signal or trace. |
+| W | Paging | Storing or retrieving data. |
+| Z | Defunct ("zombie") process | Terminated but not collected by its parent process. |
+| < | High-priority | |
+| + | Belongs to foreground process group. | |
+

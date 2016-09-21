@@ -1,0 +1,19 @@
+{{indexmenu_n>1010}}
+
+# Unmanaged
+
+An unmanaged connection has no predefined protocol for the connection.
+
+##
+
+{{page>/glossary/u/unmanaged}}
+
+##
+
+{{page>./general}}
+
+{{page>./physical}}
+
+{{page>./advanced}}
+
+

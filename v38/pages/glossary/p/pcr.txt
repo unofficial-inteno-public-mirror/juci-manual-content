@@ -1,0 +1,5 @@
+
+
+# PCR
+
+Peak Cell Rate (PCR) defines the highest rate at which cells can be transported in an [ATM](/glossary/a/atm) connection.

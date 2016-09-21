@@ -1,0 +1,5 @@
+
+
+# 802.11a
+
+802.11a is a [wireless radio](/glossary/w/wireless_radio) specification for the 5 GHz band with a maximum data rate of 54 Mbit/s.

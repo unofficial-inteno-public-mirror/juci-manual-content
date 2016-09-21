@@ -1,0 +1,17 @@
+{{indexmenu_n>20}}
+
+# Line
+
+The **Advanced Line Settings** view lets you configure detailed parameters for your voice lines .
+
+##
+
+^ Item ^ Description ^
+| Locale selection | Country for device location. |
+| Enable Jitter Buffer | Turn jitter prevention buffer on or off. |
+| Force Jitter Buffer | Forces the receiver to use a [jitter buffer](/glossary/j/jitter_buffer). |
+| Jitter Buffer implementation | The type of [jitter buffer](/glossary/j/jitter_buffer) `Fixed` / `Adaptive`. |
+| Maximum Jitter Buffer size | Size of [jitter buffer](/glossary/j/jitter_buffer) (ms). |
+| Enable Packet Loss Concealment | Turn [PLC](/glossary/p/plc) on or off. |
+| Inter-digit timeout | Time between dialled digits before timing out (ms). |
+

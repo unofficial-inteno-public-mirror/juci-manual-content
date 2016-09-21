@@ -1,0 +1,6 @@
+
+
+# SCR
+
+Sustained Cell Rate (SCR) is the maximum average rate at which [cells](/glossary/c/cell) can be sent over the connection. SCR can never be greater than [PCR](/glossary/p/pcr).
+

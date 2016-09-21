@@ -1,0 +1,6 @@
+
+
+# RXC
+
+A RX chain is the transmit/receive signal processing hardware, such as a radio transceiver with its own antenna.
+

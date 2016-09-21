@@ -1,0 +1,56 @@
+
+
+{{indexmenu_n>50}}
+
+# Classify
+
+The **classify** tab lets you configure filtering parameters in order to have [Classification groups](/glossary/q/qos_group) applied to particular types of traffic.
+
+##
+
+At the top of the page is a list of selectable classification groups.
+
+When a particular group is selected, details about it is shown in the configuration section.
+
+Adding a parameter will filter out traffic according to the parameters and assign the target group to it.
+
+^ Item ^ Description ^
+| Target | [Group](/glossary/q/qos_group) to assign. |
+| Protocol | Protocol affected (All / [UDP](/glossary/u/udp) / [TCP](/glossary/t/tcp) / [ICMP](/glossary/i/icmp)). |
+| Source Host | (All / Specific host). |
+| Destination Host | (All / Specific host). |
+| Ports | Included [ports](/glossary/p/port) anywhere . |
+| Source Ports | Included [ports](/glossary/p/port) in source. |
+| Destination Ports | Included [ports](/glossary/p/port) in destination. |
+| Port Range | Range of [ports](/glossary/p/port) anywhere. |
+| Precedence | [Precedence ](/glossary/p/precedence).
+| Packet Size | Size of packets to match. |
+| Direction | (Both / In / Out) |
+| Mark | Hexadecimal code `0x000000`-`0xFFFFFF`. |
+| Connbytes | [Connection Bytes](/glossary/c/connection_bytes) |
+| TCP flags | [TCP Flags](/glossary/t/tcp_flags) |
+
+
+### Add Class
+
+You can add as many classes as you like.
+
+To add a class:
+
+* Click the **Add** button
+
+* Select **Classification group**
+
+* Enter QoS values as needed.
+
+* Click **Apply**
+
+
+### Reorder Class
+
+The classes are prioritized in order from top to bottom in the list.
+
+ You can rearrange the classes by using the buttons:
+
+| {{/icon/up.png}} | Move up |
+| {{/icon/down.png}} | Move down |

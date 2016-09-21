@@ -1,0 +1,6 @@
+
+
+# Codec
+
+A coder-decoder (codec) is a method for encoding or decoding digital data streams or signals. It uses various algorithms to encode data for transmission or storage, or decodes encoded data for use.
+

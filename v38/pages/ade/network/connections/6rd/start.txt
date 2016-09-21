@@ -1,0 +1,16 @@
+{{indexmenu_n>1130}}
+
+# IPv6 rapid deployment
+
+
+
+##
+
+{{page>/glossary/0/6rd}}
+
+
+##
+
+{{page>./general}}
+
+{{page>./advanced}}

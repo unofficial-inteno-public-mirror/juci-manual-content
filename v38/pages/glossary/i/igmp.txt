@@ -1,0 +1,5 @@
+
+
+# IGMP
+
+IGMP – Internet Group Management Protocol is a communications protocol used on IPv4 networks to establish [multicast](/glossary/m/multicast) group memberships.

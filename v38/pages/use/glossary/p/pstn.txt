@@ -1,0 +1,5 @@
+
+
+# PSTN
+
+The Public Switched Telephone Network (PSTN) is the publicly available network of telecommunication systems and services provided by telephone operators.

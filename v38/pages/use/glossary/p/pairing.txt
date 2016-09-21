@@ -1,0 +1,5 @@
+
+
+# Pairing
+
+Pairing is the process of making two compatible wireless devices able to communicate with each other. This is normally done by making them visible to each other, and providing a PIN code for identification.

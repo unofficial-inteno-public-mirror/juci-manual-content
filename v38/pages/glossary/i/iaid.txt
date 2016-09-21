@@ -1,0 +1,6 @@
+
+
+# IAID
+
+The Interface Association Identifier – IAID – that is a binding between the interface and one or several IPv6 addresses. It is used in [DHCPv6](/glossary/d/dhcp) servers togehter with with a [DUID](/glossary/d/duid) to identify IP allocations.
+

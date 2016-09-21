@@ -1,0 +1,5 @@
+
+
+# Simple Network Management Protocol
+
+Simple Network Management Protocol (SNMP) is a protocol for managing and devices on an IP network.

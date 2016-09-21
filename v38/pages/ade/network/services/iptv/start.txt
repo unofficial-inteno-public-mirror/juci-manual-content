@@ -1,0 +1,27 @@
+{{indexmenu_n>60}}
+
+# IPTV
+
+The **IPTV** view lets you configure the [IPTV](/glossary/i/iptv) server.
+
+##
+
+^ Item ^ Description ^
+| Differentiated Services Code Point | [DSCP](/glossary/d/dscp) to use for tagging outgoing [IGMP](/glossary/i/igmp) packets. |
+| Proxy interface | Interface to use as proxy. |
+| Default version | [IGMP](/glossary/i/igmp) version. |
+| Query interval | Time between [IGMP](/glossary/i/igmp) query messages. |
+| Query response interval | Time to wait for response to query beofre timeout. |
+| Last member query interval | Time between queries to determine the loss of the last member in an [IGMP](/glossary/i/igmp) group. |
+| Robustness value | Tolerance for lost packets. |
+| LAN to LAN multicast | Allow multicast between LANs. |
+| Max groups | Maximum allowed [multicast](/glossary/m/multicast)groups. |
+| Max sources | Maximum allowed [multicast](/glossary/m/multicast) sources. |
+| Max members | Maximum allowed members in a multicast group. |
+| Fast leave | Leave multicast groups immediately after the last host. |
+| Join immediate | Join group directly. |
+| Enable IGMP proxy | Turn on [IGMP Proxy](/glossary/i/igmp_proxy) handling. |
+| Ignore SSM Range | Ignore [SSM](/glossary/s/ssm) and deliver regular [multicasting](/glossary/m/multicast). |
+| IGMP snooping mode | [IGMP snooping](/glossary/i/igmp_snooping) mode:  `Disabled` / `Standard` / `Blocking`. |
+| IGMP snooping interfaces | Interfaces to use for [IGMP snooping](/glossary/i/igmp_snooping). |
+

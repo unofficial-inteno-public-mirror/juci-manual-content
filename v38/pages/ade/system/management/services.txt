@@ -1,0 +1,41 @@
+{{indexmenu_n>40}}
+
+# Services
+
+The **Services** view lets you configure WAN access to device services.
+
+## Allow WAN Access To Running Services
+
+At the top of the page is a list of services.
+
+When a particular service is selected, details about it is shown in the configuration section.
+
+## Configure firewall rule for this service
+
+The **Configure firewall rule** section allows you to enable and configure a firewall rule for the selected service.
+
+Where applicable, the configuration is divided into separate sections for **source** and **destination** zones.
+
+^ Item ^ Description ^
+| Enable WAN forwarding for this service | Turn WAN access on or off. |
+| Name | Identifier for the rule. |
+| Zone | Device / Any / LAN / WAN |
+| IP | [IPv4](/glossary/i/ipv4) / [IPv6](/glossary/i/ipv6) address. |
+| MAC | [MAC](/glossary/m/mac) address.  |
+| Port | [Port](/glossary/p/port) affected. |
+| IP version | Any / [IPv4](/glossary/i/ipv4) / [IPv6](/glossary/i/ipv6) |
+| Protocol | Protocol affected: ([UDP](/glossary/u/udp) / [TCP](/glossary/t/tcp) / [ICMP](/glossary/i/icmp) / TCP + UDP / [ESP](/glossary/e/esp)) |
+| Firewall action | [Firewall action](/glossary/f/firewall_action) to perform. |
+
+
+### Add Firewall Rule
+
+Select a service in the list.
+
+* Click the **Enable WAN forwarding for this service** button
+
+The firewall settings are displayed.
+
+* Add rule settings as needed.
+
+* Click **Apply**

@@ -1,0 +1,13 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>10}}
+
+# General Settings
+
+The **general settings** view allows you to turn the firewall on or off.
+
+## Firewall Settings
+
+To enable the firewall:
+
+* Click **Enable Firewall**

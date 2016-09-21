@@ -1,0 +1,5 @@
+
+
+# PPID
+
+The PPID – Parent Process ID – is the [PID](/glossary/p/pid) of the process that started a particular process.

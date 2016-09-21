@@ -1,0 +1,36 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>21}}
+
+# Edit LAN Settings
+
+In The **Edit LAN settings** view you can change different features about your network.
+
+##
+
+![LAN Settings](./main.png)
+
+^ Item ^ Description ^
+| IPv4 Address | Device [DHCP](/glossary/d/dhcp) address |
+| IPv4 Subnet Mask | IPv4 [Subnet Mask](/glossary/s/subnet_mask) |
+| IPv4 Broadcast Mask | IPv4  [Broadcast Mask](/glossary/i/ipv4_broadcast) |
+| DHCP Server | Turn [DHCP Server](/glossary/d/dhcp_server) on or off. |
+| DHCP Pool Start | Start IP number for the [DHCP Pool](/glossary/d/dhcp_pool) start number [IP](/glossary/i/ip) address |
+| DHCP Pool Size | Number of IP addresses in the [DHCP Pool](/glossary/d/dhcp_pool) |
+| DHCP Lease Time | DHCP [Lease Time](/glossary/l/lease_time) for the LAN.  |
+| Static DHCP | Reserve an IP address [DHCP Lease](/glossary/d/dhcp_lease) for a connected device. |
+
+
+
+## LAN Settings
+
+To edit the LAN settings:
+
+* Click the {{/icon/edit.png}} **edit** button to open the view
+
+A dialog is shown.
+
+* Edit the LAN settings
+
+* Click **Save**
+

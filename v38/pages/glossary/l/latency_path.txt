@@ -1,0 +1,5 @@
+
+
+# Latency Path
+
+The DSL Latency Path comes in three modes: *Path 1* (Fast), *Path 2* (Interleaved) and *Both 1 & 2*. Fast is used for applications sensitive to delay. Interleaved suits applications sensitive to errors.

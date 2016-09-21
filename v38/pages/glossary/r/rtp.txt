@@ -1,0 +1,5 @@
+
+
+# RTP
+
+The Real-time Transport Protocol (RTP) is a [protocol](/glossary/p/protocol) for handling transmission of real-time data, typically audio or video over networks services. Control and monitoring features are provided thorugh the [Real Time Streaming Protocol](/glossary/r/rtsp).

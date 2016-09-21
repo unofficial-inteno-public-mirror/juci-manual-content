@@ -1,0 +1,10 @@
+
+
+# IP Quality of Service Algorithm
+
+The IP Quality of Service Algorithm determines which type of QoS to provide; [Strict Priority Precedence](/glossary/s/spp) or [Weighted Fair Queuing](/glossary/w/wfq).
+
+{{page>/glossary/s/spp&fullpage}}
+
+{{page>/glossary/w/wfq&fullpage}}
+

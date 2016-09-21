@@ -1,0 +1,7 @@
+
+
+# Loop Attenuation
+
+Loop Attenuation is a measure of the quality of the line - how much the signal weakens over the loop.
+
+Attenuation is measured in Decibel (dB). A value betwen 20dB-45dB can be considered normal.

@@ -1,0 +1,5 @@
+
+
+# Cell (DSL)
+
+DSL cells are [ATM](/glossary/a/atm) data encoded into small, fixed-sized packets (frames).

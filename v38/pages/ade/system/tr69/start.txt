@@ -1,0 +1,45 @@
+
+
+{{indexmenu_n>170}}
+
+# TR69
+
+The **TR69 Settings** view allows you to configure [TR069](/glossary/t/tr069) support for device management and provisioning from the WAN.
+
+##
+
+The TR69 view is divided into sections.
+
+## Configure ACS Specific Settings
+
+In the **ACS** section, you can configure
+[ACS](/glossary/a/acs) settings.
+
+###
+
+^ Item ^ Description ^
+| ACS User Name | USer name for the [ACS](/glossary/a/acs) connection. |
+| ACS Password | Password for the [ACS](/glossary/a/acs) connection. |
+| URL | Location of the ACS server. |
+| Periodic Inform Enable | Turn [Periodic Inform](/glossary/p/periodic_inform) on or off. |
+| Periodic Inform Time | Absolute UTC time when [CPEs](/glossary/c/cpe) will send [Periodic Inform](/glossary/p/periodic_inform) calls. |
+| DHCP Discovery | Turn automatic discovery of server on or off. |
+
+
+## Configure CPE Specific Settings
+
+In the **CPE** section, you can configure
+[CPE](/glossary/c/cpe) connection settings.
+
+###
+
+^ Item ^ Description ^
+| WAN Interface | Interface for the connection. |
+| Connection Request User Name | User name for the [ACS](/glossary/a/acs) connection |
+| Connection Request Password | Password for the [ACS](/glossary/a/acs) connection. |
+| Port | Specific connection [port](/glossary/p/port). |
+| Log Severity Level | [Logging information level](/glossary/l/logging_level).  |
+| Log to console | Display logging messages in the console.  |
+| Log to file | Turn logging to file on or off. |
+| Log file max size | Size of log file. |
+| Provisioning Code  | Identifier for provisioning. |

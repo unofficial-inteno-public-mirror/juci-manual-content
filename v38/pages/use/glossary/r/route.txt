@@ -1,0 +1,6 @@
+
+
+# Route
+
+The IP Route is the path a data message takes through an Internet Protocol network.
+

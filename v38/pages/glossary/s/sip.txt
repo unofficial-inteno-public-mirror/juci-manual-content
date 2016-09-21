@@ -1,0 +1,5 @@
+
+
+# SIP
+
+The Session Initiation Protocol (SIP) is a protocol for handling communication sessions, most commponly for Internet telephony for voice and video calls, as well as instant messaging, over Internet Protocol networks.

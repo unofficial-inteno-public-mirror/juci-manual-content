@@ -1,0 +1,5 @@
+
+
+# UAPSD
+
+Unscheduled Automatic Power Save Delivery (UAPSD) is a wifi device feature which allows them to save power by dozing between transmissions.

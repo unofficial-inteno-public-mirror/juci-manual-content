@@ -1,0 +1,5 @@
+
+
+# RX Chain Power Save Quiet Time
+
+The number of seconds the packets per second must be below the value before the [Rx Chain Power Save](/glossary/r/rxc) feature activates itself.

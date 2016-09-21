@@ -1,0 +1,7 @@
+
+
+# UBIFS
+
+UBIFS file-system stands for "Unsorted Block Images File System".
+
+It is a flash file system, designed to work with flash devices, using Memory Technology Device (MTD) device files.

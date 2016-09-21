@@ -1,0 +1,5 @@
+
+
+# MAC
+
+A Media Access Control (MAC) address is a unique identifier for physical network interfaces.

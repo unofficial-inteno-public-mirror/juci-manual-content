@@ -1,0 +1,5 @@
+
+
+# SIP Address
+
+A SIP Address is similar to a phone number for voice calls to other [SIP accounts](/glossary/s/sip_account).

@@ -1,0 +1,20 @@
+{{indexmenu_n>1020}}
+
+# Static Address
+
+A static address uses a fixed IP address for the connection.
+
+##
+
+{{page>/glossary/s/static_address}}
+
+##
+
+{{page>./general}}
+
+{{page>./physical}}
+
+{{page>./advanced}}
+
+{{page>./dhcp}}
+

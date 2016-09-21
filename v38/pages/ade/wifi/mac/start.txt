@@ -1,0 +1,39 @@
+{{tag>user_expert}}
+
+{{indexmenu_n>40}}
+
+# MAC Filter
+
+In the **MAC Filter** view you can make your wireless network more secure. Just specify which devices are allowed to connect, or explicitly lock out devices.
+
+##
+
+Filters can be applied separately for each [radio](/glossary/w/wireless_radio) .
+
+The devices are identified by their [MAC](/glossary/m/mac) address. You can manage up to 32 devices.
+
+^ Section ^ Description ^
+| MAC Filtering | Turn filtering on or off. |
+| Access for listed devices | Access setting for clients in the list. |
+| Currently added devices | List of filtered devices. |
+| Add currently connected hosts ot the list | Collect all currently active devices to the list. |
+
+### Enable MAC Filter
+
+To enable MAC Filtering:
+
+* Click the **MAC Filtering** toggle button
+
+* Choose type of **Access for listed devices**
+    * Allow - Access
+    * Deny - No access
+
+* Click the {{/icon/add.png}} **add** button next to **Currently added devices**
+
+* Enter the MAC address for the device
+
+* Click **Save**
+
+* Click **Apply**
+
+

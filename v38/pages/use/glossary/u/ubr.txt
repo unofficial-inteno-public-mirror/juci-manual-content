@@ -1,0 +1,5 @@
+
+
+# UBR
+
+Unspecified Bit Rate (UBR) is used for non-real-time applications that do not require any maximum bound on the transfer delay or [cell loss](/glossary/c/clr).

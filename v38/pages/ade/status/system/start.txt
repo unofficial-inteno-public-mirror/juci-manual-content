@@ -1,0 +1,15 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>10}}
+
+# System
+
+The **System Status** view displays information about a number of parameters regarding your gateway and its operation.
+
+##
+
+{{page>./general/start}}
+
+
+{{page>./processes/start}}
+

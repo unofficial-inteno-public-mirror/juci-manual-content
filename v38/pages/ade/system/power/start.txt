@@ -1,0 +1,17 @@
+
+
+{{indexmenu_n>210}}
+
+# Power Management
+
+The **Power Management** view allows you to manage CPU effiency and Ethernet hardware ports.
+
+##
+
+^ Item ^ Description ^
+| CPU Speed | CPU Sync. |
+| CPU r4k Wait | Sleep mode configuration. |
+| Ethernet Auto Power Down | Turn [Ethernet Auto Power Down](/glossary/e/eee) on or off. |
+| Energy Efficent Ethernet | Turn [Energy-Efficient Ethernet](/glossary/e/eee) on or off. |
+
+

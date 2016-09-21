@@ -1,0 +1,5 @@
+
+
+# Failover
+
+Failover means switching over to a different network when the selected network cannot be accessed.

@@ -1,0 +1,7 @@
+
+
+# VDSL
+
+Very-high-bit-rate digital subscriber line (VDSL) is a [DSL](/glossary/d/dsl) technology providing network traffic over copper wires.
+
+VDSL is faster than [ADSL](/glossary/a/adsl), with up to 52 Mbit/s downstream and 16 Mbit/s upstream speeds.
