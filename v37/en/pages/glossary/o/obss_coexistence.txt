@@ -1,6 +1,0 @@
-
-
-# OBSS Coexistence
-
-Overlapping basic service sets (OBSS) is a setting that configures the [BSS](/glossary/b/bss) to allow coexistence between 20 MHZ and 40 MHZ overlapping basic service sets (OBSS).
-

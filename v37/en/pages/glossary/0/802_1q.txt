@@ -1,8 +1,0 @@
-
-
-# 802.1q
-
-IEEE 802.1Q is a standard for Ethernet [VLANs](/glossary/v/vlan) where VLANs are given a numeric tag. The tag is used to identify traffic in networks, and decide how to handle it.
-
-This allows multiple bridged networks to share the same physical link without leaking information to each other networks.
-

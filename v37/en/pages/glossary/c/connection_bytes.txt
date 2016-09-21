@@ -1,5 +1,0 @@
-
-
-# Connection Bytes
-
-Connection Bytes is a filtering property that matches packets only after the specified number of bytes has been transfered through the connection.

@@ -1,5 +1,0 @@
-
-
-# PPP
-
-Point-to-Point Protocol (PPP) is a protocol for providing a direct data link connection with authentication, encryption and compression.

@@ -1,6 +1,0 @@
-
-
-#  PTM - Pulse-Time Modulation
-
-Pulse-Time Modulation means encoding traffic into a pulsing signal signal for transfer.
-

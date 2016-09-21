@@ -1,5 +1,0 @@
-
-
-# PoP
-
-A Point of Presence (PoP) is an access point to the Internet.

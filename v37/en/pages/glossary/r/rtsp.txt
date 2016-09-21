@@ -1,5 +1,0 @@
-
-
-# RTSP
-
-The Real Time Streaming Protocol (RTSP) is a [protocol](/glossary/p/protocol) for control over transmission of real-time data with the [Real-time Transport Protocol](/glossary/r/rtp).

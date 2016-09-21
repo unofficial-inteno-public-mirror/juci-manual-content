@@ -1,5 +1,0 @@
-
-
-# NAT
-
-Network Address Translation (NAT) is a method to to device translate local network addresses into external addresses for the Internet.

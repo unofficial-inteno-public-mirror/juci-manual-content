@@ -1,5 +1,0 @@
-
-
-# Source-Specific Multicast
-
-Source-specific multicast (SSM) is a method of limiting delivery of [multicast](/glossary/m/multicast) packets only from a requested source address.

@@ -1,5 +1,0 @@
-
-
-# Quantization
-
-Quantization of signals is a method where a signal is sampled at specified time intervals and the input values are approximated to provide a smaller set of values compared to the actual signal.

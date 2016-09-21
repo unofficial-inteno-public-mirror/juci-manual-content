@@ -1,7 +1,0 @@
-
-
-# UDP
-
-User Datagram Protocol (UDP) is a protocol to provide relatively unreliable data streams over an [IP](/glossary/i/ip) network. It provides no guarantees for delivery and no protection from duplication.
-
-The simplicity of UDP reduces the overhead from using the protocol and the services may be adequate in many cases.

@@ -1,6 +1,0 @@
-
-
-#  IP in IP
-
-IP in IP is an method to provide data tunneling by encapsulating one IP packet in another IP packet, using header information.
-

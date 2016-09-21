@@ -1,8 +1,0 @@
-
-
-# Cipher
-
-A WiFi security cipher is the method through which a connection is secured against intrusion.
-
-For information about cipher strings, see [https://www.openssl.org/docs/manmaster/apps/ciphers.html](https://www.openssl.org/docs/manmaster/apps/ciphers.html).
-

@@ -1,5 +1,0 @@
-
-
-# Data Package
-
-A data package is a portion of data that transmitted between a source and destination in a network, normally of larger size.

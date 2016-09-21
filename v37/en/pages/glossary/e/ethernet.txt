@@ -1,9 +1,0 @@
-
-
-# Ethernet
-
-Ethernet a family of computer networking technologies commonly used in [LANs](/glossary/l/lan).
-
-Communication over ethernet consists of data frames. Each frame contains source and destination addresses, and error-checking data.
-
-

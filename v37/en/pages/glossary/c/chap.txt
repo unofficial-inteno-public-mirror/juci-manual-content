@@ -1,7 +1,0 @@
-
-
-# CHAP
-
-Challenge Handshake Authentication Protocol (CHAP) is a method used to authenticate [PPP](/glossary/p/ppp) sessions.
-
-CHAP uses a randomly generated string as a unique challege phrase for each authentication. This is combined with device host names and hash functions so that no static secret information is sent.

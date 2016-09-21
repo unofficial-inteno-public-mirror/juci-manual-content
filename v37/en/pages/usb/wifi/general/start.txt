@@ -1,1 +1,0 @@
-../../../ade/wifi/general/start.txt

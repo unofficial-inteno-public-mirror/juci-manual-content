@@ -1,7 +1,0 @@
-
-
-# Discrete MultiTone Modulation
-
-Discrete MultiTone Modulation is a modulation method where the available bandwidth is divided into a large number of channels. Data is allocated to maximize the throughput of every channel. Channels that can't carry data are not used, and the bandwidth reallocated.
-
-DMT is the technology which divides the whole bandwidth on the telephone line into lots of sub-channels and then controlling these 'virtual modems' as one together in order to get higher speeds.

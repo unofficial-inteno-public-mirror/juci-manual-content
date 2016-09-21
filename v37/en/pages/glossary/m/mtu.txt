@@ -1,5 +1,0 @@
-
-
-# MTU
-
-Maximum Transmission Unit (MTU) is the largest physical packet size that a network can transmit. Any packets larger than the MTU are divided into smaller packets before being sent. MTU is measured in bytes.
