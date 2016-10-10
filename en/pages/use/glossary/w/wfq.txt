@@ -1,0 +1,5 @@
+
+
+# Weighted Fair Queuing
+
+Weighted Fair Queuing means that bandwidth is adjusted automatically according to traffic priority and weight value.

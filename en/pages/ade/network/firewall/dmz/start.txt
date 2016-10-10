@@ -1,0 +1,28 @@
+{{tag>user_expert}}
+
+{{indexmenu_n>50}}
+
+# DMZ / Exposed Host
+
+A local network device can be made an *Exposed Host*. It is placed in the [DMZ](/glossary/d/dmz) outside of the firewall, which provides unrestricted Internet access to the network device.
+
+##
+
+^  ^  ^
+| WAN IP Address | Public [IPv4](/glossary/i/ipv4) and [IPv6](/glossary/i/ipv6) address for the DMZ. |
+| Host IPv4 Address | IPv4 of device  to place in DMZ. |
+| Host IPv6 Address | IPv6 of device  to place in DMZ. |
+| Select Existing Host | Dropmenu to select connected devices. |
+
+## Add Exposed Host
+
+To allow DMZ/exposed host:
+
+* Click **Enable**  to enable an exposed host
+
+* Enter the local IP address to expose
+
+* Alternatively, click **select existing host**
+
+
+**Note:** You should also configure the DMZ IP address as static DHCP address for your device.

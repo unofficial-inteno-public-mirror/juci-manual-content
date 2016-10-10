@@ -1,0 +1,55 @@
+
+
+{{indexmenu_n>150}}
+
+# Restore/Backup
+
+The **Restore/Backup** view allows you to manage backups and resets of the device.
+
+## Backup Settings
+
+In the **Backup Settings** section you can save a copy of your device configuration or load a saved configuration into the device.
+
+## Save Backup
+
+* Click **Save**
+
+The **Save Configuration** dialog opens.
+
+* If you want to encrypt the backup file:
+
+    * Enter a **Backup file password**
+
+    * Retype the password
+
+* Click **Continue**
+
+The file is saved as a compressed file archive to your local computer.
+
+
+## Load Backup
+
+To load a saved configuration the factory reset:
+
+* Click **Load**
+
+* Click **Continue**
+
+The **Load New Configuration** dialog opens.
+
+* Click **Choose File**
+
+* If the backup file is encrypted:
+
+    * Enter a **Backup file password**
+
+
+## Factory Settings
+
+In the **Factory Settings** you can
+
+**Note:** Reset restores your device to the factory defaults and remove any configurations ou have made.
+
+To perform the factory reset:
+
+* Click **Reset**

@@ -1,0 +1,6 @@
+
+
+# Seamless Rate Adaptation
+
+Seamless Rate Adaptation (SRA) allows devices to change data transfer rates on the fly to avoid losing a connection due to interference.
+

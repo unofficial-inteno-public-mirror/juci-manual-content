@@ -1,0 +1,4 @@
+
+# Network interface
+
+A network interface is the access point between a device and a computer network. A network interface can be either a physical connection or a software access address.

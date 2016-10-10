@@ -1,0 +1,29 @@
+{{indexmenu_n>1100}}
+
+# Point-to-point Tunnel
+
+A Point-to-Point Tunnel connection uses [PPP](/glossary/p/ppp)  across a [VPN](/glossary/v/vpn) tunnel to establish the network.
+
+##
+
+{{page>/glossary/p/ptpt}}
+
+## Wizard
+
+### Step 1
+
+In the first step you select basic settings for the interface.
+
+^ Item ^ Description ^
+| Interface Name | Name for the interface. |
+| Interface Type | Select [interface protocol type](/glossary/i/interface_protocol_type). |
+
+
+## Finalize
+
+In the final step you select protocol and firewall settings for the interface.
+
+^ Item ^ Description ^
+| Protocol | Select [protocol](/glossary/p/protocol). |
+| Add network to a firewall zone | Connects interface to [firewall zone](../../network/firewall/zones/start). |
+

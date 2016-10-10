@@ -1,0 +1,25 @@
+{{indexmenu_n>50}}
+
+# Group
+
+The **Group** tab allows you to configure [Com2Sec](/glossary/c/com2sec) access groups for the SNMP service.
+
+##
+
+^ Item ^ Description ^ Example ^
+| Community | Community group to access. | `public` |
+| Source | Hostname or subnet. | `usm` |
+| SecName | Access string. | `ro` |
+
+
+### Add Group
+
+You can add as many groups as you like.
+
+To add a group:
+
+* Click the **Add** button
+
+* Enter parameters as needed
+
+* Click **Apply**

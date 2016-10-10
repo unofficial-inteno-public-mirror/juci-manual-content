@@ -1,0 +1,5 @@
+
+
+# WMM Acknowledgement
+
+WMM ([WiFi](/glossary/w/wifi) Multimedia) Acknowledgement is a verification signal sent from the client to the device to indicate that no error has been detected for the data .

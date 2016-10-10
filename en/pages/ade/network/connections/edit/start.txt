@@ -1,0 +1,65 @@
+
+
+{{indexmenu_n>130}}
+
+# Configure Interface
+
+You can configure the settings for interfaces from the [connections](../start) page.
+
+##
+
+### Edit Connections
+
+To edit a connection:
+
+* Click **Edit** button
+
+The **Connection Section** is displayed at the bottom of the page.
+
+The connection section consists of a number of tabs, showing details the connection.
+
+Depending on connection type the tabs will be different, but the standard tabs are **General**, **Physical Settings**, and **Advanced**.
+
+Additional tabs become visible as they are needed.
+
+
+### Default Connections
+
+{{page>./lan/start}}
+
+{{page>./wan/start}}
+
+{{page>./wan6/start}}
+
+
+### Connection Types
+
+{{page>./unmanaged/start}}
+
+{{page>./static/start}}
+
+{{page>./v4/start}}
+
+{{page>./v6/start}}
+
+{{page>./ppp/start}}
+
+{{page>./pppoe/start}}
+
+{{page>./pppoa/start}}
+
+{{page>./3g/start}}
+
+{{page>./4g/start}}
+
+{{page>./ptpt/start}}
+
+{{page>./6in4/start}}
+
+{{page>./6to4/start}}
+
+{{page>./6rd/start}}
+
+{{page>./ds_lite/start}}
+
+{{page>./pppol2tp/start}}

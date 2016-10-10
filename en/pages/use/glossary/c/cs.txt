@@ -1,0 +1,7 @@
+
+
+# Class Selector
+
+The Class Selector (CS) is used by [Differentiated Services](/glossary/d/diffserv) as a [precedence](/glossary/p/precedence) code point value that maps to a [Differentiated Services Code Point](/glossary/d/dscp). It is backwards compatible with IP precedence values.
+
+

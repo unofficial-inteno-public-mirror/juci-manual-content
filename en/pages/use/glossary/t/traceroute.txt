@@ -1,0 +1,7 @@
+
+
+# Traceroute
+
+Traceroute is a network diagnostic tool to discover the [route](/glossary/r/route) and data delivery time over an Internet Protocol network.
+
+See also [Ping](/glossary/p/ping).

@@ -1,0 +1,9 @@
+{{indexmenu_n>30}}
+
+# Physical Settings
+
+The physical settings tab contains settings for hardware management and devices for the connection.
+
+## Bridge Devices
+
+The bridge devices section lets you add or remove bridged devices to the connection.

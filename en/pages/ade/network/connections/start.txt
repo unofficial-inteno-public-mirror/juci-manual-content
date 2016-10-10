@@ -1,0 +1,37 @@
+
+
+{{indexmenu_n>130}}
+
+# Connections
+
+The **Connections** view allows you configure various connection interfaces to use in your device.
+
+##
+
+This page allows to configure IP addresses used in your home network. In case DHCP is used, your router automatically assignes an IP address to devices connected to the network.
+
+The page contains a list of interfaces, with one widget for each interface.
+
+
+### Connect
+
+To connect a connection:
+
+* Find the interface widget for the interface you are interested in
+
+* Click **Connect** button
+
+
+### Disconnect
+
+To disconnect a connection:
+
+* Find the interface widget for the interface you are interested in
+
+* Click **Edit** button
+
+##
+
+{{page>./add/start}}
+
+{{page>./edit/start}}

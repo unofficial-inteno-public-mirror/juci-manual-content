@@ -1,0 +1,7 @@
+
+
+# DHCP
+
+DHCP – Dynamic Host Configuration Protocol
+
+A device can be used as a DHCP server to automatically assign an IP address to each computer or device on a network.

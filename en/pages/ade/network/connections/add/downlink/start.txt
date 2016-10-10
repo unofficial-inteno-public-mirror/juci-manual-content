@@ -1,0 +1,44 @@
+
+
+{{indexmenu_n>30}}
+
+# Downlink
+
+{{page>/glossary/d/downlink&noheader}}
+
+
+## Finalize
+
+In the final step you select protocol and firewall settings for the interface.
+
+
+^ Item ^ Description ^ Applies to ^
+| Interface Type | Select [interface type](/glossary/i/interface_type) (`Standalone` / `Anywan` / `Bridge`). |  |
+| Physical Device | Device(s) to use for the connection. |  |
+| Add network to a firewall zone | Connects interface to [firewall zone](../../network/firewall/zones/start). |  |
+
+
+### Physical Device
+
+For `Standalone`, you need to select the [base device](../../../../network/devices/base/start) to use for the connection.
+
+For `Anywan` and `Bridge`, you need to add a physical device to use for the connection.
+
+^ Item ^ Description ^ Applies to ^
+| Ethernet Adapter | Selector for [base device](../../../../network/devices/base/start) to use for the connection. | `Standalone` |
+| Add Device | Dialog to select network device to use for the connection. | `Anywan` / `Bridge` |
+
+
+#### Ethernet Adapter
+
+* Select a base device from the dropdown menu.
+
+
+#### Add Device
+
+* Click **Add**
+
+The **Select Network Device** dialog is shown.
+
+* Select a network device from the dropdown menu
+

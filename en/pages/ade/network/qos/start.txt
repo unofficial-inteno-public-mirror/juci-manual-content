@@ -1,0 +1,17 @@
+
+
+{{indexmenu_n>170}}
+
+# Quality Of Service
+
+The **Quality Of Service** view allows you to configure parameters for [Quality of Service](/glossary/q/qos) through applying [groups](/glossary/q/qos_group) of [classes](/glossary/q/qos_class) to interfaces.
+
+##
+
+{{page>./interface}}
+
+{{page>./class}}
+
+{{page>./group}}
+
+{{page>./classify}}

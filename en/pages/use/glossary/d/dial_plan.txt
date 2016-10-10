@@ -1,0 +1,5 @@
+
+
+# Dial Plan
+
+A dial plan defines what sequence of digits need to be dialled in the [private branch exchange](/glossary/p/pbx) to get access to specific calling networks or enable other features.

@@ -1,0 +1,25 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>30}}
+
+# Samba Users
+
+The **Samba Users** section of the view allows you to change the user settings.
+
+##
+
+^ Option ^ Description ^
+| Username |  user name |
+| Password |  password |
+| Description |  description |
+
+
+## Samba User Settings
+
+To add a Samba user:
+
+* Click **Add**
+
+* Edit the parameters as needed.
+
+* Click Apply

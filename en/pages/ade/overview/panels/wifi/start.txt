@@ -1,0 +1,17 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>10}}
+
+# WIFI
+
+The **WiFi status panel** lets you change the default wireless security settings ([WPS](/glossary/w/wps)) to make your network more secure. You can also view the wifi status and edit the [wireless interface](/glossary/w/wifi_interface).
+
+##
+
+![WiFi panel](./main.png)
+
+{{page>./wps}}
+
+{{page>./5GHz}}
+
+{{page>./2_4GHz}}

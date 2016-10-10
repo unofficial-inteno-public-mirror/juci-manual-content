@@ -1,0 +1,45 @@
+{{indexmenu_n>40}}
+
+# Advanced
+
+The advanced tab contains settings for management of advanced features for the connection.
+
+##
+
+^ Item ^ Description ^
+| Bring up on boot | Start the connection when device starts. |
+| Use gateway metric | [Gateway metric](/glossary/g/gateway) to use. |
+| Override MAC address | Enforced [MAC](/glossary/m/mac) address to use. |
+| Override MTU | [MTU](/glossary/m/mtu) size to use. |
+| Enable IPv6 on the PPP link | Enables IPv6 connection from the provider. |
+| Use default gateway | Use default route. |
+| Use DNS servers advertised by peer | Use DHCP DNS server. |
+
+
+### Add/Remove custom DNS Servers
+
+You can add as many custom DNS servers as you like, but they must be unique.
+
+To add a custom DNS server:
+
+* Click the {{/icon/add.png}} **add** button
+
+* Add the IP numbers to the DNS server
+
+* Click **Save**
+
+To remove a custom DNS server:
+
+* Click the {{/icon/delete.png}} **delete** button next to the item to delete
+
+* Click **Save**
+
+
+###  LCP Options
+
+The LCP options section contains [LCP](/glossary/l/lcp) configuration.
+
+^ Item ^ Description ^ Comment ^
+| LCP echo failure threshold | Number of echo failures before peer is considered dead. | Use `0` to ignore failures. |
+| LCP echo interval | How often to send echo-requests. | Used together with failure threshold.  |
+| Inactivity timeout | Time until inactive connection is closed. | Use `0` to persist connection. |

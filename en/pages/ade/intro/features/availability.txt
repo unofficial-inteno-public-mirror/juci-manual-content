@@ -1,0 +1,14 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>50}}
+
+# Availability
+
+Certain features may not be available in your interface, depending on several factors:
+
+Device - Your device may be limited in which ports are avaible.
+
+Geographical region - Features might not be offered in some regions or countries.
+
+Operator Settings - Your operator may have restricted, altered or added features in the software.
+

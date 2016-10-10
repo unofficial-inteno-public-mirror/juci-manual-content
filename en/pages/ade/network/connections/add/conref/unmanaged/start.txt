@@ -1,0 +1,40 @@
+{{indexmenu_n>1010}}
+
+# Unmanaged
+
+{{page>/glossary/u/unmanaged}}
+
+## Wizard
+
+### Step 1
+
+In the first step you select basic settings for the interface.
+
+^ Item ^ Description ^
+| Interface Name | Name for the interface. |
+| Interface Type | Select [interface protocol type](/glossary/i/interface_protocol_type). |
+
+
+
+### Finalize Settings
+
+In the second step you select a basic configuration.
+
+^ Item ^ Description ^
+| Interface Type | Select [interface type](/glossary/i/interface_type). ([Network bridge](/glossary/n/network_bridge)) |
+| Add/Remove Devices | Select [interface protocol type](/glossary/i/interface_protocol_type). |
+
+
+### Add Device
+
+* Click **Add**
+
+The Add Device dialog is shown.
+
+* Select a network device from the dropdown menu
+
+* Click **OK**
+
+* Click **OK** again
+
+* Click **Apply**

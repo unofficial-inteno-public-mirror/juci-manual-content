@@ -1,0 +1,7 @@
+
+
+# LAN
+
+A Wireless Local Area Network is [Local Area Network](/glossary/l/lan) connected through one or several [access points](/glossary/a/access_point).
+
+

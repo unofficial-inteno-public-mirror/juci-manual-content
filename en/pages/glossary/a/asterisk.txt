@@ -1,0 +1,5 @@
+
+
+# Asterisk
+
+Asterisk is a software [PBX](/glossary/p/pbx) that handles calls betwen telephones and connections to [PSTN](/glossary/p/pstn) and [VoIP](/glossary/v/voip) services.

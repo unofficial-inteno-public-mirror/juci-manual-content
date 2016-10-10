@@ -1,0 +1,5 @@
+
+
+# DMZ
+
+DMZ (demilitarized zone) is used to provide an extra layer of security. It's a network added between a protected network and an external network.

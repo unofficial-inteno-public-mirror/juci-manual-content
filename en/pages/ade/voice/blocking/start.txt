@@ -1,0 +1,48 @@
+{{indexmenu_n>70}}
+
+# Number Blocking
+
+The **Number Blocking** view allows you to block outgoing calls to specific numbers or or number ranges.
+
+##
+
+## Outgoing
+
+^ Item ^ Description ^
+| Outgoing Number Blocking | Turn blocking on or off for outgoing calls. |
+| Do not allow connections to these numbers | List of blocked numbers. |
+| Block connections to all foreign numbers | Block calls to different locales. |
+| Block connections to all special rate numbers | Block calls to premium rate or pay services. |
+
+
+## Incoming
+
+^ Item ^ Description ^
+| Incoming Number Blocking | Turn blocking on or off for incoming calls. |
+| Do not allow connections from these numbers | List of blocked numbers. |
+
+
+### Block number
+
+To block a number:
+
+* Click the {{/icon/add.png}} **add** button
+* Click in the **Phone extension** box
+* Enter the number
+* Click outside of the **Phone extension** box
+* Click **Apply**
+
+
+### Block number range
+
+You can use `#` as wildcard to define number ranges. For example "0160#" blocks all numbers starting with "0160".
+
+To block a sequence of numbers:
+
+* Click the {{/icon/add.png}} **add** button
+* Enter digits
+* Add '#' as wildcard
+* Enter the number
+* Click outside of the **Phone extension** box
+* Click **Apply**
+

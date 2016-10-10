@@ -1,0 +1,12 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>50}}
+
+# Basic Mode
+
+Basic mode provides access to a selected set of settings and aspects of features, displaying a reduced set of options. This mode is suitable for the most common tasks and configurations.
+
+## Features
+
+In basic mode, all Expert mode settings and views are hidden from the interface. However, if you select a particular task in basic mode that requires expert mode settings, they will automatically be displayed.
+

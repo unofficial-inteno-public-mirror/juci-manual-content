@@ -1,0 +1,8 @@
+
+
+# DECT
+
+DECT - Digital Enhanced Cordless Telecommunications is a European standard for cordless telephone systems over radio.
+
+In the United States a slightly different radio frequency range is used, and it is called DECT 6.0.
+

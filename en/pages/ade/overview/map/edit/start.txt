@@ -1,0 +1,27 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>40}}
+
+# Edit Node Settings
+
+You can edit the settings for a node directly from the Device Network Map.
+
+##
+
+To edit a settings for a node:
+
+* Click the node in the map
+
+A window containing settings tabs opens.
+
+{{page>../../../overview/panels/lan/client/status}}
+
+{{page>../../../overview/panels/lan/client/lease}}
+
+{{page>../../../network/firewall/forwarding/start}}
+
+{{page>../../../network/parental/start}}
+
+
+
+

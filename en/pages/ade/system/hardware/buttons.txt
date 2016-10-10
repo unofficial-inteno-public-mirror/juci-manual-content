@@ -1,0 +1,34 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>999}}
+
+# Configure Buttons
+
+The **Configure Buttons** view allows you to enable or disable the buttons on your device.
+
+The exact buttons available vary with device type.
+
+## Examples
+
+Reset
+
+Status
+
+Wireless
+
+WPS
+
+DECT
+
+EXT
+
+
+## Toggle Button
+
+To switch a button on or off:
+
+* Find the desired button in the list
+
+* Click the slider button in the interface
+
+* Click **Apply**

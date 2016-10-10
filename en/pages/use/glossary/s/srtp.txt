@@ -1,0 +1,5 @@
+
+
+# SRTP
+
+The Secure Real-time Transport Protocol (SRTP) is a [protocol](/glossary/p/protocol) used for providing authentication, encryption, and other se curity features with the [Real-time Transport Protocol](/glossary/r/rtp).

@@ -1,0 +1,20 @@
+{{indexmenu_n>110}}
+
+# LAN
+
+The default LAN connection is a DHCP v4 connection using a static IPv4 address.
+
+##
+
+{{page>/glossary/i/ipv4}}
+
+##
+
+{{page>./general}}
+
+{{page>./physical}}
+
+{{page>./advanced}}
+
+{{page>./dhcp}}
+

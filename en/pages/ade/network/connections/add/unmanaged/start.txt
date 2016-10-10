@@ -1,0 +1,39 @@
+{{indexmenu_n>1010}}
+
+# Unmanaged
+
+{{page>/glossary/u/unmanaged&noheader}}
+
+
+## Step 1
+
+In the first step you select basic settings for the interface.
+
+##
+
+^ Item ^ Description ^
+| Interface Type | Select [interface type](/glossary/i/interface_type). |
+| Add/Remove Devices | Select [interface protocol type](/glossary/i/interface_protocol_type). |
+
+
+* Select Interface Type
+
+* Add as many devices as needed
+
+### Add Device
+
+* Click **Add**
+
+The Add Device dialog is shown.
+
+* Select a network device from the dropdown menu
+
+* Click **OK**
+
+
+
+## Finalize
+
+* Click **OK** again
+
+* Click **Apply**

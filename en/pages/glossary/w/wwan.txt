@@ -1,0 +1,5 @@
+# WWAN
+
+A Wireless Wide Area Network (WWAN), is a wireless network that extends over a large geographical distance.
+
+

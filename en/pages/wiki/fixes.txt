@@ -1,0 +1,27 @@
+OFF; 
+
+[Base Device](/../base/start);[Base Device](../base/start)
+
+[Firmware options](/./options);[Firmware options](./options)
+
+[base device](/../../../network/devices/base/start);[base device](../../../network/devices/base/start)
+
+[configuration shortcuts](/./panels/start);[configuration shortcuts](./panels/start)
+
+[connection](/../../network/connections/start);[connection](../../network/connections/start)
+
+[connections](/../../../network/connections/start);[connections](../../../network/connections/start)
+
+[device network map](/./map/start);[device network map](./map/start)
+
+[firewall zone](/../../network/firewall/zones/start);[firewall zone](../../network/firewall/zones/start)
+
+[login page](/./login);[login page](./login)
+
+[login](/../../intro/login);[login](../../intro/login)
+
+[not available](/../../../intro/features/availability);[not available](../../../intro/features/availability)
+
+[status panels](/./shortcuts/start);[status panels](./shortcuts/start)
+
+

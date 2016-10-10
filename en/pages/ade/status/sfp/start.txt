@@ -1,0 +1,33 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>80}}
+
+# SFP
+
+The **SFP Status** view shows information about [SFP](/glossary/s/sfp) connectors enabled in the device.
+
+
+## Configuration
+
+Information is shown in two tables; [SFP](/glossary/s/sfp)  information and [DDM](/glossary/d/ddm)  information.
+
+#### ROM
+
+^ Option ^ Description ^ Comment ^
+|  |  |
+
+#### DDM
+
+^ Option ^ Description ^ Comment ^
+| connector	SC |  |
+| ethernet	LX |  |
+| encoding	8B10B |  |
+| rate	1200 |  |
+| single-mode	20000 |  |
+| vendor	Skylane Optics |  |
+| oui	00:00:00 |  |
+| pn	SBU35010DR00000 |  |
+| rev	A |  |
+| sn	bax8t630008 |  |
+| date	2010-04-14 |  |
+| ddm	9.3 |  |

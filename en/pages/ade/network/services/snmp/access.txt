@@ -1,0 +1,34 @@
+{{indexmenu_n>70}}
+
+# Access
+
+The **Access** tab allows you to configure [Com2Sec](/glossary/c/com2sec) access directives for the SNMP service.
+
+##
+
+The access directive maps from group/security
+ model/security level to a view.
+
+^ Item ^ Description ^ Example ^
+| Group | Group. |  |
+| Context | Security name or empty. |
+| Version | Version access. | `any` / `v1` / `v2c` / `usm` |
+| Level | Access level. | `noauth` / `auth` / `priv` |
+| Prefix | Context matching. | `exact` / `prefix`|
+| Read | Read permissions |  |
+| Write | Write permissions | |
+| Notify | Notify permissions. |  |
+
+
+### Add Access Group
+
+You can add as many acces groups as you like.
+
+To add a n accwess group:
+
+* Click the **Add** button
+
+* Enter parameters as needed
+
+* Click **Apply**
+

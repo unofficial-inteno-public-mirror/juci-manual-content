@@ -1,0 +1,7 @@
+
+
+# STUN
+
+Session Traversal Utilities for NAT (STUN) consists of methods and a protocol to allow a server to discover its public IP address from behind a [NAT](/glossary/n/nat). It is used for real-time voice, video, messaging, and other interactive IP services.
+
+The protocol requires a STUN server located on the public side of the NAT.

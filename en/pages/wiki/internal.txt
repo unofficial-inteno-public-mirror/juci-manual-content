@@ -1,0 +1,14 @@
+^ OFF ^ Original ^ Fixed link ^ [E](?do=edit) ^
+| [V](/all/intro/access) | [login page](./login) | [login page](/./login) | [E](/all/intro/access?do=edit) | 
+| [V](/all/network/connections/add) | [firewall zone](../../network/firewall/zones/start) | [firewall zone](/../../network/firewall/zones/start) | [E](/all/network/connections/add?do=edit) | 
+| [V](/all/network/connections/pppoa/physical) | [base device](../../../network/devices/base/start) | [base device](/../../../network/devices/base/start) | [E](/all/network/connections/pppoa/physical?do=edit) | 
+| [V](/all/network/devices/vlan/start) | [Base Device](../base/start) | [Base Device](/../base/start) | [E](/all/network/devices/vlan/start?do=edit) | 
+| [V](/all/network/firewall/zones/start) | [connections](../../../network/connections/start) | [connections](/../../../network/connections/start) | [E](/all/network/firewall/zones/start?do=edit) | 
+| [V](/all/network/routes/ipv6) | [connection](../../network/connections/start) | [connection](/../../network/connections/start) | [E](/all/network/routes/ipv6?do=edit) | 
+| [V](/all/overview/panels/voice/start) | [not available](../../../intro/features/availability) | [not available](/../../../intro/features/availability) | [E](/all/overview/panels/voice/start?do=edit) | 
+| [V](/all/overview/start) | [configuration shortcuts](./panels/start) | [configuration shortcuts](/./panels/start) | [E](/all/overview/start?do=edit) | 
+| [V](/all/overview/start) | [device network map](./map/start) | [device network map](/./map/start) | [E](/all/overview/start?do=edit) | 
+| [V](/all/overview/start) | [status panels](./shortcuts/start) | [status panels](/./shortcuts/start) | [E](/all/overview/start?do=edit) | 
+| [V](/all/system/firmware/start) | [Firmware options](./options) | [Firmware options](/./options) | [E](/all/system/firmware/start?do=edit) | 
+| [V](/all/system/restart/start) | [login](../../intro/login) | [login](/../../intro/login) | [E](/all/system/restart/start?do=edit) | 
+

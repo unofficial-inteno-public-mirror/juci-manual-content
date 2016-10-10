@@ -1,0 +1,146 @@
+### Step 1
+
+In the first step you select basic settings for the interface.
+
+^ Item ^ Description ^
+| Interface Name | Name for the interface. |
+| Interface Type | Select [interface protocol type](/glossary/i/interface_protocol_type). |
+
+
+### Step 2
+
+In the second step you select a basic configuration.
+
+^ Item ^ Description ^
+| Protocol | Select [interface type](/glossary/i/interface_protocol). |
+| Add To Firewall Zone | [Firewall zone](../../../network/firewall/zones/start) for the interface. |
+
+
+### Step 3
+
+Depending on what protocol you selected in step 2, you may have to make additional selections.
+
+**Note: ** This may also include changing previously selected settings.
+
+
+
+
+### Uplink
+
+{{page>./lan/start}}
+
+{{page>./wan/start}}
+
+{{page>./wan6/start}}
+
+
+{{page>./unmanaged/start}}
+
+{{page>./static/start}}
+
+{{page>./v4/start}}
+
+{{page>./v6/start}}
+
+{{page>./ppp/start}}
+
+{{page>./pppoe/start}}
+
+{{page>./pppoa/start}}
+
+{{page>./3g/start}}
+
+{{page>./4g/start}}
+
+{{page>./ptpt/start}}
+
+{{page>./6in4/start}}
+
+{{page>./6to4/start}}
+
+{{page>./6rd/start}}
+
+{{page>./ds_lite/start}}
+
+{{page>./pppol2tp/start}}
+
+
+
+### Downlink
+
+{{page>./lan/start}}
+
+{{page>./wan/start}}
+
+{{page>./wan6/start}}
+
+
+{{page>./unmanaged/start}}
+
+{{page>./static/start}}
+
+{{page>./v4/start}}
+
+{{page>./v6/start}}
+
+{{page>./ppp/start}}
+
+{{page>./pppoe/start}}
+
+{{page>./pppoa/start}}
+
+{{page>./3g/start}}
+
+{{page>./4g/start}}
+
+{{page>./ptpt/start}}
+
+{{page>./6in4/start}}
+
+{{page>./6to4/start}}
+
+{{page>./6rd/start}}
+
+{{page>./ds_lite/start}}
+
+{{page>./pppol2tp/start}}
+
+
+### Unmanaged
+
+{{page>./lan/start}}
+
+{{page>./wan/start}}
+
+{{page>./wan6/start}}
+
+
+{{page>./unmanaged/start}}
+
+{{page>./static/start}}
+
+{{page>./v4/start}}
+
+{{page>./v6/start}}
+
+{{page>./ppp/start}}
+
+{{page>./pppoe/start}}
+
+{{page>./pppoa/start}}
+
+{{page>./3g/start}}
+
+{{page>./4g/start}}
+
+{{page>./ptpt/start}}
+
+{{page>./6in4/start}}
+
+{{page>./6to4/start}}
+
+{{page>./6rd/start}}
+
+{{page>./ds_lite/start}}
+
+{{page>./pppol2tp/start}}

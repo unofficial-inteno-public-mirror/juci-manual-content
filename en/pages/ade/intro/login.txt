@@ -1,0 +1,23 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>20}}
+
+# Login
+
+To login to the web interface, you use a user name and a password.
+
+##
+
+(For default passwords see: [User Roles](../intro/roles/start)).
+
+**Note:** Your operator may have specified different passwords and user levels. If so, you need to request those from your operator.
+
+
+Log in to the web interface:
+
+* Enter a user name
+* Enter the password
+* Click **OK**.
+
+You are taken to the web interface [Overview](../overview/start) page.
+

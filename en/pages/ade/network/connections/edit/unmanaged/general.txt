@@ -1,0 +1,13 @@
+{{indexmenu_n>20}}
+
+# General
+
+The general tab contains status information and settings relating to the protocol.
+
+##
+
+^ Item ^ Description ^
+| Status | Connection status. |
+| Device | Device for the connection. |
+| Protocol | Protocol in use. |
+

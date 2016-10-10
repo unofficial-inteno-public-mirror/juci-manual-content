@@ -1,0 +1,6 @@
+
+
+# Dwell Time
+
+The dwell time is the amount of time spent on each channel in the hopping sequence when hopping from channel to channel.
+

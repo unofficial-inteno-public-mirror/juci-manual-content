@@ -1,0 +1,5 @@
+
+
+# VPN
+
+A virtual private network (VPN) is a secured, private network connected through a public network.

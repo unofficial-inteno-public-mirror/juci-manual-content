@@ -1,0 +1,27 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>20}}
+
+# LAN
+
+The **LAN** panel shows basic information about the device and connected clients IP addresses.
+
+From the [LAN](/glossary/l/lan) status panel you can configure the [DHCP](/glossary/d/dhcp) settings for the device.
+
+##
+
+![LAN panel](./main.png)
+
+To open the **Edit LAN Settings** dialog, click the {{/icon/edit.png}} **edit** button.
+
+To view a more detailed overview of the clients, click the {{/icon/expand.png}} **expand** button
+
+To view details about a client click the client in the list.
+
+##
+
+{{page>./overview/start}}
+
+{{page>./edit/start}}
+
+{{page>./client/start}}

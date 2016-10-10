@@ -1,0 +1,17 @@
+{{indexmenu_n>10}}
+
+# WiFi Status
+
+The **general WiFI Status** view displays information about your wireless channels and network interfaces.
+
+## Configuration
+
+For each [wireless radio](/glossary/w/wireless_radio)information is displayed about:
+
+* [WiFi channel](/glossary/w/wifi_channel) in use.
+
+* [Noise level](/glossary/n/noise_level) in dB for the channel.
+
+* [WiFi interface](/glossary/w/wifi_interface) name.
+
+* [WiFi encryption](/glossary/w/wifi_encryption) used by the interface.

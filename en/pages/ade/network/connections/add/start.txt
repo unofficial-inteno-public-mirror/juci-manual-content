@@ -1,0 +1,28 @@
+
+
+{{indexmenu_n>20}}
+
+# Create Interface
+
+The **Create New Network Interface** dialog allows you to create a new [interface](/glossary/n/network_interface) according to your needs.
+
+##
+
+The dialog is a wizard where you add information in several steps.
+
+The number of steps and their contents varies depending on the type of interface you create.
+
+**Note:** As a last step you finalize the setup, but you can further [edit the settings](../edit/start) from the [connections](../start) page.
+
+
+### Connection Types
+
+In the first step, you can choose the type of interface: `Uplink`, `Downlink`, or `Unmanaged`.
+
+Depending on your choice in the first step, different options become available.
+
+{{page>./uplink/start}}
+
+{{page>./downlink/start}}
+
+{{page>./unmanaged/start}}

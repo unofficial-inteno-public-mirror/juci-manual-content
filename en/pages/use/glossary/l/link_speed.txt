@@ -1,0 +1,5 @@
+
+
+# Link Speed
+
+The link speed for a connection is the maximum transmission rate the device can provide. The actual speed may be lower.

@@ -1,0 +1,5 @@
+
+
+# MSS Clamping
+
+Maximum Segment Size Clamping entails changing the [maximum segment size](/glossary/m/mss) of all [TCP](/glossary/t/tcp) connections with a [MTU](/glossary/m/mtu) lower than 1500.

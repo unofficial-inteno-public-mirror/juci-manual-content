@@ -1,0 +1,8 @@
+
+
+# UUID
+
+A Universally Unique Identifier (UUID) is an 128-bit identifier used to uniquely identify objects.
+
+Example: `65613210-44d4-11e6-beb8-9e71128cae77`
+

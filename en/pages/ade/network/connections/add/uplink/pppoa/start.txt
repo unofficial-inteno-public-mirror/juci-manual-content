@@ -1,0 +1,30 @@
+{{indexmenu_n>1070}}
+
+# Point-to-Point Protocol over ATM
+
+A Point-to-Point Protocol over ATM connection uses PPPoA to establish the network.
+
+##
+
+{{page>/glossary/p/pppoa}}
+
+## Wizard
+
+### Step 1
+
+In the first step you select basic settings for the interface.
+
+^ Item ^ Description ^
+| Interface Name | Name for the interface. |
+| Interface Type | Select [interface protocol type](/glossary/i/interface_protocol_type). |
+
+
+## Finalize
+
+In the final step you select protocol and firewall settings for the interface.
+
+^ Item ^ Description ^
+| Protocol | Select [protocol](/glossary/p/protocol). |
+| Ethernet Adapter | [Base Device](../base/start) to create interface for. |
+| Add network to a firewall zone | Connects interface to [firewall zone](../../network/firewall/zones/start). |
+

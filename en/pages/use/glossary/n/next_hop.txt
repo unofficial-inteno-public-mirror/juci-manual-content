@@ -1,0 +1,5 @@
+
+
+# Next Hop
+
+Next hop refers to the next closest device a packet can go through, according to the routing table.

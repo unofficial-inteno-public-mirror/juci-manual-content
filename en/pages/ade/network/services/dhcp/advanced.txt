@@ -1,0 +1,29 @@
+{{indexmenu_n>30}}
+
+# Advanced
+
+The **Advanced** tab allows you to configure advanced settings for the [DHCP](/glossary/d/dhcp) server.
+
+##
+
+^ Item ^ Description ^
+| Domain required | Do  not forward [DHCP](/glossary/d/dns)-Requests without [DHCP](/glossary/d/dns)-Name. |
+| Authoritative | This is the only [DHCP](/glossary/d/dhcp) in the local network. |
+| Filter private | Do not forward reverse lookups for local networks. |
+| Filter useless | Do not forward requests that cannot be answered by public name servers. |
+| Localise queries | Localise [hostname](/glossary/h/hostname) depending on the requesting subnet if multiple IPs are available. |
+| Local server | Domain resolved from [DHCP](/glossary/d/dhcp) or hosts files only. |
+| Expand hosts | Add local domain suffix to names served from hosts files. |
+| No negative cache | Do not cache negative replies. |
+| Strict order | [DHCP](/glossary/d/dns) servers will be queried in the order of the resolvfile. |
+| Bogus NX Domain Override | List of hosts that do not supply non-existent domain (NXDOMAIN) results. |
+| [DHCP](/glossary/d/dns) forwarding | List of [DHCP](/glossary/d/dns) servers to forward requests to. |
+| Rebind protection | Discard upstream [RFC1918](/glossary/r/rfc1918) responses. |
+| Allow localhost | Allow upstream responses in the 127.0.0.0/8 range. |
+| Domain whitelist | List of domains to allow [RFC1918](/glossary/r/rfc1918) responses to. |
+| [DHCP](/glossary/d/dns) server port | Listening [port](/glossary/p/port) for inbound [DHCP](/glossary/d/dns) queries. |
+| [DHCP](/glossary/d/dns) query port | Fixed source [port](/glossary/p/port) for outbound [DHCP](/glossary/d/dns) queries. |
+| Max [DHCP](/glossary/d/dhcp) leases | Maximum allowed number of active [DHCP leases](/glossary/d/dhcp_lease). |
+| Max. E[DHCP](/glossary/d/dns)0 packet size | Maximum size of E[DHCP](/glossary/d/dns).0 [UDP](/glossary/u/udp) packets. |
+| Max. concurrent queries | Maximum number of concurrent [DHCP](/glossary/d/dns) queries. |
+

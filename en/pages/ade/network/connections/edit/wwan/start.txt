@@ -1,0 +1,20 @@
+{{indexmenu_n>1080}}
+
+# WWAN (LTE/HSPA+)
+
+The WWAN connection uses [LTE](/glossary/l/lte) / [HSPA+](/glossary/h/hspa).
+
+##
+
+{{page>/glossary/w/wwan}}
+
+{{page>/glossary/l/lte}}
+
+{{page>/glossary/h/hspa}}
+
+##
+
+{{page>./general}}
+
+{{page>./advanced}}
+

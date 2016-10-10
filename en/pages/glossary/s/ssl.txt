@@ -1,0 +1,6 @@
+
+
+#  SSL
+
+Secure Sockets Layer (SSL) is a [protocol](/glossary/p/protocol) for providing security features such as authentication, privacy and data integrity in a network.
+

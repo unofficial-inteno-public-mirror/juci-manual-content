@@ -1,0 +1,17 @@
+{{indexmenu_n>1130}}
+
+# IPv6 rapid deployment
+
+A IPv6 rapid deployment interface for IPv4 infrastructures.
+
+Edit (ade:network:connections:6rd:start)
+
+##
+
+{{page>/glossary/0/6rd}}
+
+##
+
+{{page>./general}}
+
+{{page>./advanced}}

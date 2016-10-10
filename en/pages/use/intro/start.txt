@@ -1,0 +1,35 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>10}}
+
+# Introduction
+
+Administration of the gateway is done through a web interface. All settings are accessible through an address on your local network.
+
+## Requirements
+
+To access the web interface, you need the following:
+
+An installed gateway device.
+
+A computer connected to the LAN or WLAN port on the device.
+
+A web browser installed on the computer.
+
+The default address for the web interface is [http://192.168.1.1](http://192.168.1.1).
+
+##
+
+{{page>./access}}
+
+{{page>./login}}
+
+{{page>./roles/start}}
+
+{{page>./modes/start}}
+
+{{page>./features/start}}
+
+{{page>./menu/start}}
+
+{{page>./work/start}}

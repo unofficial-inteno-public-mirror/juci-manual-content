@@ -1,0 +1,33 @@
+{{indexmenu_n>120}}
+
+# WWAN (LTE/HSPA+)
+
+The WWAN connection uses [LTE](/glossary/l/lte) / [HSPA+](/glossary/h/hspa).
+
+##
+
+{{page>/glossary/w/wwan}}
+
+{{page>/glossary/l/lte}}
+
+{{page>/glossary/h/hspa}}
+
+## Wizard
+
+### Step 1
+
+In the first step you select basic settings for the interface.
+
+^ Item ^ Description ^
+| Interface Name | Name for the interface. |
+| Interface Type | Select [interface protocol type](/glossary/i/interface_protocol_type). |
+
+
+## Finalize
+
+In the final step you select protocol and firewall settings for the interface.
+
+^ Item ^ Description ^
+| Protocol | Select [protocol](/glossary/p/protocol). |
+| Add network to a firewall zone | Connects interface to [firewall zone](../../network/firewall/zones/start). |
+

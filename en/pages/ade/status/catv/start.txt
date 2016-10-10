@@ -1,0 +1,10 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>70}}
+
+# CATV
+
+The **CATV Status** view shows information about [CATV](/glossary/c/catv) services connected to the device.
+
+##
+

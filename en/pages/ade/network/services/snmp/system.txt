@@ -1,0 +1,15 @@
+{{indexmenu_n>20}}
+
+# System
+
+The **System** tab lets you configure general information about the SNMP service.
+
+##
+
+^ Item ^ Description ^
+| Location | Physical location of the device. |
+| Contact | Contact information for the responsible person. |
+| Name | Name of the server. |
+| Services | Offered services. |
+| Description | Server description for presentation. |
+| Object ID | Identifier for the device. |

@@ -1,0 +1,5 @@
+
+
+# Genmask
+
+A genmask is the [netmask](/glossary/n/netmask) for the destination net. For example `255.255.255.255` for a host destination and `0.0.0.0` for the default route.

@@ -1,0 +1,13 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>60}}
+
+# Profile
+
+The **Profile** panel shows the [network profiles](/glossary/n/network_profile) configured on your device, if any.
+
+##
+
+The network profiles are configured by the manufacturer for each device type.
+
+Depending on the network profile selected, additional panels may be displayed in the overview.

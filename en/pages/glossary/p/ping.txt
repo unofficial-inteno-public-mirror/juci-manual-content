@@ -1,0 +1,5 @@
+
+
+# Ping
+
+Ping is a network tool which tests accessibility of hosts on an Internet Protocol network. It measures how long a it takes for a message to travel from the measuring host to the destination and back.

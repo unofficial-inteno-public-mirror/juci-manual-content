@@ -1,0 +1,5 @@
+
+
+# Bandwidth
+
+The bandwith is is a measure of network capacity. It indicates the [bit rate](/glossary/b/bit_rate) capacity.

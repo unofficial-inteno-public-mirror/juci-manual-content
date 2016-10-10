@@ -1,0 +1,27 @@
+
+{{indexmenu_n>10}}
+
+# iopsys
+
+##
+
+<div right half>![Overview](./iopsys_overview.png)</div>
+
+### iopsys Operating System
+
+Iopsys provides the first truly open source gateway software suited for the operator market. It supports all features required by modern business critical Gateway software. To improve the ease of field upgrades and service deployment, the Iopsys operating system contains a packet engine which provides modular installation/removal of native programs and application bundles. If Java is preferred, any OSGi framework can be installed. The iopsys SDK will enable both the operator and third party developers to develop functions and applications that may be downloaded and installed in the OS.
+
+### iopsys Portal
+
+The iopsys Portal is a standalone software suite composed of a back-end management server and a portal front end. The management server handles the account administration and the communication with the iopsys communication engine residing in the registered devices. The portal front end handles device registration, customer triggered installation and running of applications, software updates and manages the gateway functions. Once powered-on the gateway will connect to a portal were the customer can register his account and get access to services beyond triple play.
+
+### iopsys Client
+
+The iopsys communication engine is an embedded client software that can be integrated into any device that should be cloud connected. Typical devices are Gateways, Smart Phones, Tablets and Web Cameras but it could be just about anything that should be part of “The Internet of Things”. The client connects any device, for example a gateway, via an encrypted XMPP tunnel to a specific portal. A Smart Phone running a Home Control application including the client can now communicate to the gateway via the portal from anywhere at any time using the encrypted XMPP tunnel. The communication works behind any NAT and also provides for file transfers and proxy tunnel communication.
+
+### iopsys Ecosystem
+
+Iopsys offers one of the first true ecosystem program for residential gateways. Third party software providers may port their existing or new applications to the iopsys operating system using the iopsys SDK. By running multiple applications on the gateway the in-home box count is reduced and as a side effect this becomes positive to the environment. In order to keep tab of the gateways available resources, iopsys has a built-in resource manager, managing the resources and priorities of the different applications.
+
+
+<pagebreak>

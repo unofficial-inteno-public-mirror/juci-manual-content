@@ -1,0 +1,19 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>24}}
+
+# Parental Control
+
+Parental control is used to restrict access to the network for particular devices.
+
+## Internet Access Scheduling
+
+Parental control is handled by setting schedules where access is restricted to explicitly named [MAC](/glossary/m/mac) addresses.
+
+^ Item ^ Description ^
+| Weekdays | List of days the filter applies. |
+| Start Time | Time of day to start filtering. |
+| Stop Time | Time of day to stop filtering. |
+| {{/icon/edit.png}} | Edit filtering rule. |
+| {{/icon/trash.png}} | Delete filtering rule. |
+

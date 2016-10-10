@@ -1,0 +1,17 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>60}}
+
+# USB Status
+
+The **USB devices** views displays information about any [USB](/glossary/u/usb) devices connected to the gateway device.
+
+### Table
+
+The **USB device information** table shows information about the USB devices.
+
+^ Column ^ Description ^ Comment ^
+| Device ID | Identification for the USB device. |  |
+| Vendor ID | Identification for the manufacturer. |  |
+| Vendor Name | Name of the manufacturer. |  |
+| Device Name | Name reported by the USB device. |  |

@@ -1,0 +1,9 @@
+
+
+# RSS (Memory)
+
+RSS – Resident Set Size indicatres how much memory is allocated to a process and is in RAM.
+
+It includes all stack and heap memory, and shared libraries also in memory, but not memory that is swapped out.
+
+

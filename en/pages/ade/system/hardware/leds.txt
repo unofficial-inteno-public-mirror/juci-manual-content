@@ -1,0 +1,44 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>999}}
+
+# LEDs
+
+The **LED view** allows you to enable or disable the status LEDs on your device.
+
+The exact LEDs available vary with device type.
+
+## Examples
+
+BROADBAND
+
+DECT
+
+DSL
+
+EXT
+
+INTERNET
+
+LOGO
+
+STATUS
+
+VOICE1
+
+WAN
+
+WIFI
+
+WPS
+
+
+## Toggle LED
+
+To switch a LED on or off:
+
+* Find the desired LED in the list
+
+* Click the slider button in the interface
+
+* Click **Apply**

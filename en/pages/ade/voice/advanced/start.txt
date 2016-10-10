@@ -1,0 +1,16 @@
+
+
+{{indexmenu_n>60}}
+
+# Advanced Settings
+
+The **Advanced Settings** view contains advanced settings for SIP , voice lines and dial plans.
+
+##
+
+{{page>./sip/start}}
+
+{{page>./line/start}}
+
+{{page>./dialplan/start}}
+

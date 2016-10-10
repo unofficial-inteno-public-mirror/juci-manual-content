@@ -1,0 +1,5 @@
+# TD-SCDMA
+
+Time Division Synchronous Code Division Multiple Access (TD-SCDMA) is an [UMTS](/glossary/u/umts) 3G mobile networks in China.
+
+

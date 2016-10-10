@@ -1,0 +1,6 @@
+
+
+# Bitswap
+
+Bitswap is a methoid for adjusting the number of bits allocated to channels. Congested channels are assigned fewer bits, and available channels are allocated more bits.
+

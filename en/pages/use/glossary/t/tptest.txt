@@ -1,0 +1,10 @@
+
+
+# TPtest
+
+TPTEST allows you to measure the speed of your Internet connection, by sending a number to and from a defined reference test server.
+
+###  More information:
+
+A list of TP test servers is available at [http://tptest.sourceforge.net/servers.php](http://tptest.sourceforge.net/servers.php).
+

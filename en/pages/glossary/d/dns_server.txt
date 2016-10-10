@@ -1,0 +1,5 @@
+
+
+# DNS Server
+
+A Domain Name System Server runs networking software containing a database of network names and addresses to resources on the internet.

@@ -1,0 +1,42 @@
+
+
+{{indexmenu_n>160}}
+
+# Add Parental Control
+
+The Internet Access Schedule rules you add from the client panel will only apply to that client.
+
+## Internet Access Scheduling
+
+Parental control is handled by setting schedules where access is restricted to explicitly named [MAC](/glossary/m/mac) addresses.
+
+When adding a parental control filter from the client panel, the [MAC Address](/glossary/m/mac) is automatically selected from the client.
+
+### Add an Internet Access Schedule
+
+
+* Select a **Time Frame** from the menu
+
+* Edit the selected **Days** as needed
+
+* Enter a time:
+  * **From**
+  * **To**
+
+* Click **Save**
+
+* Click **Close**
+
+
+### Start and Stop Times
+
+The start time for a rule has to be lower than the end time.
+
+If you want to have a rule that goes over midnight, you need to add two rules, one up until midnight, and one from midnight to when you want the rule to end.
+
+For example:
+
+Rule one: **From** `21:00` **To** `23:59`
+Rule two: **From** `00:00` **To** `06:00`
+
+A single rule of **From** `21:00` **To** `06:00` will **not** be saved.

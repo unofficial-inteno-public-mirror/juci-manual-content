@@ -1,0 +1,12 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>30}}
+
+# Details
+
+More detailed Information about the status of an item in the map is availabe by pointing the cursor at an icon in the map.
+
+##
+
+![Details](./point.png)
+

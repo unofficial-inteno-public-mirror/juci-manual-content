@@ -1,0 +1,5 @@
+
+
+# Prefix delegation
+
+Prefix delegation is used in DHCPv6 to assign a network address prefix and automate configuration and provisioning of the public addresses for the network.

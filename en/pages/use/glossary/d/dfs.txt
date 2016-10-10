@@ -1,0 +1,7 @@
+
+
+# DFS
+
+Dynamic Frequency Selection (DFS) means that the [wireless radio](/glossary/w/wireless_radio) automatically selects the least congested [wifi channel](/glossary/w/wifi_channel) to use.
+
+

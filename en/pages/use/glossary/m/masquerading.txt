@@ -1,0 +1,5 @@
+
+
+# Masquerading
+
+Firewall masquerading entails modifying addressing to allow devices to communicate with the WAN without being visible externally. To the external network, all traffic will look as originating from the gateway.

@@ -1,0 +1,31 @@
+
+
+{{indexmenu_n>160}}
+
+# Parental Control
+
+Parental control is used to restrict access to the network for particular devices.
+
+## Internet Access Scheduling
+
+Parental control is handled by setting schedules where access is restricted to explicitly named [MAC](/glossary/m/mac) addresses.
+
+^ Item ^ Description ^
+| Weekdays | List of days the filter applies. |
+| Start Time | Time of day to start filtering. |
+| Stop Time | Time of day to stop filtering. |
+| MAC Addresses | List of device [MAC](/glossary/m/mac) addresses. |
+
+
+### Start and Stop Times
+
+The start time for a rule has to be lower than the end time.
+
+If you want to have a rule that goes over midnight, you need to add two rules, one up until midnight, and one from midnight to when you want the rule to end.
+
+For example:
+
+Rule one: **From** `21:00` **To** `23:59`
+Rule two: **From** `00:00` **To** `06:00`
+
+A single rule of **From** `21:00` **To** `06:00` will **not** be saved.

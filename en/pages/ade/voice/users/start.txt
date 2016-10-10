@@ -1,0 +1,41 @@
+{{indexmenu_n>40}}
+
+# SIP Users
+
+The **SIP Users** view shows information about configured [SIP users](/glossary/s/sip_users) for the device.
+
+##
+
+At the top of the page is a list of selectable accounts.
+
+When a particular account is selected, details about it is shown in the configuration section.
+
+^ Item ^ Description ^
+| Enabled | Turn user on or off. |
+| Name | Display name used in Caller ID. |
+| Extension | Extension for this user. |
+| User Name | [SIP user name](/glossary/s/sip_user). |
+| User Password | Enter new password to change. |
+| Show Key Text | Display the password. |
+| Call out using SIP provider | [SIP account](/glossary/s/sip_account) for outbound calls. |
+| Mailbox | Voicemail inbox. |
+| Preferred codecs | Order of preference for [SIP codecs](/glossary/s/sip_codec). |
+| Host | Specific host for this user.  |
+| Qualify | Check that the user is reachable. |
+
+
+### Add user
+
+You can add as many users as you needed.
+
+To add a user:
+
+* Click the **Add** button
+
+* Enter a **Name** for the user
+
+* Enter values as needed.
+
+* Click **Apply**
+
+

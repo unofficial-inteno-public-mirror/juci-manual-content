@@ -1,0 +1,7 @@
+
+
+# Strict Priority Precedence
+
+Strict Priority Precedence means that where the the packets with the highest priority always are sent first.
+
+

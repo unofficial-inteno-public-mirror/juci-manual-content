@@ -1,0 +1,20 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>110}}
+
+# Devices
+
+The **Devices** view allows you to configure settings for various network types.
+
+##
+
+{{page>./base/start}}
+
+{{page>./ethernet/start}}
+
+{{page>./adsl/start}}
+
+{{page>./vsdl/start}}
+
+{{page>./vlan/start}}
+

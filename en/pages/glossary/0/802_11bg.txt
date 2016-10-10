@@ -1,0 +1,6 @@
+
+
+# 802.11b/g
+
+802.11b/g is a [wireless radio](/glossary/w/wireless_radio) specification combining [802.11b](/glossary/0/802_11b) and [802.11g](/glossary/0/802_11g) standards in dual band mode.
+

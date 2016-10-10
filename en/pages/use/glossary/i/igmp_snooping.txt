@@ -1,0 +1,5 @@
+
+
+# IGMP Snooping
+
+IGMP snooping is the process of listening to [IGMP](/glossary/i/igmp) network traffic to determine which paths are associatied with which IP multicast streams, and allow management of the multicast traffic.

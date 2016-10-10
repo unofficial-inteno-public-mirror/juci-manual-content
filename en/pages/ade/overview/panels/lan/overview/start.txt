@@ -1,0 +1,19 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>21}}
+
+# Detailed Client Overview
+
+In The **Detailed Client Overview**, information about the clients in the lan is displayed.
+
+##
+
+![Overview](./main.png)
+
+^ Item ^ Description ^
+| Hostname | Client [hostname](/glossary/h/hostname). |
+| IPv4 Address | Client [IPv4 Address](/glossary/i/ip). |
+| MAC Address | Client [MAC Address ](/glossary/m/mac).  |
+| Port  | Device [port](/glossary/p/port). |
+| Network | Network interface for the client. |
+| Link Speed | Type of [negotiation](/glossary/a/auto_negotiation), [speed](/glossary/l/link_speed) and [duplex](/glossary/d/duplex) for the connection. |

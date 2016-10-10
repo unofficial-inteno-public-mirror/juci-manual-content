@@ -1,0 +1,27 @@
+{{indexmenu_n>20}}
+
+# General
+
+The general tab contains status information and settings relating to the protocol.
+
+## Status
+
+^ Item ^ Description ^
+| Status | Connection status. |
+| Device | Device in use. |
+| Protocol | Protocol in use. |
+
+
+## Configuration
+
+^ Item ^ Description ^
+| Protocol | Protocol in use. |
+| Modem device | Modem to use for 3G traffic. |
+| APN | [Access Point Name](/glossary/a/apn). |
+| PIN-Code | PIN code for identification. |
+| Authentication type | [PAP](/glossary/p/pap) / [CHAP](/glossary/c/chap) / Both / None . |
+| Username | For authentication with [PAP](/glossary/p/pap) or [CHAP](/glossary/c/chap). |
+| Password | For authentication with [PAP](/glossary/p/pap) or [CHAP](/glossary/c/chap). |
+| Modes | Comma-separated list of allowed network modes (**all** / [lte](/glossary/l/lte) / [umts](/glossary/u/umts) / [gsm](/glossary/g/gsm) / [cdma](/glossary/c/cdma) / [td-scdma](/glossary/t/td_scdma)). |
+| Delay | Seconds to wait before trying to interact with the modem. |
+

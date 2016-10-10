@@ -1,0 +1,24 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>50}}
+
+# Menu
+
+The menu contains a number of items, which provide access to various parts of the web interface.
+
+##
+
+![Menu](./main.png)
+
+
+{{page>../../overview/start}}
+
+{{page>../../voice/start}}
+
+{{page>../../network/start}}
+
+{{page>../../wifi/start}}
+
+{{page>../../system/start}}
+
+{{page>../../status/start}}

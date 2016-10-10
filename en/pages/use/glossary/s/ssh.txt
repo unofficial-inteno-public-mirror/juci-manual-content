@@ -1,0 +1,5 @@
+
+
+# SSH
+
+Secure Shell (SSH) is a protocol for secure communication on networks. Most commonly it is used for remote login to devices, typically to unix shell accounts.

@@ -1,0 +1,8 @@
+
+
+# CPU
+
+The CPU value indicates how much of CPU processing power is being used.
+
+
+

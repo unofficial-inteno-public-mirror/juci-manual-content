@@ -1,0 +1,4 @@
+# DDM
+
+Digital diagnostics monitoring (DDM) is a feature for [SFP](/glossary/s/sfp) parameter monitoring in a device.
+

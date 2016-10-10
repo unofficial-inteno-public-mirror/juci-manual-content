@@ -1,0 +1,15 @@
+
+
+# TCP Flags
+
+Transmission Control Protocol (TCP) Flags are control bits for [TCP](/glossary/t/tcp) messages which indicate how packets should be handled or indicate connection states.
+
+^ Flag ^ Description ^
+| SYN | Synchronize sequence numbers. |
+| ACK | Acknowledgment field is significant. |
+| FIN | No more data from sender. |
+| RST | Reset the connection. |
+| URG | Urgent pointer field is significant. |
+| PSH | Push function. |
+| CWR | Congestion Window Reduced. |
+| ECE | TCP peer is ECN capable. |
