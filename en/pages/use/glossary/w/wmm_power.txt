@@ -1,5 +1,0 @@
-
-
-# WMM Power Save
-
-WMM Power Save allows small devices, such as phones and PDAs, to transmit data while in a low-power status.

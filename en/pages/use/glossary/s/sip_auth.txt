@@ -1,5 +1,0 @@
-
-
-# SIP Authentication Name
-
-A SIP Authentication Name is used together with an [SIP Realm](/glossary/s/sip_realm) to provide access to SIP services. The authentication username doesn't have to be the same as the [SIP user](/glossary/s/sip_user) name.

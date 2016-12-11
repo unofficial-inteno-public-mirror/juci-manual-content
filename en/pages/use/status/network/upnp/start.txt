@@ -1,6 +1,0 @@
-{{indexmenu_n>40}}
-
-# UPnP
-
-The **UPnP Open Ports** view shows the status of any [UPnP](/glossary/u/upnp) ports currently in use.
-

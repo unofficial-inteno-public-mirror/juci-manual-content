@@ -1,7 +1,0 @@
-
-
-# Packetization
-
-Packetization is the process diciding data into [packets](/glossary/p/packet)
-for transmission according to a defined [protocol](/glossary/p/protocol).
-

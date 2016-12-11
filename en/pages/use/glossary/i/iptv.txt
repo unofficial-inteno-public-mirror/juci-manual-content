@@ -1,5 +1,0 @@
-
-
-# IPTV
-
-Internet Protocol Television (IPTV) delivers television services over [IP](/glossary/i/ip) networks as a streaming service.

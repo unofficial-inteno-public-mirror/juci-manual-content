@@ -1,6 +1,0 @@
-
-
-# Port
-
-A port is a communication endpoint, identified by a number, which combined with an [IP address](/glossary/i/ip) provides the necessary addressing for a service on the network.
-

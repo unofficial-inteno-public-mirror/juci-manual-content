@@ -1,5 +1,0 @@
-
-
-# VOIP
-
-VoIP - Voice Over IP is a group of technologies for the delivery of voice communications and multimedia sessions over Internet Protocol networks.

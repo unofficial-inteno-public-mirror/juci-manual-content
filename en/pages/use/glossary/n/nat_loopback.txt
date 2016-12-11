@@ -1,5 +1,0 @@
-
-
-# NAT Loopback
-
-NAT loopback is a method using [NAT](/glossary/n/nat) to provide access to services via the public IP address from inside the local network.

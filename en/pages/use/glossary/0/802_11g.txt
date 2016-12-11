@@ -1,6 +1,0 @@
-
-
-# 802.11g
-
-802.11g is a [wireless radio](/glossary/w/wireless_radio) specification for the 2.4 GHz band with a maximum data rate of 54 Mbit/s.
-

@@ -1,7 +1,0 @@
-
-
-# ADSL
-
-Asymmetric digital subscriber line (ADSL) is a [DSL](/glossary/d/dsl) technology providing network traffic over copper wires.
-
-ADSL is slower than [VDSL](/glossary/v/vdsl), with up to 24 Mbit/s downstream and 3.3 Mbit/s upstream speeds.

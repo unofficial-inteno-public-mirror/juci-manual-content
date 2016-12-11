@@ -1,7 +1,0 @@
-
-
-# 6in4
-
-6in4 is a method to transmit [IPv6](/glossary/i/ipv6) traffic over explicit [IPv4](/glossary/i/ipv4) connections.
-
-The traffic is sent over the IPv4 Internet inside IPv4 packets whose IP headers have the IP protocol number set to 41.

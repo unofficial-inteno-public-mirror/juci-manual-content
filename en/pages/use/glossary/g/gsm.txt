@@ -1,5 +1,0 @@
-
-
-# GSM
-
-Global System for Mobile Communications (GSM) is a standard for protocols for digital cellular networks used by mobile phones.

@@ -1,5 +1,0 @@
-
-
-# MiniDLNA
-
-MiniDLNA is media server for [DLNA](/glossary/d/dlna) / [UPnP](/glossary/u/upnp) clients.

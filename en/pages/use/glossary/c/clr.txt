@@ -1,6 +1,0 @@
-
-
-# CLR
-
-Cell Loss Ratio (CLR) is the percentage of network [cells](/glossary/c/cell) that do not arrive at their destination.
-

@@ -1,5 +1,0 @@
-
-
-# RFC2275
-
-RFC 2275 - View-based Access Control Model (VACM) for the Simple Network Management Protocol (SNMP)- defines an access method for resources based on view access. It limits the access of multiple users having various security levels different views of the object tree.

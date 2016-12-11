@@ -1,7 +1,0 @@
-
-
-# WEP
-
-Wired Equivalent Privacy (WEP) is a security algorithm intended to provide security comparable a wired network.
-
-WEP uses a key of 10 or 26 hexadecimal digits.

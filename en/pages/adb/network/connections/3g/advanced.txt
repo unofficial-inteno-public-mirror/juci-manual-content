@@ -1,1 +1,0 @@
-../../../../ade/network/connections/3g/advanced.txt

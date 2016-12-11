@@ -1,6 +1,0 @@
-
-
-# Back-Off
-
-Back-Off is a method for decreasing the frequency of retransmissions of request in order to avoid congestion and collision.
-

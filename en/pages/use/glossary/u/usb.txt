@@ -1,7 +1,0 @@
-
-
-# USB
-
-USB – Universal Serial Bus is a standard for connection, communication, and power supply between computers and electronic devices.
-
-

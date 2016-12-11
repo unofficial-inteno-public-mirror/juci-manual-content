@@ -1,6 +1,0 @@
-
-
-# Point-to-Point Tunneling Protocol
-
-Point-to-Point Tunneling Protocol (PTPT) is a technology for [virtual private networks](/glossary/v/vpn) through [TCP](/glossary/t/tcp) and a [GRE](/glossary/g/gre) with [PPP](/glossary/p/ppp) packets.
-

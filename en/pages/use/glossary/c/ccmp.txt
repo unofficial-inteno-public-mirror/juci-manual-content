@@ -1,6 +1,0 @@
-
-
-# CCMP
-
-CCMP – CTR mode with CBC-MAC Protocol is based on the Advanced Encryption Standard (AES) cipher along with strong message authenticity and integrity checking.
-

@@ -1,6 +1,0 @@
-
-
-# WiFi Key
-
-The WiFI Key or passphrase is a shared secret between client and server used for encryption and decryption in wireless networks.
-

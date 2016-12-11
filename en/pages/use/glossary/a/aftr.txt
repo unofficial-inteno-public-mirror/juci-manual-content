@@ -1,5 +1,0 @@
-
-
-# AFTR
-
-An Address Family Transition Router (AFTR) is a server implementing the [Dual-Stack Lite](/glossary/d/ds_lite) to provide IPv4 to IPv4 communication over IPv6.

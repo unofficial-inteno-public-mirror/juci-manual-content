@@ -1,5 +1,0 @@
-
-
-# Route metric
-
-The route metric is used for routing decisions, and is added to [routing tables](/glossary/r/routing_table) to enable routing decisions.

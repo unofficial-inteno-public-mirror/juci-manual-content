@@ -1,5 +1,0 @@
-
-
-# Bit Error Rate
-
-The Bit Error Rate (BER) is the percentage of transmitted bits which contain errors.

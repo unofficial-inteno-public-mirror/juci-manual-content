@@ -1,1 +1,0 @@
-../../../ade/wifi/wps/pbc.txt

@@ -1,3 +1,0 @@
-Subnet Mask
-
-A subnet mask is used to divide the IP address into network and host addresses. 

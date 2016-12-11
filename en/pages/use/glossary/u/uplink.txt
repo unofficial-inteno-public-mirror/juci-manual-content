@@ -1,5 +1,0 @@
-
-
-# Uplink
-
-An uplink interface type is an interface to services.
