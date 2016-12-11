@@ -1,1 +1,0 @@
-../../../../ade/network/devices/ethernet/start.txt

@@ -1,7 +1,0 @@
-
-
-# LSAP
-
-Link Service Access Point (LSAP) fields are used to identify which protocol handler should process an incoming [frame](/glossary/f/frame).
-
-LSAP fields allow the receiving node to pass each received frame to an appropriate device driver which understands given protocol.

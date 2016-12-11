@@ -1,7 +1,0 @@
-
-
-# DSCP
-
-A Differentiated Services Code Point (DSCP) is a 6-bit code point in the differentiated services field (DS field) inside the packet IP header.
-
-It is used by [Differentiated Services](/glossary/d/diffserv) for classification purposes to provide [quality of service](/glossary/q/qos) functionality.

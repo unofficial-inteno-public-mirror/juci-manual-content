@@ -1,5 +1,0 @@
-
-
-# IPoE
-
-Internet Protocol over Ethernet (IPoE) is a protocol to provide an [DSL](/glossary/d/dsl) Internet connection over [Ethernet](/glossary/e/ethernet), by directly encapsulating the data in Ethernet [frames](/glossary/f/frame).

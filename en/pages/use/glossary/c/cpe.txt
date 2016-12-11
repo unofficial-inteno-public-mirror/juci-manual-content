@@ -1,5 +1,0 @@
-
-
-# CPE
-
-The term Customer-Premises Equipment (CPE) is used in [TR069](/glossary/t/tr069) and refers to devices in a network that is located in the premises of a subscriber.

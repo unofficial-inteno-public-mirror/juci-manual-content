@@ -1,5 +1,0 @@
-
-
-# Inotify
-
-Inotify (inode notify) is a subsystem to detect changes to the filesystem, and report those changes to applications.

@@ -1,6 +1,0 @@
-
-
-# Periodic Inform
-
-The Periodic Inform setting determines whether [CPEs](/glossary/c/cpe) must periodically send information to the [CPE](/glossary/a/acs).
-

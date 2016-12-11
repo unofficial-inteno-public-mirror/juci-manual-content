@@ -1,9 +1,0 @@
-
-
-# IP Address
-
-An Internet Protocol address (IP address) is a numerical identifier for a device address.
-
-{{page>/glossary/i/ipv4}}
-
-{{page>/glossary/i/ipv6}}

@@ -1,6 +1,0 @@
-
-
-# TPC
-
-Transmission Power Control (TPC) is used to automatically adjust the transmission power level on [wireless radios](/glossary/w/wireless_radio) to avoid interference.
-

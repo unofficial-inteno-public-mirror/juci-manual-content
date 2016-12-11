@@ -1,6 +1,0 @@
-
-
-# Jitter
-
-Jitter is variations in packet arrival time, which may be caused by network congestion, timing delays, or changed routes.
-

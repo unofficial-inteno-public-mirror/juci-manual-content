@@ -1,5 +1,0 @@
-
-
-# PLC
-
-Packet loss concealment (PLC) is a technique to mask the effects of [packet loss](/glossary/p/packet_loss) in [VoIP](/glossary/v/voip) communications.

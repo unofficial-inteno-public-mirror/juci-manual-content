@@ -1,5 +1,0 @@
-
-
-# TTL
-
-Time to live (TTL) is a mechanism to determine when data in a network should be discarded, for example for cache expiry, or to prevent data from being transmitted forever.

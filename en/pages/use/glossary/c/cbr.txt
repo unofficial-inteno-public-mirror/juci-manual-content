@@ -1,5 +1,0 @@
-
-
-# CBR
-
-The Constant Bit Rate (CBR) [service type](/glossary/s/service_type) is used for applications that transport traffic at a constant bit rate, where time synchronisation between source and destination is important, providing predictable response times and a static amount of bandwidth.

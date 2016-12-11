@@ -1,5 +1,0 @@
-
-
-# RX Chain Power Save PPS
-
-The maximum number of packets per second that the WLAN interface should process for during [RX Chain Power Save Quiet Time](/glossary/r/rxc_psqt) before the [RX Chain Power Save](/glossary/r/rxc_ps) feature activates itself.

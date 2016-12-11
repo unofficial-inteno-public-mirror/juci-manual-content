@@ -1,5 +1,0 @@
-
-
-# RX Chain Power Save
-
-The RX Chain Power Save feature turns one of the [receive chains](/glossary/r/rxc) off to save power.

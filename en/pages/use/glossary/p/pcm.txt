@@ -1,7 +1,0 @@
-
-
-# PCM
-
-Pulse-code modulation (PCM) is the standard method for digital audio. PCM entails converting analog signals to digital values by sampling the amplitude of the analog signal at set time intervals. Each sample is [quantized](/glossary/q/quantization) to the nearest value within a range of digital steps. With PCM, the ranges vary with the source amplitude, so that the steps are larger at higher amplitudes.
-
-PCM is defined by *sampling rate* (number of times per second that samples are taken) and *bit depth* (number of different digital values).

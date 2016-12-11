@@ -1,5 +1,0 @@
-
-
-# Unmanaged
-
-The interface protocol type Unmanaged means that the connection has no defined protocol.

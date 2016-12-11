@@ -1,6 +1,0 @@
-
-
-# ABR
-
-The Available Bit Rate (ABR) [service type](/glossary/s/service_type) is used primarily for traffic that is not time sensitive and don't need service level guarantees.
-

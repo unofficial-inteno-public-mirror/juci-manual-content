@@ -1,7 +1,0 @@
-
-
-# VLAN
-
-A virtual LAN (VLAN) is, as the name implies, a virtualized [LAN](/glossary/l/lan). Most commonly a VLAN is a subdivision of a network.
-
-VLANs also allow grouping of hosts together even if the hosts are not connected to the same network device, and managing them through software.

@@ -1,7 +1,0 @@
-
-
-# PAP
-
-Password Authentication Protocol (CHAP) is a method used to authenticate [PPP](/glossary/p/ppp) sessions.
-
-PAP works like a standard login procedure; using a static user name and password combination.

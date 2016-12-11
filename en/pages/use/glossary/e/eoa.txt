@@ -1,6 +1,0 @@
-
-
-# EoA
-
-Ethernet over ATM (EoA) is a protocol using [PPP](/glossary/p/ppp) to provide an [DSL](/glossary/d/dsl) Internet connection over [ATM](/glossary/a/atm).
-
