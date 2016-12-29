@@ -1,0 +1,23 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>100}}
+
+# DECT Radio
+
+The **Dect Radio** view allows you to configure [DECT](/glossary/d/dect) radio settings.
+
+##
+
+^ Item ^ Description ^
+| DECT Radio | `Auto` / `On` / `Off`. |
+| Radio Status | Current status for the DECT Radio.|
+| Pair DECT Device | Button to start [pairing](/glossary/p/pairing) for a DECT device. |
+| Codecs | DECT [codecs](/glossary/c/codec) available for the device. |
+
+
+At the bottom of the page is a list of currently [paired](/glossary/p/pairing) devices.
+
+^ Item ^ Description ^
+| ID | Pairing ID. |
+| IPUI |[IPUI](/glossary/i/ipui) number. |
+| Codecs | DECT [codecs](/glossary/c/codec) available for the device. |

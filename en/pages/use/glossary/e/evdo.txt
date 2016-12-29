@@ -1,0 +1,5 @@
+
+
+# EVDO
+
+Evolution-Data Optimized (EVDO) is a standard for broadband Internet through wireless data transmission.

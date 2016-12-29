@@ -1,0 +1,6 @@
+
+
+# %CPU
+
+The CPU percentage for a process indicates how much of CPU processing power is being used.
+

@@ -1,0 +1,7 @@
+
+
+# Netmask
+
+A netmask is a mask used to divide an IP address into subnets and specify the network's available hosts.
+
+For example, in 255.255.225.0, "0" is the assigned network address. In 255.255.255.255, "255" is the assigned broadcast address. The 0 and 255 are always assigned.

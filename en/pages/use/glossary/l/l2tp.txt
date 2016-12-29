@@ -1,0 +1,8 @@
+
+
+# L2TP
+
+Layer 2 Tunneling Protocol (L2TP) is a protocol used to support [VPNs](/glossary/v/vpn), where security is provided in the transmitted packages rather than in the tunneling.
+
+
+

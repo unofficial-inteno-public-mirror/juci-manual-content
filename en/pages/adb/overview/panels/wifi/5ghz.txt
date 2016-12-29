@@ -1,0 +1,1 @@
+../../../../ade/overview/panels/wifi/5ghz.txt

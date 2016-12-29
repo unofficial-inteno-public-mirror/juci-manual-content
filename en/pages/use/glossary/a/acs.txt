@@ -1,0 +1,5 @@
+
+
+# ACS
+
+An Auto Configuration Servers (ACS) is a server used for automatic device and user provisioning and configuration through [TR069](/glossary/t/tr069).

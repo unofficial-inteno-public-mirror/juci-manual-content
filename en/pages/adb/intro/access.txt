@@ -1,0 +1,28 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>10}}
+
+# Access web interface
+
+To access the web interface you need to use your web browser. There are multiple ways of accessing the interface.
+
+#### IPv4
+
+The standard IPv4 address for the interface is `http://192.168.1.1`.
+
+#### Hostname
+
+The web interface can be accessed through a default hostname, for example `inteno.lan/` or `routerlogin.net/`, or through custom  hostnames set up by the provider.
+
+#### IPv6
+
+An IPv6 address or IPv6 hostname can also be used to access the web gui.
+
+##
+
+* Launch your web browser
+* Enter the address (for example: [http://192.168.1.1](http://192.168.1.1))
+* Press [Enter].
+
+You are taken to the web interface [login page](./login).
+

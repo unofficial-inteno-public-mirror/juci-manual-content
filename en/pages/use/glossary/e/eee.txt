@@ -1,0 +1,5 @@
+
+
+# EEE
+
+Energy-Efficient Ethernet (EEE) is a technology for allowing for less power consumption during periods of low data activity.

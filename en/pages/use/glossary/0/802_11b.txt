@@ -1,0 +1,5 @@
+
+
+# 802.11b
+
+802.11b is a [wireless radio](/glossary/w/wireless_radio) specification for the 2.4GHz band with a maximum data rate of 11 Mbit/s .

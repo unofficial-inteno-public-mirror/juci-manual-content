@@ -1,0 +1,13 @@
+
+
+# WPS
+
+Wi-Fi Protected Setup (WPS) is an authentication key distribution method. It can be performed in one of several ways.
+
+PIN code: A PIN is entered on the client.
+
+Push button: An actual or virtual button is pressed on the device and the client within a short amount of time.
+
+Near field: The client is brought physically close to the device.
+
+USB: An USB device is used to transfer data between the new client and the device. (Deprecated)

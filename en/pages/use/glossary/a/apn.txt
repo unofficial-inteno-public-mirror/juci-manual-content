@@ -1,0 +1,6 @@
+
+
+# APN
+
+An Access Point Name (APN) is the name of a gateway between a mobile network providing access to Internet.
+

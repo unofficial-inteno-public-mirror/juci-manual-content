@@ -1,0 +1,36 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>13}}
+
+# Edit 2.4GHz Wireless Interface
+
+In the **edit wireless interface** view you can change different aspects of your interface.
+
+##
+
+![Wireless interface](./2_4GHz.png)
+
+^ Item ^ Comment ^
+| Enabled | Turn on or off. |
+| WiFi Network Name | Edit name of [SSID](/glossary/s/ssid) network |
+| Broadcast SSID | Toggle to make the network [SSID](/glossary/s/ssid) visible or invisible |
+| Encryption | Selected [encryption](/glossary/w/wifi_encryption) method |
+| Cipher | Form of [Cipher](/glossary/c/cipher) |
+| WiFi Key (Password) | Text to use as [wifi key](/glossary/w/wifi_key) |
+| Show Key Text | Displays the [wifi key](/glossary/w/wifi_key) text |
+
+
+## Wireless Settings
+
+To open The **wifi status** view for 2.4GHZ:
+
+* Click **2.4 GHz** to open the wifi status view
+
+
+To edit the wireless interface for a radio:
+
+* Click the {{/icon/edit.png}} **edit** button to open up the wireless interface settings
+
+* Edit the wireless interface
+
+* Click **Save**

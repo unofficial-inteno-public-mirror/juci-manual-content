@@ -1,0 +1,6 @@
+
+
+# TKIP
+
+TKIP (Temporal Key Integrity Protocol) is a RC4 stream cipher is used with a 128-bit per-packet key, meaning that it dynamically generates a new key for each packet.
+

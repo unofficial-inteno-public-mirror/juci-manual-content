@@ -1,0 +1,5 @@
+
+
+# SNMP Agents
+
+An SNMP agent provides access to managament data as variables that can be modified to perform managment tasks remotely. The variables accessible via SNMP are organized in hierarchies and stored together with metadata in [Management Information Bases](/glossary/m/mib).

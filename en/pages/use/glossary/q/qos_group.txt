@@ -1,0 +1,5 @@
+
+
+# QoS Classification Group
+
+A QoS Class group is a collection of [QoS classes](/glossary/q/qos_class) which can be added to an interface to provide a combination of settings.

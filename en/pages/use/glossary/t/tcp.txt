@@ -1,0 +1,6 @@
+
+
+# TCP
+
+The Transmission Control Protocol (TCP) is a protocol to provide reliable data streams over an [IP](/glossary/i/ip) network.
+

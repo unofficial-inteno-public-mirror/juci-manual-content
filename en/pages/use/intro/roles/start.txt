@@ -1,0 +1,49 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>30}}
+
+# User Roles
+
+The web interface uses *Roles* to provide and restrict access to the various features in the device. 
+
+There are four pre-defined roles: User, Support, Admin, and Root. 
+
+
+### User
+
+The User role has restricted access to basic set of features.
+
+login: `user`
+
+password: `user`
+
+
+
+### Support
+
+The Support role has elevated access to basic and a set of advanced features.
+
+login: `support`
+
+password:`support`
+
+
+
+### Admin
+
+The Admin role has unrestricted access to all basic and advanced features.
+
+login: `admin`
+
+password:`admin`
+
+
+
+### Root
+
+The Root role has unrestricted to the device, and can be used for command line access to the device via [ssh](/glossary/s/ssh).
+
+login: `root`
+
+password:`root`
+

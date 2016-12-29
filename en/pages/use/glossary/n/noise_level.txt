@@ -1,0 +1,9 @@
+
+
+# Noise level
+
+The WiFi Noise level is the amount of interference in your wireless signal, such as crosstalk, radio frequency interference, distortion, and so on.
+
+It is measured in decibels from zero to -120, where a lower value is better.
+
+Typical environments range between -100db and -80db.

@@ -1,0 +1,12 @@
+
+
+# Jitter Buffer
+
+A jitter buffer is storage for voice packets so they can be sent out in evenly spaced intervals used to reduce [jitter](/glossary/j/jitter), providing better transmission reliability.
+
+There are two **jitter buffer implementation** types which are used by the SIP channel reciever.
+
+^ Implementation ^ Description ^
+| Fixed | Use a fixed buffer size. |
+| Adaptive | Use a variable buffer size. |
+

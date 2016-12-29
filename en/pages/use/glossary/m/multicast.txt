@@ -1,0 +1,11 @@
+
+
+# Multicast
+
+Multicast is group communication where information is addressed to a group of destination computers simultaneously.
+
+IP multicast is a method of sending Internet Protocol data messages to a group of interested receivers in a single transmission. It is often employed for streaming media applications on the Internet and private networks. The method is the IP-specific version of the general concept of multicast networking.
+
+It uses specially reserved multicast address blocks in IPv4 and IPv6.
+
+In IPv6, IP multicast addressing replaces broadcast addressing as implemented in IPv4.

@@ -1,0 +1,5 @@
+
+
+# Network bridge
+
+A network bridge combines two network segments inte an aggregated network, making them behave as if they are one continuos segment.

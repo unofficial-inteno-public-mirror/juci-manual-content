@@ -1,0 +1,5 @@
+
+
+# BSS
+
+The basic service set (BSS) is the basic building block in a wireless LAN. It is a set of all stations that can communicate with each other. Every BSS has an identification (ID) called the BSSID, which is the MAC address of the access point servicing the BSS.

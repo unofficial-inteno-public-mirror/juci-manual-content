@@ -1,0 +1,5 @@
+
+
+# Beamforming
+
+Beamforming is technique used for radio signals to improve quality and performance. It is done by creating multiple signals and finding the best paths, thereby "shaping" the antenna output to provide minimum interference.
