@@ -13,3 +13,4 @@ The IPv4 section lets you add [static routes](/glossary/s/static_route) for [IPV
 | Gateway | IP address to the internet [gateway](/glossary/g/gateway). |  |
 | Metric | Route [metric](/glossary/r/route_metric). |
 | MTU | [MTU](/glossary/m/mtu) size to use. |
+| Delete | Remove route. |

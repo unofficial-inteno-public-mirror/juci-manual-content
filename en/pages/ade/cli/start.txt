@@ -1,0 +1,16 @@
+{{indexmenu_n>999}}
+
+# Enable Online Help
+
+Online help will already be by default enabled in 3.10.0.
+
+## CLI Enable Online Help
+
+For version 3.9.0 and 3.9.1, online help can be enabled from the command line:
+
+```
+uci set juci.wiki.visible=1
+uci commit juci
+```
+
+tunntunntunn

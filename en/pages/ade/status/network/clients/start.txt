@@ -11,6 +11,6 @@ The **Connected Clients** view shows a list of clients connected to the network.
 | MAC Address | Client [MAC Address ](/glossary/m/mac).  |  |
 | IPv4 Address | Client [IPv4 Address](/glossary/i/ip). |  |
 | IPv6 Address | Client [IPv6 Address](/glossary/i/ip). |  |
-| Device | Network device type. | Displayed as  [virtual interface](/glossary/v/virtual_interface) name. |
+| Active Connections | Number of active connections. |
 
 
