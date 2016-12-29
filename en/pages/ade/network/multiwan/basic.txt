@@ -40,7 +40,7 @@ A new WAN is added to the list.
 
 
 
-### Add ustom DNS Servers
+### Add Custom DNS Servers
 
 To add a custom DNS server:
 
