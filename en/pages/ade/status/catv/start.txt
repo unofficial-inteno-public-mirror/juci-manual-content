@@ -9,3 +9,9 @@ The **CATV Status** view shows information about [CATV](/glossary/c/catv) servic
 ##
 
 **Note:** Available on EG300 & EG400 only.
+
+^ Option ^ Description ^ Example ^
+| Inteno model | Model. | `CATV-302` |
+| VPD | Reverse voltage on Protectoion Device | `-inf dBm` |
+| RF Range  |  | `75.7 dBµV` |
+| RF enable |  | `OFF` |

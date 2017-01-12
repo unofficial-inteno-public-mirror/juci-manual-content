@@ -17,7 +17,7 @@ Information is shown in two tables; [ROM](/glossary/r/rom)  information and [DDM
 
 The DDM table shows information about the [DDM](/glossary/d/ddm) retrieved from the SPF.
 
-^ Option ^ Description ^ Comment ^
+^ Option ^ Description ^ Example ^
 | voltage |  | `3.1872 (V)` |
 | current |  | `26.448 (mA)` |
 | tx-pwr |  | `0.3530 (mW)` |
@@ -31,7 +31,7 @@ The DDM table shows information about the [DDM](/glossary/d/ddm) retrieved from 
 
 The ROM table shows information about the [ROM](/glossary/r/rom).
 
-^ Option ^ Description ^ Comment ^
+^ Option ^ Description ^ Example ^
 | connector |  | `SC` |
 | ethernet |  | `LX` |
 | encoding |  | `8B10B` |
