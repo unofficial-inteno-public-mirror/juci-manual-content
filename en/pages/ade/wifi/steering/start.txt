@@ -1,0 +1,10 @@
+{{indexmenu_n>30}}
+
+# Band Steering
+
+The **Band Steering** view allows you to enable [band steering](/glossary/b/band_steering) for the device.
+
+##
+
+^ Item ^ Comment ^
+| Enable | Turn [band steering](/glossary/b/band_steering) on or off. |

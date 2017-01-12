@@ -1,6 +1,6 @@
 {{tag>user_expert}}
 
-{{indexmenu_n>30}}
+{{indexmenu_n>40}}
 
 # WPS Settings
 

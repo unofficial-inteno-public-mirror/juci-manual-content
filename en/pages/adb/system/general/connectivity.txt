@@ -1,0 +1,1 @@
+../../../ade/system/general/connectivity.txt

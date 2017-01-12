@@ -1,0 +1,3 @@
+# NTP Mode
+
+The NTP Server mode allows the device to act as a local [NTP](/glossary/n/ntp) server even when losing connection to the providing NTP server. 

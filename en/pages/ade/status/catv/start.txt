@@ -8,3 +8,4 @@ The **CATV Status** view shows information about [CATV](/glossary/c/catv) servic
 
 ##
 
+**Note:** Available on EG300 & EG400 only.

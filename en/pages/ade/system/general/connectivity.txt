@@ -1,0 +1,12 @@
+
+{{indexmenu_n>40}}
+
+# Connectivity Test
+
+The **Connectivity Test** view allows for automatic verification of the Internet connection by accessing a predefined URL.
+
+## Current Firmware
+
+^ Item ^ Description ^
+| Internet | URL for checking Internet connection. |
+

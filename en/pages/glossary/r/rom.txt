@@ -1,0 +1,5 @@
+# ROM
+
+A Read Only Memory - ROM - is a read-only memory containing firmware for the device. 
+
+Typically, the term ROM actually refers to media that can be erased and re-programmed (is an Erasable Programmable ROM - EPROM,  and Electrically Erasable Programmable ROM - EEPROM.)
