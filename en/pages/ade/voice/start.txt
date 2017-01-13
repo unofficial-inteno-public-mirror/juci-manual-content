@@ -4,7 +4,7 @@
 
 # Voice
 
-
+The **Voice** provides access to settings relating to voice communications through the device.
 
 ##
 

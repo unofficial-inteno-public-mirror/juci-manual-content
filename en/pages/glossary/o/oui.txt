@@ -1,0 +1,5 @@
+# OUI
+
+An Organizationally Unique Identifier - OUI - is a 24-bit number used to uniquely identify a vendor.
+
+Usually makes up the first three octets of the [MAC](/glosary/m/mac) address.

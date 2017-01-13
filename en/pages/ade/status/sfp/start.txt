@@ -6,25 +6,24 @@
 
 The **SFP Status** view shows information about [SFP](/glossary/s/sfp) connectors enabled in the device.
 
-
 ## Configuration
 
-Information is shown in two tables; [ROM](/glossary/r/rom)  information and [DDM](/glossary/d/ddm)  information.
+Information is shown in two tables; [ROM](/glossary/r/rom) information and [DDM](/glossary/d/ddm) information.
 
 **Note:** Available on EG300 & EG400 only.
 
 #### DDM
 
-The DDM table shows information about the [DDM](/glossary/d/ddm) retrieved from the SPF.
+The DDM table shows information about the [DDM](/glossary/d/ddm) retrieved from the SFP.
 
 ^ Option ^ Description ^ Example ^
-| voltage |  | `3.1872 (V)` |
-| current |  | `26.448 (mA)` |
-| tx-pwr |  | `0.3530 (mW)` |
-| tx-pwr-dBm |  | `-4.5223 (dBm)` |
-| rx-pwr |  | `0.3026 (mW)` |
-| rx-pwr-dBm |  | `-5.1913 (dBm)` |
-| rx-pwr-type |  | `average` |
+| voltage | Port voltage. | `3.1872 (V)` |
+| current | Port current. | `26.448 (mA)` |
+| tx-pwr | Broadcasting power. | `0.3530 (mW)` |
+| tx-pwr-dBm | Broadcasting power. | `-4.5223 (dBm)` |
+| rx-pwr | Received signal power. | `0.3026 (mW)` |
+| rx-pwr-dBm | Received signal power. | `-5.1913 (dBm)` |
+| rx-pwr-type | Recieved power type. | `average` |
 
 
 #### ROM
@@ -32,16 +31,17 @@ The DDM table shows information about the [DDM](/glossary/d/ddm) retrieved from 
 The ROM table shows information about the [ROM](/glossary/r/rom).
 
 ^ Option ^ Description ^ Example ^
-| connector |  | `SC` |
-| ethernet |  | `LX` |
-| encoding |  | `8B10B` |
-| rate |  | `1300` |
-| single-mode |  | `20000` |
-| vendor |  | `Skylane Optics` |
-| oui |  | `00:25:cd` |
-| pn |  | `SBU35020DR3D000` |
-| rev |  | `A` |
-| sn |  | `b19bmjrx1857` |
-| date |  | `2014-04-21` |
-| ddm |  | `DDM Version` |
+| connector | Connector type. | `SC` |
+| ethernet | Ethernet type. | `LX` |
+| encoding | Encoding type. | `8B10B` |
+| rate | Line rate. | `1300` |
+| single-mode | Single mode distance. | `20000` |
+| vendor | Port manufacturer or vendor. | `Skylane Optics` |
+| oui | [Organizationally Unique Identifier](/glossary/o/oui). | `00:25:cd` |
+| pn | Product name.  | `SBU35020DR3D000` |
+| rev | ROM Revision. | `A` |
+| sn | Serial Number | `b19bmjrx1857` |
+| date | ROM date. | `2016-04-21` |
+| ddm | [DDM](/glossary/d/ddm) version | `9.3` |
+
 

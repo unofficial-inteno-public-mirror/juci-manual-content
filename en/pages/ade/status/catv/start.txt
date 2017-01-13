@@ -12,6 +12,7 @@ The **CATV Status** view shows information about [CATV](/glossary/c/catv) servic
 
 ^ Option ^ Description ^ Example ^
 | Inteno model | Model. | `CATV-302` |
-| VPD | Reverse voltage on Protectoion Device | `-inf dBm` |
-| RF Range  |  | `75.7 dBµV` |
-| RF enable |  | `OFF` |
+| VPD | Reverse voltage on Protection Device. | `-inf dBm` |
+| RF | Range. | `75.7 dBµV` |
+| RF enable | Enable RF.| `OFF` |
+
