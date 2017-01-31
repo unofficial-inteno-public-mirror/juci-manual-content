@@ -11,7 +11,11 @@ The **Services** view lets you manage system services on the device.
 The list contains system running and available services.
 
 ^ Item ^ Description ^
-| Priority | System prority. |
+| Priority | System priority. |
 | Service | Service identifier. |
 | Enable | Enable or disable service.  |
-| Action | Buttons to start, stop and restart the service. |
+| Action | Buttons to {{icon>play}} start, {{icon>stop}} stop and {{icon>refresh}} restart the service. |
+
+
+
+

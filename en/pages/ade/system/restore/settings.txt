@@ -2,7 +2,7 @@
 
 # Backup Settings
 
-The **Backup Settings** view lets tou select which services and settings to include in backups.
+The **Backup Settings** view lets you select which services and settings to include in backups.
 
 ##
 

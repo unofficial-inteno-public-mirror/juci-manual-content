@@ -15,7 +15,7 @@ In the final step you select protocol and firewall settings for the interface.
 ^ Item ^ Description ^ Applies to ^
 | Interface Type | Select [interface type](/glossary/i/interface_type) (`Standalone` / `Anywan` / `Bridge`). |  |
 | Physical Device | Device(s) to use for the connection. |  |
-| Add network to a firewall zone | Connects interface to [firewall zone](../../network/firewall/zones/start). |  |
+| Add network to a firewall zone | Connects interface to [firewall zone](../../../../network/firewall/zones/start). |  |
 
 
 ### Physical Device

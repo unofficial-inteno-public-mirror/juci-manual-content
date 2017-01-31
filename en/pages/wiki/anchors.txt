@@ -1,2 +1,5 @@
 ^ OFF ^ Original ^ Fixed link ^ [E](?do=edit) ^
+| [V](/adb/overview/shortcuts/start) | [wireless radios](../../wifi/general/wireless/start#) | [wireless radios](/adb/wifi/general/wireless/start) | [E](/adb/overview/shortcuts/start?do=edit) | 
+| [V](/ade/overview/shortcuts/start) | [wireless radios](../../wifi/general/wireless/start#) | [wireless radios](/ade/wifi/general/wireless/start) | [E](/ade/overview/shortcuts/start?do=edit) | 
+| [V](/usb/overview/shortcuts/start) | [wireless radios](../../wifi/general/wireless/start#) | [wireless radios](/usb/wifi/general/wireless/start) | [E](/usb/overview/shortcuts/start?do=edit) | 
 

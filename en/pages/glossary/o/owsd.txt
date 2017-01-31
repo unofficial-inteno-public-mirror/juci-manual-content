@@ -1,0 +1,3 @@
+# OSWD
+
+The Open Web-Server Daemon - OSWD - handles web requests to the configuration framework. I allows access to device configuration services through the configuration framework.

@@ -1,14 +1,15 @@
 ^ OFF ^ Original ^ Fixed link ^ [E](?do=edit) ^
-| [V](/all/intro/access) | [login page](./login) | [login page](/./login) | [E](/all/intro/access?do=edit) | 
-| [V](/all/network/connections/add) | [firewall zone](../../network/firewall/zones/start) | [firewall zone](/../../network/firewall/zones/start) | [E](/all/network/connections/add?do=edit) | 
-| [V](/all/network/connections/pppoa/physical) | [base device](../../../network/devices/base/start) | [base device](/../../../network/devices/base/start) | [E](/all/network/connections/pppoa/physical?do=edit) | 
-| [V](/all/network/devices/vlan/start) | [Base Device](../base/start) | [Base Device](/../base/start) | [E](/all/network/devices/vlan/start?do=edit) | 
-| [V](/all/network/firewall/zones/start) | [connections](../../../network/connections/start) | [connections](/../../../network/connections/start) | [E](/all/network/firewall/zones/start?do=edit) | 
-| [V](/all/network/routes/ipv6) | [connection](../../network/connections/start) | [connection](/../../network/connections/start) | [E](/all/network/routes/ipv6?do=edit) | 
-| [V](/all/overview/panels/voice/start) | [not available](../../../intro/features/availability) | [not available](/../../../intro/features/availability) | [E](/all/overview/panels/voice/start?do=edit) | 
-| [V](/all/overview/start) | [configuration shortcuts](./panels/start) | [configuration shortcuts](/./panels/start) | [E](/all/overview/start?do=edit) | 
-| [V](/all/overview/start) | [device network map](./map/start) | [device network map](/./map/start) | [E](/all/overview/start?do=edit) | 
-| [V](/all/overview/start) | [status panels](./shortcuts/start) | [status panels](/./shortcuts/start) | [E](/all/overview/start?do=edit) | 
-| [V](/all/system/firmware/start) | [Firmware options](./options) | [Firmware options](/./options) | [E](/all/system/firmware/start?do=edit) | 
-| [V](/all/system/restart/start) | [login](../../intro/login) | [login](/../../intro/login) | [E](/all/system/restart/start?do=edit) | 
+| [V](/adb/glossary/i/interface_protocol) | [4G](/glossary/0/4G) | [4G](/glossary/0/4G) | [E](/adb/glossary/i/interface_protocol?do=edit) | 
+| [V](/adb/glossary/s/sip_codec) | [SIP](glossary/s/sip) | [SIP](glossary/s/sip) | [E](/adb/glossary/s/sip_codec?do=edit) | 
+| [V](/adb/glossary/s/sip_codec) | [codecs](glossary/c/codec) | [codecs](glossary/c/codec) | [E](/adb/glossary/s/sip_codec?do=edit) | 
+| [V](/adb/network/connections/add/downlink/start) | [firewall zone](../../network/firewall/zones/start) | [firewall zone](/adb/network/connections/network/firewall/zones/start) | [E](/adb/network/connections/add/downlink/start?do=edit) | 
+| [V](/adb/network/connections/add/uplink/3g/start) | [firewall zone](../../network/firewall/zones/start) | [firewall zone](/adb/network/connections/add/network/firewall/zones/start) | [E](/adb/network/connections/add/uplink/3g/start?do=edit) | 
+| [V](/adb/network/connections/add/uplink/pppoa/start) | [Base Device](../base/start) | [Base Device](/adb/network/connections/add/uplink/base/start) | [E](/adb/network/connections/add/uplink/pppoa/start?do=edit) | 
+| [V](/adb/network/connections/edit/pppoa/physical) | [base device](../../../network/devices/base/start) | [base device](/adb/network/network/devices/base/start) | [E](/adb/network/connections/edit/pppoa/physical?do=edit) | 
+| [V](/adb/system/general/log) | [Logging level](glossary/l/logging_level) | [Logging level](glossary/l/logging_level) | [E](/adb/system/general/log?do=edit) | 
+| [V](/ade/network/connections/add/uplink/3g/start) | [firewall zone](../../network/firewall/zones/start) | [firewall zone](/ade/network/connections/add/network/firewall/zones/start) | [E](/ade/network/connections/add/uplink/3g/start?do=edit) | 
+| [V](/ade/network/connections/add/uplink/pppoa/start) | [Base Device](../base/start) | [Base Device](/ade/network/connections/add/uplink/base/start) | [E](/ade/network/connections/add/uplink/pppoa/start?do=edit) | 
+| [V](/ade/network/connections/edit/pppoa/physical) | [base device](../../../network/devices/base/start) | [base device](/ade/network/network/devices/base/start) | [E](/ade/network/connections/edit/pppoa/physical?do=edit) | 
+| [V](/ade/voice/users/start) | [SIP users](/glossary/s/sip_users) | [SIP users](/glossary/s/sip_users) | [E](/ade/voice/users/start?do=edit) | 
+| [V](/usb/overview/shortcuts/start) | [LAN](../../network/devices/ethernet/start) | [LAN](/usb/network/devices/ethernet/start) | [E](/usb/overview/shortcuts/start?do=edit) | 
 

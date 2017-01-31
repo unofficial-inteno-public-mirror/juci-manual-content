@@ -1,27 +1,29 @@
 OFF; 
 
-[Base Device](/../base/start);[Base Device](../base/start)
+[4G](/glossary/0/4G);[4G](/glossary/0/4G)
 
-[Firmware options](/./options);[Firmware options](./options)
+[Base Device](/adb/network/connections/add/uplink/base/start);[Base Device](../base/start)
 
-[base device](/../../../network/devices/base/start);[base device](../../../network/devices/base/start)
+[Base Device](/ade/network/connections/add/uplink/base/start);[Base Device](../base/start)
 
-[configuration shortcuts](/./panels/start);[configuration shortcuts](./panels/start)
+[LAN](/usb/network/devices/ethernet/start);[LAN](../../network/devices/ethernet/start)
 
-[connection](/../../network/connections/start);[connection](../../network/connections/start)
+[Logging level](glossary/l/logging_level);[Logging level](glossary/l/logging_level)
 
-[connections](/../../../network/connections/start);[connections](../../../network/connections/start)
+[SIP users](/glossary/s/sip_users);[SIP users](/glossary/s/sip_users)
 
-[device network map](/./map/start);[device network map](./map/start)
+[SIP](glossary/s/sip);[SIP](glossary/s/sip)
 
-[firewall zone](/../../network/firewall/zones/start);[firewall zone](../../network/firewall/zones/start)
+[base device](/adb/network/network/devices/base/start);[base device](../../../network/devices/base/start)
 
-[login page](/./login);[login page](./login)
+[base device](/ade/network/network/devices/base/start);[base device](../../../network/devices/base/start)
 
-[login](/../../intro/login);[login](../../intro/login)
+[codecs](glossary/c/codec);[codecs](glossary/c/codec)
 
-[not available](/../../../intro/features/availability);[not available](../../../intro/features/availability)
+[firewall zone](/adb/network/connections/add/network/firewall/zones/start);[firewall zone](../../network/firewall/zones/start)
 
-[status panels](/./shortcuts/start);[status panels](./shortcuts/start)
+[firewall zone](/adb/network/connections/network/firewall/zones/start);[firewall zone](../../network/firewall/zones/start)
+
+[firewall zone](/ade/network/connections/add/network/firewall/zones/start);[firewall zone](../../network/firewall/zones/start)
 
 

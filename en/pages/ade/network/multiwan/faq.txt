@@ -1,84 +1,43 @@
-{{indexmenu_n>9999}}
+{{indexmenu_n>50}}
 
-# MultiWAN Questions And Answers
+# MultiWAN Options
 
-
-
-### Weight
-
--Load Balancer Distribution (so is 1 better than 10 or is the other way around?)
-
--Which one gets higher priority in our box, using metric value in network config or load balancing distribution value?
-
-You can add any number of servers to a server load balancing action. You can also add a weight to each server to make sure that your most powerful servers are given the heaviest load. The weight refers to the proportion of load that the XTM device sends to a server. By default, each server has a weight of 1. If you assign a weight of 2 to a server, you double the number of sessions that the XTM device sends to that server, compared to a server with a weight of 1.
-
-weight is simply as it is set in ip route add .... nexthop via 1.2.3.4 dev eth0.1 weight X
-Let's say you have two interfaces you do load balancing with: wan and mobile
-And let's say you want to weight the routes so as to send 4 packets over wan for every 1 packet sent over mobile.
-Then for wan interface you set Load Balancer Distribution to 4 while you set it to 1 for mobile interface.
+Some aspects of MultiWan configuration require a bit of thinking and decisions.
 
 
-### Disable Weight
+### Sample Configurations
 
-- What about value disable? Does it bypass weight setting then?
-
-- What is a connection has value of lets say 5 and other one has it disabled? What happens?
-
-If Load Balancer Distribution, weight option is not given for ip route, but not sure what happens if you disable it for wan and set it to 5 for mobile.
+Example configurations for failover and balancer are available from the
+[OpenWRT site](https://wiki.openwrt.org/doc/uci/multiwan)
 
 
+### Load Balancer Weights
 
-### Routes
+You can add any number of servers to a server load balancing action. You can also add a weight to each server to make sure that your most powerful servers are given the heaviest load.
 
--If using load balancing mode how does the box today determine which interface it uses for connecting internet if both interfaces have same metric and weight? I know that in load balance using same values for both or more wans you will get more DL speed than you fastest wan speed is when using torrent.
+The weight refers to the proportion of load that the XTM device sends to a server. By default, each server has a weight of 1.
 
-For the traffic that you did not specify which interface it should use, Linux default load sharing mechanism will be used. It uses both interfaces for connecting to Internet.
+If you assign a weight of 2 to a server, you double the number of sessions that the XTM device sends to that server, compared to a server with a weight of 1.
 
+### Load Balancing Interfaces
 
-### Interface
+If an interface is not specified for some particular traffic - and metric and weight are the same - the default behavior is to use both interfaces, which is the Linux default load sharing mechanism.
 
+### Interface Selection
 
--Example, if you have 10Mbit/s ADSL and 5Mbit/s dongle, you can DL linux distros with torrent at speed or 15Mbit/s.
-
--Load Balancer Distribution (how to determine which interface should I configure which distribution value?)
-
-Which interface should have higher weight and such depends on the Operator. They usually would give the fiber/dsl wan connection higher weight than mobile connection.
-
-
-
-###  Load Balancer Distribution
-
--Missing info that Load Balancer Distribution value is to be configured only when using balancer mode.
-(If using fallback only that value is irrelevant.)
-
-Yes, for fallback Load Distribution is irrelevant.
-
+When selecting which interface weights you need to take into account how the operator handles traffic. For example, usually a fiber or DSL WAN connection should have higher weight than a mobile connection.
 
 ### Health Monitor Ping / Statistics
 
 -Health Monitor Method Ping / Statistics. Ping I understand. What kind of statistics are used? Where can one configure statistcs limits? E.g if you monitor like wan stats when does the box determine that interface has failed ? No stats at all at some interval? Some stats in some interval but it doesn’t trigger wan failover because…..?
 
-Ping and Statistics are health monitor methods. Statistics just checks the rx bytes value with intervals (Health Monitor Interval), and if the value has not changed it marks the link as unhealthy.
+Ping and Statistics are health monitor methods.
 
+Statistics checks the rx bytes value with the Health Monitor Interval, and if the value has not changed it marks the link as unhealthy.
 
+### Failover Traffic Destination
 
-### Fast Balancer / Load Balancer
+Failover is used when the original link is not available. It is needed both when using a specified interface or when using a balancing mechanism.
 
--Difference between fast balancer and load balancer is?
+When selecting the Failover Traffic Destination, you can choose between `Load Balancer`, `Fast Balancer` or using a specific interface. Fast balancer uses netfilter [iptables](/glossary/i/iptables) and load balancer uses [iproute2](/glossary/i/iptables/iproute).
 
-Fast balancer uses netfilter (iptables) whereas load balancer uses iproute2 (ip route).
-
-### Sample Configurations
-
--Example configurations are needed for failover and balancer.
-
-You can get a sample here:
-https://wiki.openwrt.org/doc/uci/multiwan
-
-
-### Failover Destination
-
--Is failover destination required when using either balancer?
-
-Yes, failover needed for balancer as well. Failover implies what to do in case the link is not alive.
-You can choose to move all the traffic over a specific interface (changing ip route or iptables rules accordingly) or you can choose to use balancing mechanism.

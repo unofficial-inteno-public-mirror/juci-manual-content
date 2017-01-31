@@ -13,3 +13,5 @@ The MultiWAN settings are divided into tabs.
 {{page>./basic}}
 
 {{page>./rules}}
+
+{{page>./faq}}

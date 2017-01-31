@@ -1,6 +1,6 @@
 {{tag>user_basic}}
 
-{{indexmenu_n>999}}
+{{indexmenu_n>30}}
 
 # General
 

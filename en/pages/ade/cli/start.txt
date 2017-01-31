@@ -2,15 +2,43 @@
 
 # Enable Online Help
 
-Online help will already be by default enabled in 3.10.0.
+For JUCI version 3.10.0+, online help is enabled by default.
+
+However, if you upgrade from an earlier version, this option may not have been enabled. If so, you may need to connect to your device via SSH and run console commands to enable the setting. 
 
 ## CLI Enable Online Help
 
-For version 3.9.0 and 3.9.1, online help can be enabled from the command line:
+To enable online help: 
+
+### Commands on Local Computer 
+
+* Open a console window on your local computer. 
+
+* Connect to the device:
 
 ```
+ssh admin@192.168.1.1
+```
+
+**Note:** The address may be different from  `192.168.1.1` for your device. Use the same address as for the usual login. 
+
+**Note:** You may need to enable SSH access to your device from the [System > Management > SSH](../system/management/ssh).
+
+**Note:** For login, use the password defined in [System > Passwords](../system/passwords/start).
+
+
+### Commands on Device 
+
+The command line commands to run are the following: 
+
+To enable the help: 
+```
 uci set juci.wiki.visible=1
+```
+
+To apply the setting:
+```
 uci commit juci
 ```
 
-tunntunntunn
+

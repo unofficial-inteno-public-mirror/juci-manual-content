@@ -8,7 +8,7 @@ The **MiniDLNA** view lets you configure the [MiniDLNA](/glossary/m/minidlna) se
 
 ##
 
-The MiniDLNA settings are divided into tabs.
+{{page>./status}}
 
 {{page>./general}}
 

@@ -1,2 +1,10 @@
 ^ OFF ^ Original ^ Fixed link ^ [E](?do=edit) ^
+| [V](/adb/overview/panels/wifi/2_4ghz) | ![Wireless interface](./2_4GHz.png) | ![Wireless interface](/adb/overview/panels/wifi/2_4GHz.png) | [E](/adb/overview/panels/wifi/2_4ghz?do=edit) | 
+| [V](/adb/overview/panels/wifi/5ghz) | ![Wireless interface](./5GHz.png) | ![Wireless interface](/adb/overview/panels/wifi/5GHz.png) | [E](/adb/overview/panels/wifi/5ghz?do=edit) | 
+| [V](/ade/overview/panels/wifi/2_4ghz) | ![Wireless interface](./2_4GHz.png) | ![Wireless interface](/ade/overview/panels/wifi/2_4GHz.png) | [E](/ade/overview/panels/wifi/2_4ghz?do=edit) | 
+| [V](/ade/overview/panels/wifi/5ghz) | ![Wireless interface](./5GHz.png) | ![Wireless interface](/ade/overview/panels/wifi/5GHz.png) | [E](/ade/overview/panels/wifi/5ghz?do=edit) | 
+| [V](/usb/overview/panels/wifi/2_4ghz) | ![Wireless interface](./2_4GHz.png) | ![Wireless interface](/usb/overview/panels/wifi/2_4GHz.png) | [E](/usb/overview/panels/wifi/2_4ghz?do=edit) | 
+| [V](/usb/overview/panels/wifi/5ghz) | ![Wireless interface](./5GHz.png) | ![Wireless interface](/usb/overview/panels/wifi/5GHz.png) | [E](/usb/overview/panels/wifi/5ghz?do=edit) | 
+| [V](/use/overview/panels/wifi/2_4ghz) | ![Wireless interface](./2_4GHz.png) | ![Wireless interface](/use/overview/panels/wifi/2_4GHz.png) | [E](/use/overview/panels/wifi/2_4ghz?do=edit) | 
+| [V](/use/overview/panels/wifi/5ghz) | ![Wireless interface](./5GHz.png) | ![Wireless interface](/use/overview/panels/wifi/5GHz.png) | [E](/use/overview/panels/wifi/5ghz?do=edit) | 
 

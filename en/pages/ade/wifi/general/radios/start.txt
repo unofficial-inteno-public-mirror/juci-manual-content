@@ -21,5 +21,5 @@ The **Wireless Radios** view allows you to configure wireless radios installed o
 | Max. Assoc Clients | Maximum number of clients allowed. |
 | Scan Timer | Determine the [dwell time](/glossary/d/dwell_time) for channel hopping. |
 | Enable WMM Multimedia Extensions | Turn [WMM](/glossary/w/wmm) multimedia extensions on or off. |
-| Disable WMM Ack | Turn [WMM acknowledgement](/glossary/w/wmm) on or off. |
+| Disable WMM Ack | Turn [WMM acknowledgement](/glossary/w/wmm_ack) on or off. |
 | Enable WMM UAPSD Power Saving | Turn WMM [UAPSD](/glossary/u/uapsd) power saving on or off. |

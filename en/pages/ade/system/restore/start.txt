@@ -2,9 +2,9 @@
 
 {{indexmenu_n>150}}
 
-# Restore/Backup
+# Backup/Restore
 
-The **Restore/Backup** view allows you to manage backups and resets of the device.
+The **Backup/Restore** view allows you to manage backups and resets of the device.
 
 ## Backup Settings
 

@@ -15,7 +15,7 @@ The shortcuts show you the main wireless, Ethernet, LAN, WAN, USB, voice and pro
 | Ethernet | [LAN ports](../../network/devices/base/start) in use on the device.  |
 | LAN | Active [LAN](../../network/devices/ethernet/start) |
 | WAN | Status of [WAN connection](../../network/devices/ethernet/start). |
-| USB | Connected [USB devices](../../), if any. |
+| USB | Connected [USB devices](../../status/usb/start), if any. |
 | Voice | [Voice port status](../../voice/start), if any.   |
 | Profile | Selected [network profile](../../overview/panels/profile/start), if any. |
 

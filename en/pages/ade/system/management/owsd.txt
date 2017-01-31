@@ -2,9 +2,9 @@
 
 # OWSD
 
-The **OWSD** view lets you configure settings for the [open web-server deamon](/glossary/o/owsd).
+The **OWSD** view lets you configure settings for the [open web-server daemon](/glossary/o/owsd).
 
-The server listens on a number of interfaces, and .
+The server listens on a number of interfaces, and allows for separate configuration of access for each of them.
 
 ##
 
@@ -17,7 +17,7 @@ When a particular interface is selected, details about it is shown in the config
 The **Configure firewall rule** section allows you to enable and configure a firewall rule for the selected service.
 
 ^ Item ^ Description ^
-| Interface | Listening [interface](/glossary/i/interface). |
+| Interface | Listening [interface](/glossary/n/network_interface). |
 | Port | [Port](/glossary/p/port) to listen on. |
 | IPv6 | [IPv4](/glossary/i/ipv4) / [IPv6](/glossary/i/ipv6) address. |
 | IPv6 only | Limit to [IPv6](/glossary/i/ipv6)  |

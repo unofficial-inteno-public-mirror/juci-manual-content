@@ -1,0 +1,13 @@
+{{indexmenu_n>40}}
+
+# Band Steering
+
+The **Band Steering** view shows information about [band steering](/glossary/b/band_steering).
+
+### Status
+
+The **status** section shows the current band steering status.
+
+### Log
+
+The **log** section shows the band steering log file.

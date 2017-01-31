@@ -2,9 +2,20 @@
 
 # Band Steering
 
-The **Band Steering** view allows you to enable [band steering](/glossary/b/band_steering) for the device.
+The **Band Steering** view allows you to enable and configure [band steering](/glossary/b/band_steering) for the device.
 
 ##
 
 ^ Item ^ Comment ^
 | Enable | Turn [band steering](/glossary/b/band_steering) on or off. |
+| Steering Policy | [RSSI](/glossary/r/rssi) or [bandwidth](/glossary/b/bandwidth). |
+| Threshold | Bandwidth or RSSI threshold value. |
+
+
+### Enable Band Steering
+
+To enable band steering:
+
+* Click **Enable** toggle
+* Choose steering policy
+* Set threshold value to use for the selected policy.

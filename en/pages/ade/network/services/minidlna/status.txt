@@ -1,0 +1,26 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>20}}
+
+# Status
+
+At the top of the page is a status window that can be expanded to display the current MiniDLNA status.
+
+## Show Status
+
+To view the status window, click the {{fa>chevron-circle-right}} **expand** icon.
+
+### Media Library
+
+In the media library table, the number of audio, video and image files on the server is shown.
+
+### Connected Clients
+
+The Connected Clients table displays information about possible clients and their connections to the server.
+
+^ Column ^ Description ^
+| ID | Client ID. |
+| Type | Type of client (as identified by the client). |
+| IP Address | [IPv4](/glossary/i/ipv4) IP address for the client. |
+| HW Address | [MAC](/glossary/m/mac) address for the client. |
+| Connections | Number of connections to this client. |

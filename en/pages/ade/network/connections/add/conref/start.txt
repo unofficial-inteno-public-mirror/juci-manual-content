@@ -13,7 +13,7 @@ In the second step you select a basic configuration.
 
 ^ Item ^ Description ^
 | Protocol | Select [interface type](/glossary/i/interface_protocol). |
-| Add To Firewall Zone | [Firewall zone](../../../network/firewall/zones/start) for the interface. |
+| Add To Firewall Zone | [Firewall zone](../../../../network/firewall/zones/start) for the interface. |
 
 
 ### Step 3

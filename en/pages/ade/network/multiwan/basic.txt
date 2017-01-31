@@ -1,4 +1,4 @@
-{{indexmenu_n>999}}
+{{indexmenu_n>20}}
 
 # MultiWAN Settings
 
@@ -11,14 +11,14 @@ Below the general settings is a list of selectable WANs.
 When a particular WAN is selected, details about it is shown in the configuration section.
 
 ^ Item ^ Description ^
-| Load Balancer Distribution | Disable  / `1`-`10` |
-| Health Monitor Method | `Ping` / `Statistics` |
+| Load Balancer Distribution | Disable  / `1`-`10` (only used in balancer mode. |
+| Health Monitor Method | `Ping` / `Statistics`. |
 | Health Monitor Interval | Time between health checks. |
 | Health Monitor ICMP Host(s) | [ICMP](/glossary/i/icmp) host. |
 | Health Monitor ICMP Timeout | [ICMP](/glossary/i/icmp) timeout. |
 | Attempts Before WAN Failover | Number of connection attempts before switching to failover WAN. |
 | Attempts Before WAN Recovery | Number of connection attempts before attempting to recover WAN. |
-| Failover Traffic Destination | Destination for traffic in case of failover. |
+| Failover Traffic Destination | Destination for traffic in case of failover. (`Fast`/ `Load`). |
 | DNS Server(s) | Specified DNS / Automatic Selection / Customized DNS |
 
 

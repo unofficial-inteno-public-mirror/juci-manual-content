@@ -8,4 +8,4 @@ The physical settings tab contains settings for hardware management and devices 
 
 ^ Section ^ Description ^
 | Interface type | The connection [interface type](/glossary/i/interface_type). |
-| Ethernet Adapter | Selector for [base device](../../../network/devices/base/start) to use for the connection. |
+| Ethernet Adapter | Selector for [base device](../../../../network/devices/base/start) to use for the connection. |
