@@ -1,6 +1,6 @@
 {{indexmenu_n>120}}
 
-# XSDL
+# XDSL
 
 The **xDSL** view allows you to configure line settings and profiles.
 

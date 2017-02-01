@@ -10,7 +10,7 @@ The **Network** view provides access to the devices, connections and available c
 
 {{page>./devices/start}}
 
-{{page>./xsdl/start}}
+{{page>./xdsl/start}}
 
 {{page>./connections/start}}
 

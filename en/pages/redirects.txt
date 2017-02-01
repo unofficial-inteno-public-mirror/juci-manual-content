@@ -16,7 +16,7 @@
 *:page-broadcom-adsl $1:network:devices:adsl:start
 *:page-broadcom-vdsl $1:network:devices:vdsl:start
 *:page-broadcom-ethernet-vlan $1:network:devices:vlan:start
-*:network-xdsl $1:network:xsdl:start
+*:network-xdsl $1:network:xdsl:start
 *:internet-network $1:network:connections:start
 *:internet-routes $1:network:routes:start
 *:internet-firewall $1:network:firewall:start
@@ -98,7 +98,7 @@
 *:page-broadcom-adsl:start $1:network:devices:adsl:start
 *:page-broadcom-vdsl:start $1:network:devices:vdsl:start
 *:page-broadcom-ethernet-vlan:start $1:network:devices:vlan:start
-*:network-xdsl:start $1:network:xsdl:start
+*:network-xdsl:start $1:network:xdsl:start
 *:internet-network:start $1:network:connections:start
 *:internet-routes:start $1:network:routes:start
 *:internet-firewall:start $1:network:firewall:start
