@@ -8,6 +8,35 @@ The **Band Steering** view shows information about [band steering](/glossary/b/b
 
 The **status** section shows the current band steering status.
 
+The information is displayed in the `STA info summary` table.
+
+^ Column ^ Description ^
+| STA_MAC | Station (client) [MAC](/glossary/m/mac) address.  |
+| Interface | Client [interface](/glossary/n/network_interface) name. |
+| TimeStamp | Timestamp for the steering event. |
+| Tx_rate | Transmission rate. |
+| RSSI | [Received signal strength indicator ](/glossary/r/rssi). |
+| Bounce |  (`yes`/`no`). |
+| Picky |  (`yes`/`no`). |
+| PSTA |  [PSTA](/glossary/p/psta) (`yes`/`no`). |
+| DUALBAND | Is client dual-band capable? (`yes`/`no`). |
+
+
+
+
+
 ### Log
 
-The **log** section shows the band steering log file.
+The **log** section contains the log file, which shows the band steering events.
+
+The information is displayed in the `Band Steering Record` table.
+
+^ Column ^ Description ^
+| Seq |  | 
+| TimeStamp | Timestamp for the steering event. | 
+| STA_MAC | Station (client) [MAC](/glossary/m/mac) address. |
+| Fm_ch | From channel. | 
+| To_ch | To channel. | 
+| Reason | Cause of event. | 
+| Description | Description of event. | 
+
