@@ -2,7 +2,7 @@
 
 # SIP Users
 
-The **SIP Users** view shows information about configured [SIP users](/glossary/s/sip_users) for the device.
+The **SIP Users** view shows information about configured [SIP users](/glossary/s/sip_user) for the device.
 
 ##
 
