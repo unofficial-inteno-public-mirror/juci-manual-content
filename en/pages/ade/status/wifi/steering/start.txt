@@ -22,9 +22,6 @@ The information is displayed in the `STA info summary` table.
 | DUALBAND | Is client dual-band capable? (`yes`/`no`). |
 
 
-
-
-
 ### Log
 
 The **log** section contains the log file, which shows the band steering events.
