@@ -1,5 +1,4 @@
 # AMPDU
 
+An Aggregated MAC Protocol Data Unit - AMPDU - is an [aggregation](/glossary/p/packet_aggregation) of [MPDUs](/glossary/m/mpdu).
 
-
- [MPDU](/glossary/m/mpdu)
