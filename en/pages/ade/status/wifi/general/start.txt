@@ -16,3 +16,5 @@ For each [wireless radio](/glossary/w/wireless_radio)information is displayed ab
 
 * [WiFi encryption](/glossary/w/wifi_encryption) used by the interface.
 
+
+{{page>./client}}

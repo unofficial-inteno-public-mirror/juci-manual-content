@@ -2,7 +2,7 @@
 
 # Client
 
-For each connected client, more details are available. 
+For each connected client, more infomation about the connected client is available.
 
 ## Details
 
