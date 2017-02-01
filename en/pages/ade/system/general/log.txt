@@ -9,7 +9,7 @@ The **Log Settings** view contains settings for the system logs.
 
 ^ Item ^ Description ^
 | System Log Level | System [Logging level](/glossary/l/logging_level) |
-| Cron Log Level | Cron [Logging level](/glossary/l/cron_logging_level) |
+| Cron Log Level | Cron [Logging level](/glossary/c/cron_logging_level) |
 | Kernel Log Level | Kernel [Logging level](/glossary/l/logging_level) |
 | Log File | Location to save the log file. |
 | Log IP | IP address of remote log server. |

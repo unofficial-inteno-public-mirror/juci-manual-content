@@ -32,8 +32,8 @@ The information is displayed in the `Band Steering Record` table.
 | Seq |  | 
 | TimeStamp | Timestamp for the steering event. | 
 | STA_MAC | Station (client) [MAC](/glossary/m/mac) address. |
-| Fm_ch | From channel. | 
-| To_ch | To channel. | 
-| Reason | Cause of event. | 
+| Fm_ch | From channel (hex code). | 
+| To_ch | To channel (hex code). | 
+| Reason | Event (hex code). | 
 | Description | Description of event. | 
 

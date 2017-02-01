@@ -27,5 +27,5 @@ In the final step you select protocol, adapter and firewall settings for the int
 | Protocol | Select [protocol](/glossary/p/protocol). |
 | Interface Type | Select [interface protocol type](/glossary/i/interface_protocol_type). |
 | Ethernet Adapter | [Base Device](../base/start) to create interface for. |
-| Add network to a firewall zone | Connects interface to [firewall zone](../../network/firewall/zones/start). |
+| Add network to a firewall zone | Connects interface to [firewall zone](../../../..//firewall/zones/start). |
 
