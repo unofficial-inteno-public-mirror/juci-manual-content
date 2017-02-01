@@ -1,0 +1,37 @@
+{{indexmenu_n>20}}
+
+# Client
+
+For each connected client, more details are available. 
+
+## Details
+
+To view more details about a client, click the {{fa>arrow-circle-down?24&color=#66989c}} **expand** button.
+
+
+^ Item ^ Description ^ Example ^  
+| IP-Address | Client [IPv4](/glossary/i/ip) address. | `10.0.0.154` |
+| MAC-Address |Client [MAC](/glossary/m/mac) address. | `1A:97:1C:C7:76:63` |
+| DHCP | Does client use [DHCP](/glossary/d/dhcp)? | `true` |
+| Idle | Is the device transmitting?  | `0` |
+| In Network | ID for connected network.  | `74` |
+| RSSI | [Received signal strength indicator](/glossary/r/rssi) value. | `-42 dBm` |
+| SNR | [Signal to Noise Ratio](/glossary/s/snr) value. | `41 dB` |
+| Number of Antennas | Client antennas in use. | `2` |
+| TX Rate | Transmission rate. | `130 Mbps` |
+| RX Rate | Receive rate. | `144 Mbps` |
+| Flags | Provided [device flags](/glossary/d/device_flags). | `BRCM, WME, N_CAP, AMPDU` |
+| HT Capabilities | Supported [HT Capabilities](/glossary/h/ht_capabilities) (data rates). | `LDPC, BW40, SGI20, SGI40` |
+| TX Total Packets | Total number of transmitted [packets](/glossary/p/packet). | `22589` |
+| Unicast Packets | Total [packets](/glossary/p/packet) transmitted through [unicast](/glossary/u/unicast). | `224` |
+| TX Unicast Packets | [Packets](/glossary/p/packet) transmitted through [unicast](/glossary/u/unicast).  | `224` |
+| TX Multicast/Broadcast Packets | [Packets](/glossary/p/packet) transmitted through [multicast](/glossary/m/multicast).   | `22365` |
+| TX Failures | Transmission failures. | `0` |
+| RX Data Packets | Received [packets](/glossary/p/packet). | `440` |
+| RX Unicast Packets | Received  [packets](/glossary/p/packet) transmitted through [unicast](/glossary/u/unicast). | `209` |
+| RX Multicast/Broadcast Packets | Received [packets](/glossary/p/packet) transmitted through [multicast](/glossary/m/multicast). | `231` |
+| TX Data Packets Retried | Resent data [packets](/glossary/p/packet). | `0` |
+| TX Total Packets Sent | Total data [packets](/glossary/p/packet) transmitted through [unicast](/glossary/u/unicast). | `7` |
+| TX Packets Retries | Retransmitted data [packets](/glossary/p/packet). | `1` |
+| TX Packets Retry Exhausted | Data [Packets](/glossary/p/packet) failed after retry. | `0` |
+| RX Total Packets Retried| Retransmitted data [packets](/glossary/p/packet). | `107` | 
