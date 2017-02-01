@@ -1,0 +1,4 @@
+# HT Capabilities
+
+HT Capabilities are information about which data rates are supported by a device or network.
+

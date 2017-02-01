@@ -39,5 +39,5 @@ Statistics checks the rx bytes value with the Health Monitor Interval, and if th
 
 Failover is used when the original link is not available. It is needed both when using a specified interface or when using a balancing mechanism.
 
-When selecting the Failover Traffic Destination, you can choose between `Load Balancer`, `Fast Balancer` or using a specific interface. Fast balancer uses netfilter [iptables](/glossary/i/iptables) and load balancer uses [iproute2](/glossary/i/iptables/iproute).
+When selecting the Failover Traffic Destination, you can choose between `Load Balancer`, `Fast Balancer` or using a specific interface. Fast balancer uses netfilter [iptables](/glossary/i/iptables) and load balancer uses [iproute2](/glossary/i/iproute).
 

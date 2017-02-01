@@ -20,12 +20,12 @@ In the final step you select protocol and firewall settings for the interface.
 
 ### Physical Device
 
-For `Standalone`, you need to select the [base device](../../../../network/devices/base/start) to use for the connection.
+For `Standalone`, you need to select the [base device](../../../devices/base/start) to use for the connection.
 
 For `Anywan` and `Bridge`, you need to add a physical device to use for the connection.
 
 ^ Item ^ Description ^ Applies to ^
-| Ethernet Adapter | Selector for [base device](../../../../network/devices/base/start) to use for the connection. | `Standalone` |
+| Ethernet Adapter | Selector for [base device](../../../devices/base/start) to use for the connection. | `Standalone` |
 | Add Device | Dialog to select network device to use for the connection. | `Anywan` / `Bridge` |
 
 

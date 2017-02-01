@@ -7,4 +7,4 @@ The physical settings tab contains settings for hardware management and devices 
 ##
 
 ^ Section ^ Description ^
-| Ethernet Adapter | Selector for [base device](../../../network/devices/base/start) to use for the connection. |
+| Ethernet Adapter | Selector for [base device](../../../devices/base/start) to use for the connection. |

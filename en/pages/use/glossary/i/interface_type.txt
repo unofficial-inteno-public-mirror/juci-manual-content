@@ -5,6 +5,7 @@
 The Interface Type defines the base settings for the interface.
 
 ##
+
 ^ Type ^ Description ^
 | Standalone | Not requiring hardware. |
 | Any WAN | Any [WAN](/glossary/w/wan) interface. |

@@ -1,0 +1,5 @@
+
+
+# Unicast
+
+Unicast is communication where information is addressed to a single destination.

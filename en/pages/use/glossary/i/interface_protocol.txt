@@ -2,7 +2,7 @@
 
 # Interface Protocol
 
-The Interface Protocol setting defines the protocol/behaviour for an interface.
+The Interface Protocol setting defines the protocol/behavior for an interface.
 
 ^ Protocol ^ Description ^
 | Unmanaged | No defined protocol. |
@@ -13,7 +13,7 @@ The Interface Protocol setting defines the protocol/behaviour for an interface.
 | PPP over Ethernet | [PPPoE](/glossary/p/pppoe) interface. |
 | PPP over ATM | [PPPOA](/glossary/p/pppoa) interface. |
 | 3G | [PPP](/glossary/p/ppp) over [GPRS](/glossary/g/gprs)/[EVDO](/glossary/e/evdo)/[CDMA](/glossary/c/cdma)/[UMTS](/glossary/u/umts) |
-| 4G | [4G](/glossary/0/4G) interface over [LTE](/glossary/l/lte) / [HSPA+](/glossary/h/hspa). |
+| 4G | [4G](/glossary/0/4g) interface over [LTE](/glossary/l/lte) / [HSPA+](/glossary/h/hspa). |
 | Point-to-Point Tunnel | [PTPT](/glossary/p/ptpt) interface. |
 | IPv6 Tunnel in IPv4 | [6in4](/glossary/0/6in4) interface. |
 | IPv6 Tunnel in IPv6 | [6to4](/glossary/0/6to4) interface. |

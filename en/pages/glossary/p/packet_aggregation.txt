@@ -1,0 +1,4 @@
+# Packet Aggregation
+
+Packet aggregation means combining [packets](/glossary/p/packet) into larger units, in order to reduce the overhead associated with each transmission.
+

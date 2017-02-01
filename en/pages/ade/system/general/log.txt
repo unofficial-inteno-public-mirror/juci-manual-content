@@ -8,10 +8,9 @@ The **Log Settings** view contains settings for the system logs.
 ## Current Firmware
 
 ^ Item ^ Description ^
-| System Log Level | System [Logging level](glossary/l/logging_level) |
-| Cron Log Level | Cron [Logging level](glossary/l/logging_level) |
-| Executions and Errors |  |
-| Kernel Log Level Kernel [Logging level](glossary/l/logging_level) |
+| System Log Level | System [Logging level](/glossary/l/logging_level) |
+| Cron Log Level | Cron [Logging level](/glossary/c/cron_logging_level) |
+| Kernel Log Level | Kernel [Logging level](/glossary/l/logging_level) |
 | Log File | Location to save the log file. |
 | Log IP | IP address of remote log server. |
 | Log Port | Port for the remote log server. |
@@ -21,4 +20,5 @@ The **Log Settings** view contains settings for the system logs.
 | Log Size | Max size of log in Kb. |
 | Trailing null | Use trailing null insted of newline when using TCP |
 | Log Type | Type of logging to use (circular = limited /file = unlimited number of files). |
+
 

@@ -1,0 +1,6 @@
+
+
+# PSDN
+
+A packet-switched data network - PSDN - is a network where communication is done by transmitting and receiving data [packets](/glossary/p/packet). Devices are note connected directly, but packets from different sources going to different destinations share transmission channels.
+

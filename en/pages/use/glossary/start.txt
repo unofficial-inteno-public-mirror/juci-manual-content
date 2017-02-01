@@ -1,5 +1,3 @@
-{{tag>user_basic user_expert}}
-
 {{indexmenu_n>999}}
 
 ~~Title: Glossary ~~

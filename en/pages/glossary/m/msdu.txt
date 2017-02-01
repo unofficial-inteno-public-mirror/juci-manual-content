@@ -1,0 +1,4 @@
+# MSDU
+
+A MAC Service Data Unit - MSDU - is a unit of data transmitted to and from [Media Access Control](/glossary/m/mac) devices, containing the packet and additional link layer information.
+
