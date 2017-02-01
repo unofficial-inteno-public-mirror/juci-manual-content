@@ -6,9 +6,9 @@ OFF;
 
 [Base Device](/ade/network/connections/add/uplink/base/start);[Base Device](../base/start)
 
-[firewall zone](/adb/network//firewall/zones/start);[firewall zone](../../../..//firewall/zones/start)
+[firewall zone](/adb/network//firewall/zones/start);[firewall zone](../../../../firewall/zones/start)
 
-[firewall zone](/ade/network//firewall/zones/start);[firewall zone](../../../..//firewall/zones/start)
+[firewall zone](/ade/network//firewall/zones/start);[firewall zone](../../../../firewall/zones/start)
 
 [iproute2](/glossary/i/iptables/iproute);[iproute2](/glossary/i/iptables/iproute)
 

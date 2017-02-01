@@ -1,8 +1,8 @@
 ^ OFF ^ Original ^ Fixed link ^ [E](?do=edit) ^
 | [V](/adb/network/connections/add/conref/4g/start) | [4G](/glossary/0/4G) | [4G](/glossary/0/4G) | [E](/adb/network/connections/add/conref/4g/start?do=edit) | 
-| [V](/adb/network/connections/add/uplink/6rd/start) | [firewall zone](../../../..//firewall/zones/start) | [firewall zone](/adb/network//firewall/zones/start) | [E](/adb/network/connections/add/uplink/6rd/start?do=edit) | 
+| [V](/adb/network/connections/add/uplink/6rd/start) | [firewall zone](../../../../firewall/zones/start) | [firewall zone](/adb/network//firewall/zones/start) | [E](/adb/network/connections/add/uplink/6rd/start?do=edit) |
 | [V](/adb/network/connections/add/uplink/v4/start) | [Base Device](../base/start) | [Base Device](/adb/network/connections/add/uplink/base/start) | [E](/adb/network/connections/add/uplink/v4/start?do=edit) | 
 | [V](/adb/network/multiwan/faq) | [iproute2](/glossary/i/iptables/iproute) | [iproute2](/glossary/i/iptables/iproute) | [E](/adb/network/multiwan/faq?do=edit) | 
-| [V](/ade/network/connections/add/uplink/6rd/start) | [firewall zone](../../../..//firewall/zones/start) | [firewall zone](/ade/network//firewall/zones/start) | [E](/ade/network/connections/add/uplink/6rd/start?do=edit) | 
+| [V](/ade/network/connections/add/uplink/6rd/start) | [firewall zone](../../../../firewall/zones/start) | [firewall zone](/ade/network//firewall/zones/start) | [E](/ade/network/connections/add/uplink/6rd/start?do=edit) |
 | [V](/ade/network/connections/add/uplink/v6/start) | [Base Device](../base/start) | [Base Device](/ade/network/connections/add/uplink/base/start) | [E](/ade/network/connections/add/uplink/v6/start?do=edit) | 
 
