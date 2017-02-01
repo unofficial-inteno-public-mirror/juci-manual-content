@@ -6,23 +6,19 @@ OFF;
 
 [Base Device](/ade/network/connections/add/uplink/base/start);[Base Device](../base/start)
 
-[LAN](/usb/network/devices/ethernet/start);[LAN](../../network/devices/ethernet/start)
-
-[Logging level](glossary/l/logging_level);[Logging level](glossary/l/logging_level)
+[Logging level](/glossary/l/logging_level);[Logging level](/glossary/l/logging_level)
 
 [SIP users](/glossary/s/sip_users);[SIP users](/glossary/s/sip_users)
 
-[SIP](glossary/s/sip);[SIP](glossary/s/sip)
+[SIP](/glossary/s/sip);[SIP](/glossary/s/sip)
 
 [base device](/adb/network/network/devices/base/start);[base device](../../../network/devices/base/start)
 
 [base device](/ade/network/network/devices/base/start);[base device](../../../network/devices/base/start)
 
-[codecs](glossary/c/codec);[codecs](glossary/c/codec)
+[codecs](/glossary/c/codec);[codecs](/glossary/c/codec)
 
 [firewall zone](/adb/network/connections/add/network/firewall/zones/start);[firewall zone](../../network/firewall/zones/start)
-
-[firewall zone](/adb/network/connections/network/firewall/zones/start);[firewall zone](../../network/firewall/zones/start)
 
 [firewall zone](/ade/network/connections/add/network/firewall/zones/start);[firewall zone](../../network/firewall/zones/start)
 

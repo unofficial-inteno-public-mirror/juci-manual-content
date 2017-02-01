@@ -2,7 +2,7 @@
 
 # SIP Codec
 
-SIP codecs are [codecs](glossary/c/codec) designed for use with [SIP](glossary/s/sip) traffic.
+SIP codecs are [codecs](/glossary/c/codec) designed for use with [SIP](/glossary/s/sip) traffic.
 
 ###  G.711ALaw
 
