@@ -1,5 +1,0 @@
-
-
-# Port Forwarding
-
-Port forwarding is a feature that forwards inbound traffic from the internet on a specific port (or ports) to a specific device (or port) on your local network ([LAN](/glossary/l/lan)).

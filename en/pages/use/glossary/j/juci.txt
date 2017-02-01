@@ -1,7 +1,0 @@
-
-
-# JUCI
-
-JUCI (Java User Control Interface) provides a command line and graphical user interface for administration of devices.
-
-

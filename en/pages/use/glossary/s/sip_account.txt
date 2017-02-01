@@ -1,5 +1,0 @@
-
-
-# SIP Account
-
-A SIP Account contains the identifying information and configuration for [SIP](/glossary/s/sip) communication.

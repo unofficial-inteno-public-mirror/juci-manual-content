@@ -1,3 +1,0 @@
-# Protocol
-
-A protocol is a set of rules for how to handle data, specifically for transmission and management. The sender and reciever noth use the same protocol to structure, send and receive it, ensuring that the data remains intact, readable and usable.

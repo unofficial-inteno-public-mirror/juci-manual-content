@@ -1,5 +1,0 @@
-
-
-# Proxy
-
-A proxy server works as an intermediary between the client and other servers, forwarding traffic to and from the servers and client. I adds functionality for improving aspects of the connection, such as security, reliability or simplicity.

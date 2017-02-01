@@ -1,6 +1,0 @@
-
-
-# ICMP
-
-The Internet Control Message Protocol (ICMP) is used to send error messages about services or device status.
-

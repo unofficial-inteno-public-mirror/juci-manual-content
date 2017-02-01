@@ -1,5 +1,0 @@
-
-
-# LCP
-
-The Link Control Protocol (LCP) is part of the [Point-to-Point Protocol](/glossary/p/ppp) and is used to set up the PPP connection.

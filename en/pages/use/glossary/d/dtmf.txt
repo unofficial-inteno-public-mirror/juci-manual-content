@@ -1,6 +1,0 @@
-
-
-# DTMF
-
-Dual Tone - Multi Frequency (DTMF) is a signalling method for telephone systems, which uses a set of eight audio frequencies transmitted in pairs to represent 16 signals, represented by the ten digits, the letters A to D, and the symbols `#` and `*`.
-

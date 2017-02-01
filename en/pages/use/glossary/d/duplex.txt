@@ -1,9 +1,0 @@
-
-
-# Duplex
-
-The term duplex indicates how traffic is performed. It can be either:
-
-* Half - only one side can communicate at a time.
-
-* Full - both sides can communicate with each other simultaneously.

@@ -1,7 +1,0 @@
-
-
-# IPv4
-
-An IPv4 address is an [IP address](/glossary/i/ipv6) represented as four groups separated by a period. Each group consists of decimal numbers between 0 and 255.
-
-An example of an IPv4 address is `192.168.22.12`.

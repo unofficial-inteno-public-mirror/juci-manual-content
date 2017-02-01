@@ -1,6 +1,0 @@
-
-
-# WCDMA
-
-Wideband Code Division Multiple Access (W-CDMA) is a mobile communications technology using [CDMA](/glossary/c/cdma)
-for broadband.
