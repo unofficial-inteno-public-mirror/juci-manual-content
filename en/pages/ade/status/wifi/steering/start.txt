@@ -16,10 +16,14 @@ The information is displayed in the `STA info summary` table.
 | TimeStamp | Timestamp for the steering event. |
 | Tx_rate | Transmission rate. |
 | RSSI | [Received signal strength indicator ](/glossary/r/rssi). |
-| Bounce |  (`yes`/`no`). |
-| Picky |  (`yes`/`no`). |
-| PSTA |  [PSTA](/glossary/p/psta) (`yes`/`no`). |
-| DUALBAND | Is client dual-band capable? (`yes`/`no`). |
+| Bounce | Does the client bounce back to a particular bandafter steering? (`yes`/`no`). |
+| Picky |  Does the client prefer a particular band? (`yes`/`no`). |
+| PSTA |  Is the client a [proxy](/glossary/p/proxy) station? (`yes`/`no`). |
+| DUALBAND | Is the client dual-band capable? (`yes`/`no`). |
+
+Bounce -> If the client is bouncing between bands. For example, BS steers it from 5 to 2.4, but it bounces back to 5.
+Picky -> It prefers a band over another. For example the client prefers to stick with 5, so even if BS wants to steer it from 5 to 2.4 for it will stay on 5.
+PSTA -> The client is proxy STA
 
 
 ### Log
