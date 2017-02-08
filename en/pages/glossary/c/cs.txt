@@ -2,6 +2,17 @@
 
 # Class Selector
 
-The Class Selector (CS) is used by [Differentiated Services](/glossary/d/diffserv) as a [precedence](/glossary/p/precedence) code point value that maps to a [Differentiated Services Code Point](/glossary/d/dscp). It is backwards compatible with IP precedence values.
+The Class Selector (CS) is used by [Differentiated Services](/glossary/d/diffserv) maps [Differentiated Services Code Point](/glossary/d/dscp) to indicate [precedence](/glossary/p/precedence).
+
+It is backwards compatible with [IP precedence](/glossary/i/ip_precedence) values (CS0 = IP precedence 0, CS1 = IP precedence 1, and so on) .
 
 
+^ DSCP ^ Binary ^ Typical Application ^ Examples ^
+| CS0 (Default) | 000 000 | 0x00 | 0
+| CS1 | 001 000 | 8 | Scavenger | YouTube, Gaming, P2P
+| CS2 | 010 000 | 16 | OAM | SNMP,SSH,Syslog
+| CS3 | 011 000 | 24 | Signaling | SCCP,SIP,H.323
+| CS4 | 100 000 | 32 | Realtime | TelePresence
+| CS5 | 101 000 | 40 | Broadcast video | Cisco IPVS
+| CS6 | 110 000 | 48 | Network control | EIGRP,OSPF,HSRP,IKE
+| CS7 | 111 000 | 56 |  |  |

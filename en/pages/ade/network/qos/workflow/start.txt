@@ -1,0 +1,16 @@
+{{indexmenu_n>100}}
+
+# Workflow 
+
+In order to use [Quality of Service](/glossary/q/qos) on the traffic for your device, you need to perform a number of configurations.
+
+## Overview
+
+{{page>./classify}}
+
+{{page>./class}}
+
+{{page>./group}}
+
+{{page>./interface}}
+
