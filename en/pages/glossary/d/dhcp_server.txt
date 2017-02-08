@@ -2,6 +2,6 @@
 
 # DNS Server
 
-A DHCP server is a server that provides [IP](/glossary/i/ip) addresses to clients on the a network.
+A DHCP server is a server that provides [IP addresses](/glossary/i/ip_address) to clients on the a network.
 
 See also: [Domain Name System](/glossary/d/dhcp_lease).

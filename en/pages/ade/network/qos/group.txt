@@ -4,7 +4,7 @@
 
 # Classification Group
 
-The **Classification Group** tab lets you manage groupings of QoS [classes](/glossary/q/qos_class).
+The **Classification Group** tab lets you manage groupings of [QoS classes](/glossary/q/qos_class).
 
 ##
 
@@ -12,16 +12,21 @@ At the top of the page is a list of selectable classification groups.
 
 When a particular group is selected, details about it is shown in the configuration section.
 
-^ Item ^ Description ^
-| Default Class | Fallback class. |
-| Classes | Classes to include in the group. |
+^ Item ^ Description ^ Comment ^
+| Default Class | Class to use as fallback if packets don't match any other class. |
+| Classes | Classes to include in the group. | **Note:** You need to [create a class](./class) for it to be available in the list. |
+
+
+The **Default** Classgroup contains these classes:
+- **Priority**
+- **Express**
+- **Normal**
+- **Bulk**
 
 
 ### Add Classification Group
 
-You can add as many classes as you like.
-
-To add a class:
+To add a class group:
 
 * Click the **Add** button
 
@@ -32,7 +37,6 @@ To add a class:
 * Add classes as needed:
 
     * Click **Add a new class**
-
     * Select the desired class from the list
 
 * Click **Apply**

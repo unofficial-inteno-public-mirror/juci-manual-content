@@ -2,7 +2,7 @@
 
 # DHCP Pool
 
-A DHCP pool is a collection of [IP](/glossary/i/ip) addresses available for [DHCP](/glossary/d/dhcp) allocation.
+A DHCP pool is a collection of [IP addresses](/glossary/i/ip_address) available for [DHCP](/glossary/d/dhcp) allocation.
 
 The **Pool Start** number is the first available number in the pool.
 

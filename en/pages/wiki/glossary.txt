@@ -101,8 +101,8 @@
 {{page>/glossary/i/iptv&fullpage}}
 {{page>/glossary/i/ipui&fullpage}}
 {{page>/glossary/i/ipv4_broadcast&fullpage}}
-{{page>/glossary/i/ipv4&fullpage}}
-{{page>/glossary/i/ipv6&fullpage}}
+{{page>/glossary/i/ipv4_address&fullpage}}
+{{page>/glossary/i/ipv6_address&fullpage}}
 {{page>/glossary/i/iup&fullpage}}
 {{page>/glossary/index
 {{page>/glossary/j/jitter_buffer&fullpage}}

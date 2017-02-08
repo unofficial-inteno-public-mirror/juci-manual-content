@@ -1,0 +1,16 @@
+# IP Precedence
+
+IP precedence is a method to assign priority to data packets by using part of the [Type of Service](/glossary/i/ip_tos) field in the IP datagram header.
+
+The first three bits of the TOS field is used to provide one of eight possible precedence values.
+
+^ Binary ^ Decimal Value ^ Priority ^
+| 000 | (0) | Routine |
+| 001 | (1) | Priority |
+| 010 | (2) | Immediate |
+| 011 | (3) | Flash |
+| 100 | (4) | Flash Override |
+| 101 | (5) | Critical |
+| 110 | (6) | Internetwork Control |
+| 111 | (7) | Network Control |
+

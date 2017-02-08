@@ -1,0 +1,4 @@
+
+Policing
+
+Traffic Policing is the practice of dropping, marking or ignoring ingress packets that don't comply with user-defined criteria.

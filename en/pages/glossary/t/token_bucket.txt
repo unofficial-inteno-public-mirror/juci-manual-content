@@ -1,0 +1,14 @@
+# Token Bucket
+
+A token bucket algorithm is a method of handling packet traffic, by using an analogy of a *bucket* containing a number of *tokens* that arrive at a particular rate. Tokens are used to limit when data packets are transmitted.
+
+The *depth* of the bucket limits the number of tokens, and the rate of arriving tokens limits how quickly packets can be sent.
+
+The concept is as follows:
+
+* Tokens are added to the bucket at a fixed rate.
+* If the bucket becomes full, arriving tokens are thrown away.
+* Arriving data packets use up tokens from the bucket and are transmitted on the network.
+
+This means that the bucket needs to be deep enough to handle bursts of traffic, and the token rate limits the transmission rate.
+

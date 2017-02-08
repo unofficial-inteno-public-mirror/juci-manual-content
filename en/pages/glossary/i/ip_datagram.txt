@@ -1,0 +1,22 @@
+# IP Datagram
+
+A IP datagram is a unit of data transmitted via the IP
+
+looks like this:
+
+Data transmitted over an internet using IP is carried in messages called IP datagrams. Like all network protocol messages, IP uses a specific format for its datagrams. We are of course looking here at IP version 4 and so we will examine the IPv4 datagram format, which was defined in RFC 791 along with the rest of IPv4.
+
+
+The datagram fields are clarified below:
+VERS - is the IP version number (currently binary 0100 (4), but can now also be version 6). All nodes must use the same version.
+HLEN - header length in 32-bit words, so if the number is 6, then 6 x 32 bit words are in the header i.e. 24 bytes. The maximum size is 15 x 32-bit words which is 60 bytes. The minimum size is 20 bytes or 5 x 32-bit words.
+Type of Service - is how the datagram should be used, e.g. delay, precedence, reliability, minimum cost, throughput etc. This TOS field is now used by Differentiated Services and is called the Diff Serv Code Point (DSCP).
+Total Length - is the number of octets that the IP datagram takes up including the header. The maximum size that an IP datagram can be is 65,535 octets.
+Identification - The Identification is a unique number assigned to a datagram fragment to help in the reassembly of fragmented datagrams.
+Flags - Bit 0 is always 0 and is reserved. Bit 1 indicates whether a datagram can be fragmented (0) or not (1). Bit 2 indicates to the receiving unit whether the fragment is the last one in the datagram (1) or if there are still more fragments to come (0).
+Frag Offset - in units of 8 octets (64 bits) this specifies a value for each data fragment in the reassembly process. Different sized Maximum Transmission Units (MTUs) can be used throughout the Internet.
+TTL - the time that the datagram is allowed to exist on the network. A router that processes the packet decrements this by one. Once the value reaches 0, the packet is discarded.
+Protocol - Layer 4 protocol sending the datagram, UDP uses the number 17, TCP uses 6, ICMP uses 1, IGRP uses 88 and OSPF uses 89.
+Header Checksum - error control for the header only.
+IP Options - this field is for testing, debugging and security.
+Padding - there is padding added sometimes just to make sure that the datagram is confined within a 32 bit boundary in multiples of 32 bits.

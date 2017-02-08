@@ -1,0 +1,6 @@
+# QoS Filter
+
+A [Quality Of Service](/glossary/q/qos) Filter is used by [classful QDiscs]() to determine which [QoS Class](/glossary/q/qos_class) a [packet](/glossary/p/packet) should belong to.
+
+The filter contains a number of parameters/conditions that the packet needs to match in order to be enqueued in the appropriate class.
+

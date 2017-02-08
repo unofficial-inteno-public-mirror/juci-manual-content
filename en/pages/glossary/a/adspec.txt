@@ -1,0 +1,5 @@
+# Ad SPECification
+
+An ADvertisement SPECification (ADSPEC) is a part of an [RSVP](/glossary/r/rsvp) PATH message which contains information from network devices between a sender and receiver.
+
+Typically the message allows *advertise* supprted services, availability and transmission information.

@@ -1,0 +1,12 @@
+
+{{indexmenu_n>30}}
+
+# Class
+
+
+
+##
+
+{{page>../class}}
+
+<- ./start ^ ./start ^ ./start ->

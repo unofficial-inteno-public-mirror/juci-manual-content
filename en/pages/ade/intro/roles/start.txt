@@ -6,7 +6,7 @@
 
 The web interface uses *Roles* to provide and restrict access to the various features in the device. 
 
-There are four pre-defined roles: User, Support, Admin, and Root. 
+There are four pre-defined roles: **User**, **Support**, **Admin**, and **Root**. 
 
 
 ### User

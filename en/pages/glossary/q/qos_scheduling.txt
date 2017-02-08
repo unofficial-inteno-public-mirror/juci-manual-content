@@ -1,0 +1,4 @@
+
+QoS Scheduling
+
+A QDisc may, with the help of a classifier, decide that some packets need to leave earlier than others. This process is called scheduling.

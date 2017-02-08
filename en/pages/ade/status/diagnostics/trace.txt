@@ -10,7 +10,7 @@ The **Tracing tool** view allows you to perform a [Traceroute Test](/glossary/t/
 
 To perform a ping test against an endpoint:
 
-* Enter a valid [hostname](/glossary/h/hostname) or [IP](/glossary/i/ip) address in the **Host to trace** box
+* Enter a valid [hostname](/glossary/h/hostname) or [IP address](/glossary/i/ip_address) in the **Host to trace** box
 
 * Click **Trace**
 

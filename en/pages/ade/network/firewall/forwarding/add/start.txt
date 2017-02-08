@@ -12,7 +12,7 @@ The **Add or Edit Port Mapping** view allows you to add or change [port](/glossa
 | Rule Name | Rule name. |
 | Source Zone | Incoming [zone](/glossary/f/firewall_zone). |
 | Destination Zone | Destination [zone](/glossary/f/firewall_zone). |
-| Source IP Address | Source [IP](/glossary/i/ip) address (for filtering). |
+| Source IP Address | Source [IP address](/glossary/i/ip_address) (for filtering). |
 | Dst. Device | Client [hostname](/glossary/h/hostname). |
 | Dst. IP Address | Client [IP](/glossary/i/ip) address. |
 | Protocol | Mapping [protocol](/glossary/p/port) ([UDP](/glossary/u/udp) / [TCP](/glossary/t/tcp) / TCP + UDP ). |

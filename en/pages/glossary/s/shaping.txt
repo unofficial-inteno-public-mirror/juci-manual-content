@@ -1,0 +1,4 @@
+
+Shaping
+
+Traffic Shaping is the process of delaying packets to limit egress traffic to a maximum rate or smooth bursts.

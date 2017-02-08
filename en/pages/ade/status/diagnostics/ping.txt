@@ -11,7 +11,7 @@ The **Ping Test** view allows you to perform a [Ping](/glossary/p/ping) for a se
 To perform a ping test against an endpoint:
 
 
-* Enter a valid [hostname](/glossary/h/hostname) or [IP](/glossary/i/ip) address in the **Host to ping** box
+* Enter a valid [hostname](/glossary/h/hostname) or [IP address](/glossary/i/ip_address) in the **Host to ping** box
 
 * Click **Ping**
 

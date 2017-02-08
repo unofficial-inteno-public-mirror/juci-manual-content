@@ -12,16 +12,16 @@ At the top of the page is a list of selectable interfaces.
 
 When a particular interface is selected, details about it is shown in the configuration section.
 
-^ Item ^ Description ^
-| Enable QoS | Turn the [Quality of Service](/glossary/q/qos) interface on. |
-| Classification Group | [Quality of Service](/glossary/q/qos_group). |
-| Calculate Overhead | Include [overhead](/glossary/o/overhead). |
-| Limit Download Speed | Restrict the network speed to clients. |
-| Limit Upload Speed | Restrict the network speed from clients. |
+^ Item ^ Description ^ ^
+| Enable QoS | Turn the [Quality of Service](/glossary/q/qos) on for the interface. |  |
+| Classification Group | [Classification group](/glossary/q/qos_group) to use for the interface. |  | **Note:** You need to [create the group](./group) for it to be available in the list. |
+| Calculate Overhead | Include [overhead](/glossary/o/overhead) in the packet calculations for [shaping](/glossary/s/shaping) and [policing](/glossary/p/policing). |  | 
+| Limit Download Speed | Restrict the network speed *to* clients. |  |
+| Limit Upload Speed | Restrict the network speed *from* clients. |  |
 
-### Add Profile
 
-You can add as many profiles as you like.
+
+### Add Interface
 
 To add an interface:
 
@@ -29,10 +29,16 @@ To add an interface:
 
 The interface dialog opens.
 
-* Select **Interface**
+* Select an **Interface** from the list
 
 * Click **OK**
 
-* Enable other settings as needed.
+* Enable other settings as needed:
+ * Turn QoS on with the **Enable QoS** slider
+ * Select an available **Classification Group**
+ * Turn QoS on with the **Limit Download Speed** slider
+  * Enter a speed value (kbps)
+ * Turn QoS on with the **Limit Upload Speed** slider
+  * Enter a speed value (kbps)
 
 * Click **Apply**

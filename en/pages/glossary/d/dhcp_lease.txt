@@ -2,5 +2,5 @@
 
 # DHCP lease
 
-A DHCP Lease is a [DHCP](/glossary/d/dhcp) is a reservation of a particular [IP](/glossary/i/ip) address provided to a client by a [DHCP server](/glossary/d/dhcp_server). It is called lease because it expires aftrer a certain amoutn of time (usually 24 hours. Before the lease expires, the DHCP server should renew the lease or provide a new lease.
+A DHCP Lease is a [DHCP](/glossary/d/dhcp) is a reservation of a particular [IP address](/glossary/i/ip_address) provided to a client by a [DHCP server](/glossary/d/dhcp_server). It is called lease because it expires aftrer a certain amoutn of time (usually 24 hours. Before the lease expires, the DHCP server should renew the lease or provide a new lease.
 

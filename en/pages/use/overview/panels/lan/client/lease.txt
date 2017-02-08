@@ -4,7 +4,7 @@
 
 # Static Leases
 
-The **Static Leases** tab allows you to assign a static [IP](/glossary/i/ip) address [dhcp lease](/glossary/d/dhcp_lease) to the client.
+The **Static Leases** tab allows you to assign a static [IP address](/glossary/i/ip_address) [dhcp lease](/glossary/d/dhcp_lease) to the client.
 
 
 ## Static Leases Section

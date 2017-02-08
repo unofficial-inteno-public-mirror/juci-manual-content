@@ -113,8 +113,8 @@
 {{page>/all/network/connections/pppol2tp/general&fullpage}}
 {{page>/all/network/connections/pppol2tp/advanced&fullpage}}
 {{page>/all/network/routes/start&fullpage}}
-{{page>/all/network/routes/ipv4&fullpage}}
-{{page>/all/network/routes/ipv6&fullpage}}
+{{page>/all/network/routes/ipv4_address&fullpage}}
+{{page>/all/network/routes/ipv6_address&fullpage}}
 {{page>/all/network/firewall/start&fullpage}}
 {{page>/all/network/firewall/general/start&fullpage}}
 {{page>/all/network/firewall/zones/start&fullpage}}
@@ -200,8 +200,8 @@
 {{page>/all/status/network/clients/start&fullpage}}
 {{page>/all/status/network/routing/start&fullpage}}
 {{page>/all/status/network/routing/arp&fullpage}}
-{{page>/all/status/network/routing/ipv4&fullpage}}
-{{page>/all/status/network/routing/ipv6&fullpage}}
+{{page>/all/status/network/routing/ipv4_address&fullpage}}
+{{page>/all/status/network/routing/ipv6_address&fullpage}}
 {{page>/all/status/network/routing/neighbors&fullpage}}
 {{page>/all/status/network/upnp/start&fullpage}}
 {{page>/all/status/network/dhcp/start&fullpage}}

@@ -23,7 +23,7 @@ Adding a parameter will filter out traffic according to the parameters and assig
 | Source Ports | Included [ports](/glossary/p/port) in source. |
 | Destination Ports | Included [ports](/glossary/p/port) in destination. |
 | Port Range | Range of [ports](/glossary/p/port) anywhere. |
-| Precedence | [Precedence ](/glossary/p/precedence).
+| Precedence | [Precedence](/glossary/p/precedence). |
 | Packet Size | Size of packets to match. |
 | Direction | (Both / In / Out) |
 | Mark | Hexadecimal code `0x000000`-`0xFFFFFF`. |

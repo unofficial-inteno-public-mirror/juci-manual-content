@@ -2,7 +2,15 @@
 
 # Precedence
 
+Precedence in [DiffServ](/glossary/d/diffserv) uses a [DiffServ Code Point](/glossary/d/scp) to assign priority to data packets.
+
 The Precedence setting defines [quality of service](/glossary/q/qos) parameters relating to [Class Selector](/glossary/c/cs) and [Assured Forwarding](/glossary/a/af) priority.
+
+It consistts of the
+
+that uses the first 6 bits of the TOS field thereby giving 26 = 64 different values.
+
+
 
 ^ ID ^ Setting ^
 | All | Default |
