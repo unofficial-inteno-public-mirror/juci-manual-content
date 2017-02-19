@@ -2,4 +2,4 @@
 
 # Hostname
 
-A hostname is a ([IPv4](/glossary/i/ipv4) label assigned to a network device used to identify the device in the network for addressing purposes.
+A hostname is a ([IPv4](/glossary/i/ip) label assigned to a network device used to identify the device in the network for addressing purposes.

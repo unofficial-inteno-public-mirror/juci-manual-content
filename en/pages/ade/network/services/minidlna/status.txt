@@ -21,6 +21,6 @@ The Connected Clients table displays information about possible clients and thei
 ^ Column ^ Description ^
 | ID | Client ID. |
 | Type | Type of client (as identified by the client). |
-| IP Address | [IPv4](/glossary/i/ipv4) IP address for the client. |
+| IP Address | [IPv4](/glossary/i/ip) IP address for the client. |
 | HW Address | [MAC](/glossary/m/mac) address for the client. |
 | Connections | Number of connections to this client. |

@@ -2,7 +2,7 @@
 
 # IPv4
 
-The **IPv4 status** view shows information about [IPv4](/glossary/i/ipv4) routes.
+The **IPv4 status** view shows information about [IPv4](/glossary/i/ip) routes.
 
 ### Table
 

@@ -6,15 +6,15 @@
 
 The **interface** tab lets you select interfaces and configure [Quality of Service](/glossary/q/qos) profiles for them.
 
-##
+## Overview
 
 At the top of the page is a list of selectable interfaces.
 
 When a particular interface is selected, details about it is shown in the configuration section.
 
-^ Item ^ Description ^ ^
+^ Item ^ Description ^  ^
 | Enable QoS | Turn the [Quality of Service](/glossary/q/qos) on for the interface. |  |
-| Classification Group | [Classification group](/glossary/q/qos_group) to use for the interface. |  | **Note:** You need to [create the group](./group) for it to be available in the list. |
+| Classification Group | [Classification group](/glossary/q/qos_group) to use for the interface. |  | **Note:** You need to [create the group](../group/start) for it to be available in the list. |
 | Calculate Overhead | Include [overhead](/glossary/o/overhead) in the packet calculations for [shaping](/glossary/s/shaping) and [policing](/glossary/p/policing). |  | 
 | Limit Download Speed | Restrict the network speed *to* clients. |  |
 | Limit Upload Speed | Restrict the network speed *from* clients. |  |

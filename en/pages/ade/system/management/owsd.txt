@@ -19,8 +19,8 @@ The **Configure firewall rule** section allows you to enable and configure a fir
 ^ Item ^ Description ^
 | Interface | Listening [interface](/glossary/n/network_interface). |
 | Port | [Port](/glossary/p/port) to listen on. |
-| IPv6 | [IPv4](/glossary/i/ipv4) / [IPv6](/glossary/i/ipv6) address. |
-| IPv6 only | Limit to [IPv6](/glossary/i/ipv6)  |
+| IPv6 | [IPv4](/glossary/i/ipv4_address) / [IPv6](/glossary/i/ipv6_address) address. |
+| IPv6 only | Limit to [IPv6](/glossary/i/ip)  |
 | List of allowed origins | Filter for origin ( `*` for allow all). |
 
 

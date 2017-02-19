@@ -2,5 +2,5 @@
 
 # Domain Name
 
-A domain name is typically a name that identifies a resource on the internet with an [IP address](/glossary/i/ip), according to the [Domain Name System](/glossary/d/dns).
+A domain name is typically a name that identifies a resource on the internet with an [IP address](/glossary/i/ip_address), according to the [Domain Name System](/glossary/d/dns).
 

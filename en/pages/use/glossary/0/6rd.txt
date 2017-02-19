@@ -2,4 +2,4 @@
 
 # 6rd
 
-6rd is a method for [IPv6](/glossary/i/ipv6) rapid deployment on Internet Service Provider [IPv4](/glossary/i/ipv4) infrastructures, operating within the ISP's network.
+6rd is a method for [IPv6](/glossary/i/ip) rapid deployment on Internet Service Provider [IPv4](/glossary/i/ip) infrastructures, operating within the ISP's network.

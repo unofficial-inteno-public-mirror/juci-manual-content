@@ -3,7 +3,7 @@
 
 # IPv6 Routes
 
-The IPv4 section lets you add [static routes](/glossary/s/static_route) for [IPV4](/glossary/i/ipv6).
+The IPv4 section lets you add [static routes](/glossary/s/static_route) for [IPv4](/glossary/i/ip).
 
 ##
 

@@ -1,0 +1,4 @@
+# Dropping
+
+Dropping is when a [packet](/glossary/p/packet) is deliberately dropped due to congestion or other reasons, such as [quality of service](/glossary/q/qos) rules.
+

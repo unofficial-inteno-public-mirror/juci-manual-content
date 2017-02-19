@@ -8,7 +8,7 @@ In the **edit wireless interface** view you can change different aspects of your
 
 ##
 
-![Wireless interface](./5GHz.png)
+![Wireless interface](./5ghz.png)
 
 ^ Item ^ Comment ^
 | Enabled | Toggle interface on or off. |

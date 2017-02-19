@@ -4,22 +4,3 @@
 
 Quality of Service (QoS) involves setting for data traffic tha affect performance, allowing resources to be allocated depending on the needs of various types of traffic.
 
-
-Problems faced when attempting to provide QoS include:
-A shortage of bandwidth because network links are oversubscribed.
-Packets being lost due to congestion at bursty periods. Modern DSPs can fill in for between 20ms to 50ms of lost voice.
-End-to-End delay made up by a number of components that occur in the following order:
-Fixed Switch Delay - as packets are layer 2 switched from the call initiator.
-Fixed Encoding Delay - coding PCM to G.729 (5 ms look ahead then 10ms per frame, with G.729 a Frame Relay packet would typically have 2 x 10ms samples), G.726 (0.125us), G.723 (30ms), G.728 (2.5ms) etc.
-Fixed Voice Activity Detection (VAD) - around 5ms.
-Fixed Packetisation Delay - i.e. packetising samples in G.711, G.726, G.729 etc.
-Variable Output Queuing Delay - as voice packets enter an output queue and wait for the preceding frame (voice or data)	to be played out.
-Fixed Serialisation Delay - the time it takes to get the bits on to the circuit. The faster the circuit and the smaller the packet, the less this delay.
-Fixed Processing Delay - the time it takes for the packets to be examined, routed, managed etc.
-Variable Network Queuing Delay - due to clocking frames in and out of the different network switches.
-Fixed Network Propagation Delay - normally assumed to be 6 microseconds/km or 10 microseconds/mile (G.114) as the packets traverse the medium. Across the UK this is typically between 1ms and 3ms.
-Variable Input Queuing Delay - as voice packets enter an input queue and wait for the preceding frame (voice or data)	to be played out.
-Fixed Dejitter Buffer Delay - can be up to 50ms.
-Fixed Switch Delay - as packets are layer 2 switched to the endpoint.
-Fixed Decoding Delay - decoding the compressed packets is trivial compared to encoding and so takes less time.
-The Delay Budget is made up of the sum of the delays. In the UK, the total one-way delay budget is typically less than 100ms.

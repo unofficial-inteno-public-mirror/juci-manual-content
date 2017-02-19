@@ -1,5 +1,5 @@
 OFF; 
 
-[4G](/glossary/0/4G);[4G](/glossary/0/4G)
+[IP address](/glossary/i/ipv6);[IP address](/glossary/i/ipv6)
 
 

@@ -1,0 +1,4 @@
+# Congestion
+
+Network congestion is when the traffic volume in the network becomes so large it affects the trasnmission and delivery of data [packets](/glossary/p/packet), thereby causing a reduced quality of service.
+

@@ -2,14 +2,29 @@
 
 Differentiated Services (DiffServ) is a method for classifying traffic and providing [quality of service](/glossary/q/qos) for [IP](/glossary/i/ip) networks.
 
-DiffServ uses a [differentiated services code point](/glossary/d/dscp) in the IP header for packet classification purposes.
+DiffServ uses a [DiffServ Code Point](/glossary/d/dscp) in the IP header for packet classification purposes.
 
-DiffServ is concerned with classifying packets as they enter the local network. This classification then applies to Flow of traffic where a Flow is defined by 5 elements;
+Packets entering the local network are classified into a *flow* defined by:
 
-Source IP address, Destination IP, Source port, Destination port and the transport protocol. A flow that has been classified or marked can then be acted upon by other QoS mechanisms.
+* Source [IP address](/glossary/i/ip_address)
+* Destination [IP address](/glossary/i/ip_address)
+* Source [port](/glossary/p/port)
+* Destination [port](/glossary/p/port)
+* [Protocol](/glossary/p/protocol)
 
-Multiple flows can therefore be dealt with in a multitude of ways depending on the requirements of each flow. Packets are first Classified according to their current [DSCP](/glossary/d/dscp).
+Classified flows can be object of multiple QoS mechanisms.
 
-Then they are separated into queues where one queue may be routed via a marking mechanism and another queue may be examined more closely.
 
-After further examination additional packets may be sent for marking or be sent direct to the shaping/dropping mechanisms where all packets end up before leaving the interface.
+### Classification Process
+
+The classification works as follows:
+
+1. Packets are first classified by their [DSCP](/glossary/d/dscp).
+
+2. Packets are separated into queues for routing or examination
+
+3. Examined packets are sent for marking or to [shaping](/glossary/s/shaping)
+/[dropping](/glossary/d/dropping) mechanisms.
+
+4. Packets leave the interface.
+

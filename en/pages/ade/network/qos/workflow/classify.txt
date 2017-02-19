@@ -1,13 +1,14 @@
 
-{{indexmenu_n>20}}
+{{indexmenu_n>30}}
 
 # Classify
 
+In order to direct traffic to the correct classes, you need to define classificaton rules in the **Classify** tab.
 
+## Tab
 
-##
+{{page>../classify/start&fullpage}}
 
-{{page>../classify}}
 
 
 <- ./start ^ ./start ^ ./class ->

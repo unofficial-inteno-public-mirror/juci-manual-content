@@ -1,0 +1,92 @@
+
+{{indexmenu_n>30}}
+
+# Class
+
+There are a number of predefined classes QoS [classes](/glossary/q/qos_class). Each class is a set of definitions for a [token bucket](/glossary/t/token_bucket).
+
+## Default Settings
+
+The predefined classes can be edited and all values changed, but they have default settings that should be suitable in normal cases.
+
+### Priority
+
+The priority class is an upstream class for high priority traffic such as handshaking and ICMP packets.
+
+^ Item ^ Description ^ Default Value ^
+| Priority | Bandwidth allocation limit (%). |  20 |
+| Average Rate | Average target rate (%). |  10 |
+| Limit Rate | Maximum allowed [bandwidth](/glossary/b/bandwidth) (%). |  100 |
+| Packet Size | Size of [packets](/glossary/p/packet) (bytes). |  400 |
+| Packet Delay | Target [delay](/glossary/d/delay) for packets (ms). |  0 |
+| Max Size | Maximum size of [packets](/glossary/p/packet) (bytes). |  1000 |
+
+
+### Priority_down
+
+The Priority_down class is an downstream class for high priority traffic.
+
+^ Item ^ Description ^ Default Value ^
+| Priority | Bandwidth allocation limit (%). |  1 |
+| Average Rate | Average target rate (%). |  10 |
+| Limit Rate | Maximum allowed [bandwidth](/glossary/b/bandwidth) (%). |  100 |
+| Packet Size | Size of [packets](/glossary/p/packet) (bytes). |  1000 |
+| Packet Delay | Target [delay](/glossary/d/delay) for packets (ms). |  0 |
+| Max Size | Maximum size of [packets](/glossary/p/packet) (bytes). |  1000 |
+
+
+### Express
+
+The Express class is for interactive applications that require bandwidth above standard services so that interactive apps run smoothly.
+
+^ Item ^ Description ^ Default Value ^
+| Priority | Bandwidth allocation limit (%). |  10 |
+| Average Rate | Average target rate (%). |  50 |
+| Limit Rate | Maximum allowed [bandwidth](/glossary/b/bandwidth) (%). |  100 |
+| Packet Size | Size of [packets](/glossary/p/packet) (bytes). |  1000 |
+| Packet Delay | Target [delay](/glossary/d/delay) for packets (ms). |  0 |
+| Max Size | Maximum size of [packets](/glossary/p/packet) (bytes). |  1000 |
+
+### Normal
+
+The Normal Class is the standard upstream class for all services.
+
+This class will apply to all services not otherwise defined.
+
+^ Item ^ Description ^ Default Value ^
+| Priority | Bandwidth allocation limit (%). |  5 |
+| Average Rate | Average target rate (%). |  10 |
+| Limit Rate | Maximum allowed [bandwidth](/glossary/b/bandwidth) (%). |  100 |
+| Packet Size | Size of [packets](/glossary/p/packet) (bytes). |  1500 |
+| Packet Delay | Target [delay](/glossary/d/delay) for packets (ms). |  100 |
+| Max Size | Maximum size of [packets](/glossary/p/packet) (bytes). |  1000 |
+
+###  Normal_down
+
+The Normal_down class is the standard downstream class for all services.
+
+This class will apply to all services not otherwise defined.
+
+^ Item ^ Description ^ Default Value ^
+| Priority | Bandwidth allocation limit (%). |  1 |
+| Average Rate | Average target rate (%). |  20 |
+| Limit Rate | Maximum allowed [bandwidth](/glossary/b/bandwidth) (%). |  100 |
+| Packet Size | Size of [packets](/glossary/p/packet) (bytes). |  1500 |
+| Packet Delay | Target [delay](/glossary/d/delay) for packets (ms). |  0 |
+| Max Size | Maximum size of [packets](/glossary/p/packet) (bytes). |  1000 |
+
+
+### Bulk
+
+The bulk class is suitable for very low priority traffic. It will be allocated available bandwidth if other classes are idle. When other classes are active, it will be allocated bandwidth according to the priority setting.
+
+ It is suitable for transfer services such as (P2P and FTP).
+
+^ Item ^ Description ^ Default Value ^
+| Priority | Bandwidth allocation limit (%). |  1 |
+| Average Rate | Average target rate (%). |  1 |
+| Limit Rate | Maximum allowed [bandwidth](/glossary/b/bandwidth) (%). |  100 |
+| Packet Size | Size of [packets](/glossary/p/packet) (bytes). |  1500 |
+| Packet Delay | Target [delay](/glossary/d/delay) for packets (ms). |  200 |
+| Max Size | Maximum size of [packets](/glossary/p/packet) (bytes). |  1000 |
+

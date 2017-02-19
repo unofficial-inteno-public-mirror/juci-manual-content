@@ -1,0 +1,3 @@
+# Delay
+
+Network delay is a network characteristic indicating how long it takes for a piece of data to travel across the network.

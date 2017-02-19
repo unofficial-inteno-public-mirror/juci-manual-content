@@ -2,4 +2,4 @@
 
 # DS-Lite
 
-Dual-Stack Lite (DS-Lite) is amethod for sharing of [IPv4](/glossary/i/ipv4) addresses by combining [IPv4-in-IPv6](/glossary/n/nat) and [NAT](/glossary/n/nat).
+Dual-Stack Lite (DS-Lite) is amethod for sharing of [IPv4](/glossary/i/ip) addresses by combining [IPv4-in-IPv6](/glossary/n/nat) and [NAT](/glossary/n/nat).

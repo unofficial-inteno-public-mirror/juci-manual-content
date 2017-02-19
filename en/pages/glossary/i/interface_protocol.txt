@@ -7,8 +7,8 @@ The Interface Protocol setting defines the protocol/behavior for an interface.
 ^ Protocol ^ Description ^
 | Unmanaged | No defined protocol. |
 | Static Address | Static IP address. |
-| DHCP v4 | Retrieve [IPv4](/glossary/i/ipv4) address through [DHCP](/glossary/d/dhcp) |
-| DHCP v6 | Retrieve [IPv6](/glossary/i/ipv6) address through [DHCP](/glossary/d/dhcp) |
+| DHCP v4 | Retrieve [IPv4](/glossary/i/ip) address through [DHCP](/glossary/d/dhcp) |
+| DHCP v6 | Retrieve [IPv6](/glossary/i/ip) address through [DHCP](/glossary/d/dhcp) |
 | PPP | [PPP](/glossary/p/ppp) interface. |
 | PPP over Ethernet | [PPPoE](/glossary/p/pppoe) interface. |
 | PPP over ATM | [PPPOA](/glossary/p/pppoa) interface. |

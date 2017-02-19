@@ -6,11 +6,15 @@ In order to use [Quality of Service](/glossary/q/qos) on the traffic for your de
 
 ## Overview
 
-{{page>./classify}}
+The order of operations involved in configuring QoS is different from the order in which the interface displays the setting tabs.
 
 {{page>./class}}
+
+{{page>./classify}}
 
 {{page>./group}}
 
 {{page>./interface}}
 
+
+<-  ^ ./start ^ ./classify ->

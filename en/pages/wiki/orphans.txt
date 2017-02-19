@@ -109,8 +109,6 @@
 | [N/A] | `/adb/overview/panels/lan/lan.png` | ![Image](/adb/overview/panels/lan/lan.png) | [N/A] | 
 | [N/A] | `/adb/overview/panels/profile/main.png` | ![Image](/adb/overview/panels/profile/main.png) | [N/A] | 
 | [N/A] | `/adb/overview/panels/wan/dns.png` | ![Image](/adb/overview/panels/wan/dns.png) | [N/A] | 
-| [N/A] | `/adb/overview/panels/wifi/2_4ghz.png` | ![Image](/adb/overview/panels/wifi/2_4ghz.png) | [N/A] | 
-| [N/A] | `/adb/overview/panels/wifi/5ghz.png` | ![Image](/adb/overview/panels/wifi/5ghz.png) | [N/A] | 
 | [N/A] | `/adb/status/diagnostics/main.png` | ![Image](/adb/status/diagnostics/main.png) | [N/A] | 
 | [N/A] | `/adb/status/diagnostics/ping/main.png` | ![Image](/adb/status/diagnostics/ping/main.png) | [N/A] | 
 | [N/A] | `/adb/status/diagnostics/tp/main.png` | ![Image](/adb/status/diagnostics/tp/main.png) | [N/A] | 
@@ -345,8 +343,6 @@
 | [N/A] | `/ade/overview/panels/lan/overview/overview_button.png` | ![Image](/ade/overview/panels/lan/overview/overview_button.png) | [N/A] | 
 | [N/A] | `/ade/overview/panels/profile/main.png` | ![Image](/ade/overview/panels/profile/main.png) | [N/A] | 
 | [N/A] | `/ade/overview/panels/wan/dns.png` | ![Image](/ade/overview/panels/wan/dns.png) | [N/A] | 
-| [N/A] | `/ade/overview/panels/wifi/2_4ghz.png` | ![Image](/ade/overview/panels/wifi/2_4ghz.png) | [N/A] | 
-| [N/A] | `/ade/overview/panels/wifi/5ghz.png` | ![Image](/ade/overview/panels/wifi/5ghz.png) | [N/A] | 
 | [N/A] | `/ade/status/diagnostics/main.png` | ![Image](/ade/status/diagnostics/main.png) | [N/A] | 
 | [N/A] | `/ade/status/diagnostics/ping/main.png` | ![Image](/ade/status/diagnostics/ping/main.png) | [N/A] | 
 | [N/A] | `/ade/status/diagnostics/tp/main.png` | ![Image](/ade/status/diagnostics/tp/main.png) | [N/A] | 
@@ -576,8 +572,6 @@
 | [N/A] | `/usb/overview/panels/lan/lan.png` | ![Image](/usb/overview/panels/lan/lan.png) | [N/A] | 
 | [N/A] | `/usb/overview/panels/profile/main.png` | ![Image](/usb/overview/panels/profile/main.png) | [N/A] | 
 | [N/A] | `/usb/overview/panels/wan/dns.png` | ![Image](/usb/overview/panels/wan/dns.png) | [N/A] | 
-| [N/A] | `/usb/overview/panels/wifi/2_4ghz.png` | ![Image](/usb/overview/panels/wifi/2_4ghz.png) | [N/A] | 
-| [N/A] | `/usb/overview/panels/wifi/5ghz.png` | ![Image](/usb/overview/panels/wifi/5ghz.png) | [N/A] | 
 | [N/A] | `/usb/status/diagnostics/main.png` | ![Image](/usb/status/diagnostics/main.png) | [N/A] | 
 | [N/A] | `/usb/status/diagnostics/ping/main.png` | ![Image](/usb/status/diagnostics/ping/main.png) | [N/A] | 
 | [N/A] | `/usb/status/diagnostics/tp/main.png` | ![Image](/usb/status/diagnostics/tp/main.png) | [N/A] | 
@@ -805,8 +799,6 @@
 | [N/A] | `/use/overview/panels/lan/client/port/main.png` | ![Image](/use/overview/panels/lan/client/port/main.png) | [N/A] | 
 | [N/A] | `/use/overview/panels/lan/lan.png` | ![Image](/use/overview/panels/lan/lan.png) | [N/A] | 
 | [N/A] | `/use/overview/panels/profile/main.png` | ![Image](/use/overview/panels/profile/main.png) | [N/A] | 
-| [N/A] | `/use/overview/panels/wifi/2_4ghz.png` | ![Image](/use/overview/panels/wifi/2_4ghz.png) | [N/A] | 
-| [N/A] | `/use/overview/panels/wifi/5ghz.png` | ![Image](/use/overview/panels/wifi/5ghz.png) | [N/A] | 
 | [N/A] | `/use/status/diagnostics/main.png` | ![Image](/use/status/diagnostics/main.png) | [N/A] | 
 | [N/A] | `/use/status/diagnostics/ping/main.png` | ![Image](/use/status/diagnostics/ping/main.png) | [N/A] | 
 | [N/A] | `/use/status/diagnostics/tp/main.png` | ![Image](/use/status/diagnostics/tp/main.png) | [N/A] | 

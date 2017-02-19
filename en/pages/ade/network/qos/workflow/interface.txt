@@ -1,14 +1,14 @@
 
-
 {{indexmenu_n>50}}
 
-# Interface
+# Enable
 
+As a final step, you enable QoS for the desired interface in the **Interface** tab.
 
+## Tab
 
-##
+{{page>../interface/start&fullpage}}
 
-{{page>../interface}}
 
 
 

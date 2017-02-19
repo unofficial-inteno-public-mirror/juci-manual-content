@@ -4,7 +4,7 @@ The Resource ReSerVation Protocol - RSVP - is a signalling mechanism used for ne
 
 It uses a method where resources available to handle [Quality Of Service](/glossary/q/qos) traffic is broadcasted throughout the network.
 
-Listening devices reply with a RESV (Reserve) message containing a [flow specification](/glossary/f/flow_spec) for the traffic.
+Listening devices reply with a RESV (Reserve) message containing a [flow specification](/glossary/f/flowspec) for the traffic.
 
 Devices on the route between sender and listener either accept the reservation and handle the flow, or send a reject message.
 

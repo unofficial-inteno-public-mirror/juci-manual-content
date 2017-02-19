@@ -6,7 +6,9 @@
 
 The **Classification Group** tab lets you manage groupings of [QoS classes](/glossary/q/qos_class).
 
-##
+This is useful when you have multiple [interfaces](/glossary/n/network_interface) and want to manage classes differently for them.
+
+## Overview
 
 At the top of the page is a list of selectable classification groups.
 
@@ -14,10 +16,9 @@ When a particular group is selected, details about it is shown in the configurat
 
 ^ Item ^ Description ^ Comment ^
 | Default Class | Class to use as fallback if packets don't match any other class. |
-| Classes | Classes to include in the group. | **Note:** You need to [create a class](./class) for it to be available in the list. |
+| Classes | Classes to include in the group. | **Note:** You need to [create a class](../class/start) for it to be available in the list. |
 
-
-The **Default** Classgroup contains these classes:
+The **Default** Classgroup contains these [standard classes](../class/classes):
 - **Priority**
 - **Express**
 - **Normal**

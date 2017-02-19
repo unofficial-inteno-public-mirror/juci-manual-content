@@ -6,12 +6,26 @@
 
 The **Quality Of Service** view allows you to configure parameters for [Quality of Service](/glossary/q/qos) through applying [groups](/glossary/q/qos_group) of [classes](/glossary/q/qos_class) to interfaces.
 
-##
+## Interface views
 
-{{page>./interface}}
+{{page>./interface/start}}
 
-{{page>./class}}
+{{page>./class/start}}
 
-{{page>./group}}
+{{page>./group/start}}
 
-{{page>./classify}}
+{{page>./classify/start}}
+
+## Workflow
+
+{{page>./workflow/start}}
+
+
+{{page>./workflow/classify}}
+
+{{page>./workflow/class}}
+
+{{page>./workflow/group}}
+
+{{page>./workflow/interface}}
+

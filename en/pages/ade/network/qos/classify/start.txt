@@ -4,15 +4,15 @@
 
 # Classify
 
-The **classify** tab lets you configure filtering parameters in order to have [Classification groups](/glossary/q/qos_group) applied to particular types of traffic.
+The **classify** tab lets you configure filtering parameters in order to define types of traffic to include in which [Class](/glossary/q/qos_class).
 
-##
+## Overview
 
 At the top of the page is a list of selectable classification groups.
 
 When a particular group is selected, details about it is shown in the configuration section.
 
-Adding a parameter will filter out traffic according to the parameters and assign the target group to it.
+Adding a parameter will filter out traffic according to the parameters and assign it to the group.
 
 ^ Item ^ Description ^
 | Target | [Group](/glossary/q/qos_group) to assign. |
@@ -24,18 +24,17 @@ Adding a parameter will filter out traffic according to the parameters and assig
 | Destination Ports | Included [ports](/glossary/p/port) in destination. |
 | Port Range | Range of [ports](/glossary/p/port) anywhere. |
 | Precedence | [Precedence](/glossary/p/precedence). |
-| Packet Size | Size of packets to match. |
-| Direction | (Both / In / Out) |
-| Mark | Hexadecimal code `0x000000`-`0xFFFFFF`. |
-| Connbytes | [Connection Bytes](/glossary/c/connection_bytes) |
-| TCP flags | [TCP Flags](/glossary/t/tcp_flags) |
+| Packet Size | Size of [packets](/glossary/p/packet) to match. |
+| Direction | (`Both` / `In` / `Out`) |
+| Mark | Hexadecimal [mark code](/glossary/q/qos_mark) to att to the packets. (`0x000000`-`0xFFFFFF`) |
+| Connbytes | [Connection Bytes](/glossary/c/connection_bytes) for when to start filtering. |
+| TCP flags | [TCP Flags](/glossary/t/tcp_flags) to match. |
 
 
-### Add Class
 
-You can add as many classes as you like.
+### Add Filter
 
-To add a class:
+To add a filter:
 
 * Click the **Add** button
 
@@ -46,9 +45,9 @@ To add a class:
 * Click **Apply**
 
 
-### Reorder Class
+### Reorder
 
-The classes are prioritized in order from top to bottom in the list.
+The filters are prioritized in order from top to bottom in the list.
 
  You can rearrange the classes by using the buttons:
 

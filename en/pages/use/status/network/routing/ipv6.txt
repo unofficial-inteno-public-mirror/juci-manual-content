@@ -2,7 +2,7 @@
 
 # IPv6
 
-The **IPv6 status** view shows information about [IPv6](/glossary/i/ipv6) routes.
+The **IPv6 status** view shows information about [IPv6](/glossary/i/ip) routes.
 
 ### Table
 

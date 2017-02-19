@@ -1,4 +1,4 @@
 
-QoS Scheduling
+# Scheduling
 
-A QDisc may, with the help of a classifier, decide that some packets need to leave earlier than others. This process is called scheduling.
+Scheduling is a [QoS](/glossary/q/qos) process when a [packet scheduler](/glossary/q/qos) decides to make a [packet](/glossary/p/packet) leave earlier than other packets.

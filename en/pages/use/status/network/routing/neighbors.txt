@@ -2,7 +2,7 @@
 
 # IPv6 Neighbors
 
-The **IPv6 Neighbors** view shows information about [IPv6](/glossary/i/ipv6) devices in the network neighborhood.
+The **IPv6 Neighbors** view shows information about [IPv6](/glossary/i/ip) devices in the network neighborhood.
 
 ### Table
 

@@ -2,7 +2,7 @@
 
 # 4G
 
-A 4G connection uses [4G](/glossary/0/4G) interface over [LTE](/glossary/l/lte) / [HSPA+](/glossary/h/hspa).
+A 4G connection uses [4G](/glossary/0/4g) interface over [LTE](/glossary/l/lte) / [HSPA+](/glossary/h/hspa).
 
 ##
 

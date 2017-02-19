@@ -10,10 +10,10 @@ The **Static Leases** tab allows you to assign a static [IP address](/glossary/i
 ## Static Leases Section
 
 ^ Item ^ Description ^
-| Device Name | [Hostname](/glossary/h/hostname) for [IPv4](/glossary/i/ipv4) |
-| IP Address | IP address for [IPv4](/glossary/i/ipv4) |
-| DUID | [DUID](/glossary/d/duid) for [IPv6](/glossary/i/ipv6) |
-| Host ID | [Host ID](/glossary/h/hostid) for [IPv6](/glossary/i/ipv6) |
+| Device Name | [Hostname](/glossary/h/hostname) for [IPv4](/glossary/i/ip) |
+| IP Address | IP address for [IPv4](/glossary/i/ip) |
+| DUID | [DUID](/glossary/d/duid) for [IPv6](/glossary/i/ip) |
+| Host ID | [Host ID](/glossary/h/hostid) for [IPv6](/glossary/i/ip) |
 
 ## Static Leases Settings
 

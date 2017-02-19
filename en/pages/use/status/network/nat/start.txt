@@ -18,8 +18,8 @@ The table displays information about active NAT connections.
 
 ^ Column ^ Description ^ Comment ^
 | Protocol | Communication protocol used. |  |
-| Source | Internal [IP address](/glossary/i/ip). |  |
-| Destination. | External [IP address](/glossary/i/ip). |  |
+| Source | Internal [IP address](/glossary/i/ip_address). |  |
+| Destination. | External [IP address](/glossary/i/ip_address). |  |
 | Source Port | Internal [Port](/glossary/p/port). |  |
 | Destination Port | External [Port](/glossary/p/port). |  |
 

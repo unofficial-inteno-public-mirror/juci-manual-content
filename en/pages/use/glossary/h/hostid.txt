@@ -2,4 +2,4 @@
 
 # Host ID
 
-A host ID is a ( [IPv6](/glossary/i/ipv6) label assigned to a network device used to identify the device in the network for addressing purposes.
+A host ID is a ( [IPv6](/glossary/i/ip) label assigned to a network device used to identify the device in the network for addressing purposes.

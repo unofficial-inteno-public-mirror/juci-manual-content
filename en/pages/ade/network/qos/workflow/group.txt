@@ -1,14 +1,15 @@
 
-
 {{indexmenu_n>40}}
 
 # Group
 
+With the classes defined, you can add and order them in a class group in the **Group** tab.
 
+If you have multiple interfaces, and want different QoS settings for them, you can create multiple class groups.
 
-##
+## Tab
 
-{{page>../group}}
+{{page>../group/start&fullpage}}
 
 
 <- ./class ^ ./start ^ ./interface ->

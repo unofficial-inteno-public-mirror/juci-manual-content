@@ -1,4 +1,6 @@
 
-Policing
+# Traffic Policing
 
-Traffic Policing is the practice of dropping, marking or ignoring ingress packets that don't comply with user-defined criteria.
+Traffic Policing is a [QoS](/glossary/q/qos) process where [packets](/glossary/p/packet) are handled according to user-defined criteria. Depending on the criteria, the packets may be marked, dropped or completely ignored.
+
+The purpose of traffic policing is to make sure that bursts in traffic hare handled and the designated traffic flows get appropriate bandwidth.

@@ -2,6 +2,6 @@
 
 # IPv6 Address
 
-An IPv6 address is an [IP address](/glossary/i/ipv6) address represented as eight groups separated by colons (:). Each group contains four hexadecimal digits.
+An IPv6 address is an [IP address](/glossary/i/ip_address) address represented as eight groups separated by colons (:). Each group contains four hexadecimal digits.
 
 An example of an IPv6 address is `2011:09bd:583a:0000:8a2e:0000:0370:7334`.

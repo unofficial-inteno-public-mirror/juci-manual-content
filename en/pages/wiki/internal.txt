@@ -1,3 +1,3 @@
 ^ OFF ^ Original ^ Fixed link ^ [E](?do=edit) ^
-| [V](/adb/network/connections/add/conref/4g/start) | [4G](/glossary/0/4G) | [4G](/glossary/0/4G) | [E](/adb/network/connections/add/conref/4g/start?do=edit) | 
+| [V](/adb/network/routes/ipv6) | [IP address](/glossary/i/ipv6) | [IP address](/glossary/i/ipv6) | [E](/adb/network/routes/ipv6?do=edit) | 
 

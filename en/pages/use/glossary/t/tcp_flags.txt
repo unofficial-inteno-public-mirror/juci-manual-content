@@ -2,7 +2,7 @@
 
 # TCP Flags
 
-Transmission Control Protocol (TCP) Flags are control bits for [TCP](/glossary/t/tcp) messages which indicate how packets should be handled or indicate connection states.
+Transmission Control Protocol (TCP) Flags are control bits for [TCP](/glossary/t/tcp) messages. These flags indicate how packets should be handled or indicate connection states.
 
 ^ Flag ^ Description ^
 | SYN | Synchronize sequence numbers. |
