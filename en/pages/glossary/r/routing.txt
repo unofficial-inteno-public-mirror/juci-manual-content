@@ -1,0 +1,9 @@
+# Routing
+
+Routing is the process of selecting paths in a network along which to send network traffic, making routing decisions to ensure that traffic moves from the source to the destination.
+
+Dynamic routing is the most common method, where routing protocols are used to manage routing automatically.
+
+Static routing means that routes are set up permanently using a [routing table](/glossary/r/routing_table).
+
+Policy based routing entails selecting routes based on the type of traffic being transmitted, tryingt to use more efficient routes for priority traffic.

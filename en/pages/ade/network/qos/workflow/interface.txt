@@ -1,7 +1,7 @@
 
 {{indexmenu_n>50}}
 
-# Enable
+# 4: Enable
 
 As a final step, you enable QoS for the desired interface in the **Interface** tab.
 

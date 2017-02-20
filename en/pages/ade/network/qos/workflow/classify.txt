@@ -1,7 +1,7 @@
 
 {{indexmenu_n>30}}
 
-# Classify
+# 2: Classify
 
 In order to direct traffic to the correct classes, you need to define classificaton rules in the **Classify** tab.
 
@@ -11,4 +11,4 @@ In order to direct traffic to the correct classes, you need to define classifica
 
 
 
-<- ./start ^ ./start ^ ./class ->
+<- ./class ^ ./start ^ ./group ->

@@ -1,11 +1,16 @@
 
 {{indexmenu_n>30}}
 
-# Class
+# 1: Class
 
 The classes define how network traffic is to be prioritized and allocated.
 
 There are a number of predefined classes, but you can add your own.
+
+##
+
+{{page>../class/classes&fullpage}}
+
 
 ## Tab
 
@@ -13,4 +18,4 @@ There are a number of predefined classes, but you can add your own.
 
 
 
-<- ./start ^ ./start ^ ./start ->
+<- ./start ^ ./start ^ ./classify ->

@@ -4,9 +4,7 @@
 
 A routing table is a table stored in a device used for keeping track of routes to network destinations and metrics belonging to those routes. The information in the routing table is used by devices to make routing decisions for traffic in the network.
 
-##
-
-# Types of routes
+## Types of routes
 
 ^ Route ^ Description ^ Comment ^
 | Network | Path to a specific network address. |

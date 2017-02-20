@@ -4,7 +4,11 @@
 
 In order to use [Quality of Service](/glossary/q/qos) on the traffic for your device, you need to perform a number of configurations.
 
-## Overview
+## Process
+
+
+
+### Configuration steps
 
 The order of operations involved in configuring QoS is different from the order in which the interface displays the setting tabs.
 
@@ -17,4 +21,4 @@ The order of operations involved in configuring QoS is different from the order 
 {{page>./interface}}
 
 
-<-  ^ ./start ^ ./classify ->
+<-  ^ ./start ^ ./class ->
