@@ -3,11 +3,11 @@
 
 # 1: Class
 
-The classes define how network traffic is to be prioritized and allocated.
+The [classes](/glossary/q/qos_class) define how network traffic is to be prioritized and allocated.
 
 There are a number of predefined classes, but you can add your own.
 
-##
+## Predefined Classes
 
 {{page>../class/classes&fullpage}}
 
@@ -15,6 +15,7 @@ There are a number of predefined classes, but you can add your own.
 ## Tab
 
 {{page>../class/start&fullpage}}
+
 
 
 

@@ -10,7 +10,7 @@ In order to use [Quality of Service](/glossary/q/qos) on the traffic for your de
 
 ### Configuration steps
 
-The order of operations involved in configuring QoS is different from the order in which the interface displays the setting tabs.
+The order of operations involved in configuring QoS is different from the order in which the interface displays the setting tabs. Not all settings are needed in all cases.
 
 {{page>./class}}
 
