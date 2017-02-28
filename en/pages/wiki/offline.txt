@@ -1,0 +1,8 @@
+# Download Manual
+
+
+
+^ PDF ^ ODT ^
+|  ![PDF](./juci.pdf) | ![ODT](./juci.odt) |
+
+

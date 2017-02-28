@@ -1,5 +1,5 @@
 
-{{indexmenu_n>30}}
+{{indexmenu_n>20}}
 
 # 1: Class
 
@@ -17,6 +17,60 @@ There are a number of predefined classes, but you can add your own.
 {{page>../class/start&fullpage}}
 
 
+## Configuration Values
+
+
+
+### Priority
+
+The **Priority** indicates the bandwidth allocation limit as a percentage of total available bandwidth.
+
+```
+ls m2 = priority / sum (priority) * max_bandwidth
+```
+
+### Limit Rate
+
+The **Limit Rate** provides a maximum allowed [bandwidth](/glossary/b/bandwidth), expressed as a percentage of the total available bandwidth.
+
+```
+ul rate = limitrate * max_bandwidth / 100
+```
+
+### Average Rate
+
+The **Average target rate** is a percentage of the total available bandwidth.
+
+ Average rate for this class, value in % of bandwidth (this value uses for calculate vaues
+
+```
+'Nx' of  'tc … hfsc rt m1 N1 d N2 m2 N3'
+```
+
+**Note:** Packet Size and Packet Delay rely on the Average Rate setting. The average rate is impacted by the maximum packet delay and the transfer time for the packet size. Generally the delay is lower for smaller packet sizes.
+
+#### Packet Size
+
+Size of [packets](/glossary/p/packet) (bytes).
+
+packetsize & packetdelay: (only works if avgrate is present)
+
+```
+rt d = max( packetdelay, 'time required for packetsize to transfer')
+ls d = rt d
+
+```
+
+#### Packet Delay
+
+Target [delay](/glossary/d/delay) for packets (ms).
+
+
+
+
+### Max Size
+
+The **maximum size of [packets](/glossary/p/packet)** indicates the maximum packet size in iptables.
 
 
 <- ./start ^ ./start ^ ./classify ->

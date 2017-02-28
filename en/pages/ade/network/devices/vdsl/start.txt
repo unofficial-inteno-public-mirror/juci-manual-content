@@ -2,7 +2,7 @@
 
 # VDSL
 
-The **VSDL** view  allows you to configure [VDSL](/glossary/v/vdsl) devices.
+The **VDSL** view  allows you to configure [VDSL](/glossary/v/vdsl) devices.
 
 ##
 

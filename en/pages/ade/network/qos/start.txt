@@ -21,9 +21,9 @@ The **Quality Of Service** view allows you to configure parameters for [Quality 
 {{page>./workflow/start}}
 
 
-{{page>./workflow/classify}}
-
 {{page>./workflow/class}}
+
+{{page>./workflow/classify}}
 
 {{page>./workflow/group}}
 

@@ -1,8 +1,8 @@
 {{indexmenu_n>30}}
 
-# VSDL Profile
+# VDSL Profile
 
-The **VSDL Profile** tab lets you turn various VDSL2 profiles on or off.
+The **VDSL Profile** tab lets you turn various VDSL2 profiles on or off.
 
 ##
 

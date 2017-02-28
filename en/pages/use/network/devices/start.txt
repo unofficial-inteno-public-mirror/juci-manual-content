@@ -14,7 +14,7 @@ The **Devices** view allows you to configure settings for various network types.
 
 {{page>./adsl/start}}
 
-{{page>./vsdl/start}}
+{{page>./vdsl/start}}
 
 {{page>./vlan/start}}
 
