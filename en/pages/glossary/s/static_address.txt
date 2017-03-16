@@ -1,5 +1,0 @@
-
-
-# Static address
-
-A static IP address is an address that doesn't change, unless manually changed by the administrator.

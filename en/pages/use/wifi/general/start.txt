@@ -1,13 +1,1 @@
-{{tag>user_basic}}
-
-{{indexmenu_n>20}}
-
-# General
-
-In the **General WiFi** view you can view and edit the [wireless interface](/glossary/w/wifi_interface).
-
-##
-
-{{page>./radios/start}}
-
-{{page>./wireless/start}}
+../../../ade/wifi/general/start.txt

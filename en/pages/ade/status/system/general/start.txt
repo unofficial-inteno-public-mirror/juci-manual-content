@@ -12,7 +12,7 @@ The **System Status** overview shows basic data about the device.
 | Hostname | The [hostname](/glossary/h/hostname) for the gateway. | Inteno |
 | Model | Gateway model. | DG400A |
 | Firmware Version | Version of installed firmware. | DG400-WU7U_INT3.5.5-160513_1617 |
-| Kernel Version | The gateway operating system kernel version. | 3.4.11-rt19 |
+| Kernel Version | The gateway operating system kernel version. | 3.11 |
 | Filesystem | Filesystem used in gateway storage. | [UBIFS](/glossary/u/ubifs) |
 | BRCM Version | Version number for the Broadcom driver. | 4.16L.04 |
 | Local Time | Time according to the gateway internal clock. | Mon May 23 2016 17:21:12 GMT+0200 (CEST) |

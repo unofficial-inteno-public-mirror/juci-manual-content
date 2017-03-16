@@ -1,17 +1,1 @@
-{{tag>user_basic}}
-
-{{indexmenu_n>21}}
-
-# Status Tab
-
-The **Status** tab shows information about the client and the connection.
-
-## Status Information
-
-^ Item ^ Description ^
-| Hostname | The client [Hostname](/glossary/h/hostname). |
-| IP Address | Assigned [IP](/glossary/i/ip) address. |
-| MAC Address |	[MAC](/glossary/m/mac) address. |
-| DHCP | [DHCP](/glossary/d/dhcp) status. |
-| Connected | Connection status. |
-| Link Speed | Type of [negotiation](/glossary/a/auto_negotiation), [speed](/glossary/l/link_speed) and [duplex](/glossary/d/duplex) for the connection. |
+../../../../../ade/overview/panels/lan/client/status.txt

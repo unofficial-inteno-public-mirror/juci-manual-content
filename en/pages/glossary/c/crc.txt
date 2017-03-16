@@ -1,6 +1,0 @@
-
-
-# CRC
-
-Cyclic Redundancy Check (CRC) is a method for discovering errors in data transmission by verifying the received data against an attached check value.
-

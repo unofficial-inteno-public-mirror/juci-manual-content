@@ -1,3 +1,0 @@
-# Device Flags
-
-The Device Flags field shows information about the physical device.

@@ -1,9 +1,0 @@
-
-
-# VCI
-
-Virtual Channel Identifier - VCI, is used together with [VPIs](/glossary/v/vpi) to enable [ATM](/glossary/a/atm) networks.
-
-In an ATM network, each circuit is given a virtual channel identifier, and and each path is given a virtual path identifier.
-
-The VCI identifies circuit/channel in use, and VPI matches the appropriate path to the desired destination host.

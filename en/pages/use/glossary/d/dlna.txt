@@ -1,5 +1,0 @@
-
-
-# DLNA
-
-Digital Living Network Alliance (DLNA) is designed to act as a bridge between media and device. It needs either a wired or a wireless network.

@@ -1,3 +1,0 @@
-#  Root QDisc
-
-A Root Queueing Discipline is a [Quality Of Service](/glossary/q/qos) collection point for multiple QDiscs/[packet schedulers](/glossary/q/qdisc) containing [classes](/glossary/q/qos_class) and [class groups](/glossary/q/qos_group) used for QoS.

@@ -1,3 +1,0 @@
-# AMSDU
-
-An Aggregated MAC Service Data Unit is an [aggregation](/glossary/p/packet_aggregation) of [MSDUs](/glossary/m/msdu).

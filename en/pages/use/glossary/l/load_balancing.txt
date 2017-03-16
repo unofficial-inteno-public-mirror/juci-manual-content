@@ -1,5 +1,0 @@
-
-
-# Load Balancing
-
-Load balancing distributes traffic over multiple networks to provide an even load on each WAN interface.

@@ -1,6 +1,0 @@
-
-
-# Companding
-
-A compressing-expanding (companding) is a method for managing dynamic range in channels with limited dynamic range. It compresses the dynamic range of a signal transmission and expands it at the receiving end, according to the defined.
-

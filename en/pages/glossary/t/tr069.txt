@@ -1,5 +1,0 @@
-
-
-# TR069
-
-TR-069 CPE WAN Management Protocol (CWMP) was created by the DSL Forum to standardize the Wide Area Network (WAN) management of CWMP. The TR-069 protocol specifically defines a common method for CPE devices to communicate with an Auto Configuration Server (ACS).

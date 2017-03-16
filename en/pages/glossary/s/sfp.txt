@@ -1,7 +1,0 @@
-# SFP
-
-The Small Form-factor Pluggable (SFP) connector is a hot-pluggable transceiver used for telecommunication and data.
-
-## More information:
-
-For more information see [the wikipedia article](https://en.wikipedia.org/wiki/Small_form-factor_pluggable_transceiver).

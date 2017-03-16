@@ -1,5 +1,0 @@
-
-
-# PBX
-
-A Private Branch Exchange (PBX) is a switch used for connecting telephone devices or virtual applications in an organization. It manages internal communication in the network and provides access to the external publixk switched telephone network, and allows for sharing of lines and direct communication between internal devices.

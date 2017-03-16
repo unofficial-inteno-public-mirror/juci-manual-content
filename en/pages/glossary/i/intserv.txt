@@ -1,5 +1,0 @@
-# IntServ
-
-Differentiated Services (DiffServ) is a method for classifying traffic and providing [quality of service](/glossary/q/qos) for [IP](/glossary/i/ip) networks.
-
-DiffServ uses [RSVP](/glossary/r/rsvp) to handle traffic flow management.

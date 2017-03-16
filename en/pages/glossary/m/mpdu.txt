@@ -1,3 +1,0 @@
-# MPDU
-
-A MAC Protocol Data Unit - MPDU - is a message transmitted to and from [Media Access Control](/glossary/m/mac) devices.

@@ -1,17 +1,1 @@
-{{tag>user_basic}}
-
-{{indexmenu_n>60}}
-
-# Applying changes
-
-When you change a setting or a value in the interface, it gets added to a list of changes. The changes will not take effect until you click **apply**.
-
-##
-
-The **unapplied changes** and **apply** button are shown at the bottom of the window.
-
-![Changes](./changes.png)
-
-To make the changes take effect click **Apply**.
-
-To keep the current state without any changes click **Cancel**.
+../../../ade/intro/work/start.txt

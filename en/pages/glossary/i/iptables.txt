@@ -1,3 +1,0 @@
-# IPtables
-
-Iptables is a firewall application that uses configured tables to determine firewall rules and routes. 

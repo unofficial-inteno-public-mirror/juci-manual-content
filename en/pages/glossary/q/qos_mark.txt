@@ -1,8 +1,0 @@
-
-# QoS Mark
-
-The [Quality of Service](/glossary/q/qos) Mark is used when classifying traffic. Packets matching the filter will be marked with the provided hexadecimal code `0x000000`-`0xFFFFFF`.
-
-This mark can then be used for identification and filtering purposes, for example by [iptables](/glossary/i/iåtables) .
-
-

@@ -1,9 +1,0 @@
-# Queueing Discipline / Packet Scheduler
-
-A queueing discipline / packet scheduler is a network function that distributes available [bandwidth](/glossary/b/bandwidth) to different connections according to an algorithm.
-
-The management is done by deciding how many [packets](/glossary/p/packet) each connection is handed, by handling the device traffic queue and making prioritizing incoming/ingress or outgoing/egress packets.
-
-The scheduling can be done either by automatically, based on observed traffic, or following rules according to a [Quality Of Service](/glossary/q/qos) protocol such as [Intserv](/glossary/i/intserv) or [DiffServ](/glossary/d/diffserv).
-
-

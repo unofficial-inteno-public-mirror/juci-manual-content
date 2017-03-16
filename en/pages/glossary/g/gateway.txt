@@ -1,8 +1,0 @@
-
-
-# Gateway
-
-A gateway is a node in a network that provides interconnectivity between networks of different types.
-
-For a basic Internet connection, the gateway provides Internet access to the local network.
-

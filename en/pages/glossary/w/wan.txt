@@ -1,3 +1,0 @@
-# WAN
-
-A Wide Area Network (WAN) is network that extends over a large geographical distance.

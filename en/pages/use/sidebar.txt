@@ -1,3 +1,1 @@
-{{indexmenu_n>1}}
-
-{{indexmenu>.#1|nomenu navbar nsort msort skipns+/wiki|conref/ skipfile+/start(.*)|index(.*)|conref(.*)|note(.*)/ }}
+../ade/sidebar.txt

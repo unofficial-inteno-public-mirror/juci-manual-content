@@ -1,16 +1,1 @@
-{{indexmenu_n>50}}
-
-# IPv6 Neighbors
-
-The **IPv6 Neighbors** view shows information about [IPv6](/glossary/i/ip) devices in the network neighborhood.
-
-### Table
-
-The table shows information about discovered IPv6 neighbors.
-
-^ Column ^ Description ^
-| Interface | Connected interface. |
-| IP address | IPv6 address. |
-| HW address | Hardware address. |
-| Status | Device status. |
-
+../../../../ade/status/network/routing/neighbors.txt

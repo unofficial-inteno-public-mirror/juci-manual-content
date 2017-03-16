@@ -1,6 +1,0 @@
-
-# IP
-
-The Internet Protocol (IP) is a [protocol](/glossary/p/protocol) for transmission of [datagram](/glossary/i/ip_datagram) over computer networks. It is combined with the [Transmission Control Protocol](/glossary/t/tcp) to provide Internet networking.
-
-Addressing is done through the use of [IP adresses](/glossary/i/ip_address) for [IPv4](/glossary/i/ipv4_address) and [IPv6](/glossary/i/ipv6_address) addressing systems.

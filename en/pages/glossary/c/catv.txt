@@ -1,5 +1,0 @@
-# CATV
-
-Community Antenna TeleVision (CATV), or "cable TV", is a system of delivering television programming radio frequency (RF) signals transmitted through coaxial cables or fiber-optic cables.
-
-

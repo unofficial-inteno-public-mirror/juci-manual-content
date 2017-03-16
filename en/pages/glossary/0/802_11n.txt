@@ -1,5 +1,0 @@
-
-
-# 802.11n
-
-802.11n is a [wireless radio](/glossary/w/wireless_radio) specification for both the 2.4 GHz and the 5 GHz bands with support for multiple-input multiple-output antennas, providing a maximum data rate from 54 Mbit/s to 600 Mbit/s.

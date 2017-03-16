@@ -1,12 +1,1 @@
-{{tag>user_basic}}
-
-{{indexmenu_n>50}}
-
-# Availability
-
-Depending on your device and/or geographical region, certain features may be unavailable in the interface.
-
-## Finland
-
-The Voice panel is not available in Finland.
-
+../../../ade/intro/features/availability.txt

@@ -1,15 +1,1 @@
-{{indexmenu_n>50}}
-
-# WIFI
-
-The **WiFi view** shows you information about your wireless network.
-
-##
-
-{{page>./general/start}}
-
-{{page>./steering/start}}
-
-{{page>./wps/start}}
-
-{{page>./mac/start}}
+../../ade/wifi/start.txt

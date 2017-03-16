@@ -1,6 +1,0 @@
-
-
-# CDMA
-
-Code division multiple access (CDMA) is a radio communication standard, where several transmitters can send information simultaneously over a single channel.
-

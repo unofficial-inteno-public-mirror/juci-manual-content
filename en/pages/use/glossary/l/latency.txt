@@ -1,7 +1,0 @@
-
-
-# Latency
-
-Latency is the time it takes for a packet of data to get from source to destination, normally measured by performing a round-trip test: sending a packet that is returned to the sender.
-
-

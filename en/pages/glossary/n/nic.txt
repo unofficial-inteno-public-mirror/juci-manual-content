@@ -1,5 +1,0 @@
-
-
-# NIC
-
-A Network Interface Controller – NIC, is an hardware component that connects a device to a network.

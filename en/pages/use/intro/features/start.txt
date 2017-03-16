@@ -1,10 +1,1 @@
-{{tag>user_basic}}
-
-{{indexmenu_n>50}}
-
-# Features
-
-Depending on your device and/or geographical region, certain features may be unavailable in the interface.
-
-##
-
+../../../ade/intro/features/start.txt

@@ -1,5 +1,0 @@
-# Band Steering
-
-Band steering allows the device to determin if a connected client is dual-band capable. If so, the client can be forced to use the less congested 5GHz network.
-
-This is done by blocking the client from connecting to the 2.4GHz network.

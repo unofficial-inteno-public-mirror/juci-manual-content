@@ -1,5 +1,0 @@
-
-
-# 6to4
-
-6to4 is a method to transmit [IPv6](/glossary/i/ip) traffic over [IPv4](/glossary/i/ip) networks without having to configure explicit tunnels.

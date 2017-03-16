@@ -1,6 +1,0 @@
-
-
-# SSID
-
-SSID – Service Set IDentifier, also knowns as network name, identifies a wireless network [interface](/glossary/w/wifi_interface).
-

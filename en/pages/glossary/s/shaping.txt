@@ -1,4 +1,0 @@
-
-# Shaping
-
-Traffic Shaping is a [QoS](/glossary/q/qos) process where [packets](/glossary/p/packet) are delayed, in order to keep exiting traffic under a maximum rate, or make bursts smoother.

@@ -1,5 +1,0 @@
-
-
-# Overhead
-
-Overhead is extra data or processing needed to manage delivery of a network data.

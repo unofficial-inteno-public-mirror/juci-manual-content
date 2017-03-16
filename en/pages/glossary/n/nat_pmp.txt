@@ -1,5 +1,0 @@
-
-
-# NAT-PMP
-
-The NAT Port Mapping Protocol (NAT-PMP) is a network protocol to automatically detect and determine the [NAT](/glossary/n/nat) gateways to configure NAT settings and [port forwarding](/glossary/p/port_forwarding).

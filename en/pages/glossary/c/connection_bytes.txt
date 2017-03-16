@@ -1,7 +1,0 @@
-
-
-# Connection Bytes
-
-Connection Bytes is a filtering property that delays matching until after the specified number of bytes has been transfered through the connection.
-
-The Connection Bytes is configured with a **From** value and an (optional) **To** value. Packets sent while the connection has transmitted more than from and less than To will be matched.

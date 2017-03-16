@@ -1,7 +1,0 @@
-
-
-# UPnP
-
-Universal Plug and Play (UPnP) is a set of networking protocols used for automatic discovery and communication on a network. It makes it possible for various devices to connect and share services.
-
-UPnP involves automatic port forwarding set up without user interaction. This may constitute a security risk.

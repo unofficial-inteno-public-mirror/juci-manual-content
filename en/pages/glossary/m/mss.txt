@@ -1,5 +1,0 @@
-
-
-# MSS
-
-Maximum Segment Size (MSS) is a [TCP]()/glossary/t/tcp) parameter specifying the largest byte size a a single TCP segment can contain for a device.

@@ -1,3 +1,0 @@
-# IP Route
-
-Iproute2 is a collection of Linux utilities for handling routing, network interfaces, tunnels, traffic control, network-related device drivers, and other aspects.

@@ -1,4 +1,0 @@
-# Traffic SPECification
-
-A Traffic SPECification (TSPEC) is part of a [Flow Specification](/glossary/f/flowspec), and describes traffic flow properties, typically involving [token bucket](/glossary/t/token_bucket) algorithm parameters.
-

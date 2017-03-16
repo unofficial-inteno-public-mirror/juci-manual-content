@@ -1,7 +1,0 @@
-
-
-# WiFi channel
-
-A wifi channel is a frequency range in a specific [wifi band](/glossary/w/wifi_band) used for wifi communication.
-
-

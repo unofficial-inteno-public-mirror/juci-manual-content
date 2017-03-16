@@ -1,7 +1,0 @@
-
-
-# SIP Server/Registrar
-
-A SIP server (also called SIP Registrar or SIP Proxy) handles [SIP](/glossary/s/sip) management for a [IP](/glossary/i/ip)-based [private branch exchange](/glossary/p/pbx).
-
-It handles setup and connections for SIP calls in a network, but does not handle actual transmission of real-time data.

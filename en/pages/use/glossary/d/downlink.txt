@@ -1,5 +1,0 @@
-
-
-# Downlink
-
-A Downlink interface is an interface to subscribers/clients.

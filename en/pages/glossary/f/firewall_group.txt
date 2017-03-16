@@ -1,5 +1,0 @@
-
-
-# Firewall group
-
-A firewall group is a collection of IP addresses that have the same firewall rules.

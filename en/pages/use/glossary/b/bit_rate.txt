@@ -1,5 +1,0 @@
-
-
-# Bit Rate
-
-The bit rate is a measure of traffic speed in a network. It indicates the number of bits per second transmitted.

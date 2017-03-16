@@ -1,5 +1,0 @@
-# QoS Class
-
-A [Quality Of Service](/glossary/q/qos) Class is a set of rules for various traffic settings that can be applied to data traffic to ensure particular needs for [Quality of Service](/glossary/q/qos).
-
-It is used by [classful packet schedulers/QDiscs](/glossary/c/classful_qdisc) to determine which [QoS Class](/glossary/q/qos_class) a [packet](/glossary/p/packet) should belong to.

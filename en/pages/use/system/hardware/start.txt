@@ -1,13 +1,1 @@
-{{tag>user_basic}}
-
-{{indexmenu_n>190}}
-
-# Hardware
-
-
-
-##
-
-{{page>./buttons}}
-
-{{page>./leds}}
+../../../ade/system/hardware/start.txt

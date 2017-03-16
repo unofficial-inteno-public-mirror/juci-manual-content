@@ -1,15 +1,1 @@
-{{tag>user_basic}}
-
-{{indexmenu_n>20}}
-
-# Printer Server
-
-The **Printer Server Settings** view allows you to change different features about your printer server for connected printers.
-
-##
-
-^ Item ^ Comment ^
-| Enable | Turn printer server on or off. |
-| Interface | Interface to listen on |
-| Port | [Port](/glossary/p/port) to listen on. |
-| Bidirectional mode | Allow printer to communicate with client. |
+../../../../ade/network/services/printer/start.txt

@@ -1,7 +1,0 @@
-
-
-# FEC - Forward error correction
-
-Forward error correction entails encoding the signal with redundant information that can be matched to discover errors in the transmission.
-
-

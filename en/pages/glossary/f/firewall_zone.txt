@@ -1,6 +1,0 @@
-
-
-# Firewall Zone
-
-A firewall zone is a grouping of [WiFi](/glossary/w/wifi_interface) or [network](/glossary/n/network_interface) interfaces, with a common set of firewall rules.
-

@@ -1,15 +1,1 @@
-{{indexmenu_n>30}}
-
-# IPv4
-
-The **IPv4 status** view shows information about [IPv4](/glossary/i/ip) routes.
-
-### Table
-
-The table displays information about static IPv4 routes.
-
-^ Column ^ Description ^ Comment ^
-| IPv4 Address | [IPv4 Address](/glossary/i/ip). |  |
-| Gateway | IP address to the internet [gateway](/glossary/g/gateway). |  |
-| Genmask | Route [genmask](/glossary/g/genmask). |  |
-| Device | Network device type. | Displayed as  [virtual interface](/glossary/v/virtual_interface) name. |
+../../../../ade/status/network/routing/ipv4.txt

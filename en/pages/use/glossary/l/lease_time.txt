@@ -1,5 +1,0 @@
-
-
-# Lease Time
-
-Client lease time or lease time is the length of time a local device retains an IP address.

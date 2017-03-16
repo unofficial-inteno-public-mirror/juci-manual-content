@@ -1,8 +1,0 @@
-
-
-# Frame
-
-In networking, a frame is a unit of data, consisting of addressing and synchronization information around a payload with data to be transmitted.
-
-Frames of smaller size are often encapsulated in larger frames.
-

@@ -1,7 +1,0 @@
-
-
-# CA
-
-A Certificate Authority (CA) is an entity that issues *digital certificates* which guarantee that a public key is owned by the certificate subject, verifying their identity.
-
-Certificates typically include the owner's public key, the expiration date of the certificate, the owner's name and other information about the public key owner.

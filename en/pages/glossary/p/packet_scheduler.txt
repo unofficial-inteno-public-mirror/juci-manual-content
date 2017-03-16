@@ -1,4 +1,0 @@
-# Packet Scheduler / Queueing Discipline
-
-{{page>/glossary/q/qdisc&noheader&fullpage}}
-

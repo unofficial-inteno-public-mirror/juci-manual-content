@@ -1,3 +1,0 @@
-# Classful QDisc / Packet Scheduler
-
-A Classful QDisc is a [Quality Of Service](/glossary/q/qos) function containing [classes](/glossary/q/qos_class). The classes may contain other QDiscs, which un turn can be classful or classless.

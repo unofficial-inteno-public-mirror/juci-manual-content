@@ -1,1 +1,15 @@
-../../../../ade/wifi/general/radios/start.txt
+{{tag>user_basic}}
+
+{{indexmenu_n>70}}
+
+# Radios
+
+The **Wireless Radios** view allows you to configure wireless radios installed on your system.
+
+##
+
+^ Item ^ Comment ^
+| Radio On/Off | Turn radio on or off. |
+| WiFi Mode (SSID) | Choose [wifi mode](/glossary/w/wifi_mode). |
+| Channel | Choose [WiFi Channel](/glossary/w/wifi_channel), |
+| Bandwidth | Choose [bandwidth](/glossary/b/bandwidth). |

@@ -1,5 +1,0 @@
-
-
-# PPPoE
-
-PPP over Ethernet (PPPoE) is a protocol using [PPP](/glossary/p/ppp) to provide an [DSL](/glossary/d/dsl) Internet connection over [Ethernet](/glossary/e/ethernet), by putting PPP frames inside Ethernet [frames](/glossary/f/frame).

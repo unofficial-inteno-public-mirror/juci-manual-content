@@ -1,5 +1,0 @@
-# Flow Specification
-
-A flow specification defines data traffic contents and requirements, and is used by devices to decide how to handle packets on the network. It consists of two parts - a [Traffic SPECification](/glossary/t/tspec), which describe traffic parameters an a [Request SPECification](/glossary/r/rspec) that defines requirements for the flow.
-
-

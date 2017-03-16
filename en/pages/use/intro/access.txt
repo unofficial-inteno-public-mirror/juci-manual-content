@@ -1,16 +1,1 @@
-{{tag>user_basic}}
-
-{{indexmenu_n>10}}
-
-# Access web interface
-
-To access the web interface you need to use your web browser.
-
-##
-
-* Launch your web browser
-* Enter the address [http://192.168.1.1](http://192.168.1.1)
-* Press [Enter].
-
-You are taken to the web interface [login page](./login).
-
+../../ade/intro/access.txt

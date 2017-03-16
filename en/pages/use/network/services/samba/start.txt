@@ -1,17 +1,1 @@
-{{tag>user_basic}}
-
-{{indexmenu_n>90}}
-
-# Samba
-
-In the **Samba** view you can change settings for the [Samba](/glossary/s/samba)server.
-
-##
-
-The Samba settings are divided into sections.
-
-{{page>./general}}
-
-{{page>./users}}
-
-{{page>./shares}}
+../../../../ade/network/services/samba/start.txt

@@ -1,5 +1,0 @@
-
-
-# QoS
-
-Quality of Service (QoS) involves setting for data traffic tha affect performance, allowing resources to be allocated depending on the needs of various types of traffic.

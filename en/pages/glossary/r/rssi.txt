@@ -1,4 +1,0 @@
-# RSSI
-
-Received signal strength indicator (RSSI) is a measurement of the power of a received radio signal.
-

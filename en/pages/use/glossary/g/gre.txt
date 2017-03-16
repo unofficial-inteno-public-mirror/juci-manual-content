@@ -1,5 +1,0 @@
-
-
-# GRE
-
-Generic Routing Encapsulation (GRE) is a multipurpose tunneling protocol using [IP](/glossary/i/ip) networks to encapsulate a number of different network layer protocols.

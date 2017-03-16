@@ -1,5 +1,0 @@
-
-
-# SIP Domain
-
-A SIP domain is a DNS hostname for [SIP](/glossary/s/sip) traffic routing.
