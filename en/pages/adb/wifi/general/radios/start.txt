@@ -18,7 +18,7 @@ The **Wireless Radios** view allows you to configure wireless radios installed o
 | DFS Channels | Turn [DFS](/glossary/d/dfs) channels on or off. |
 | RX Chain PowerSave Quiet Time | Turn [RXC PS Quiet Time](/glossary/r/rxc_psqt) on or off. |
 | RX Chain PowerSave PPS | Turn [RXC PS PPS](/glossary/r/rxc_pspss) on or off one of the receive chains to save power. |
-| Max. Assoc Clients | Maximum number of clients allowed. |
+| Maximum Associated Stations | Maximum number of clients allowed. |
 | Scan Timer | Determine the [dwell time](/glossary/d/dwell_time) for channel hopping. |
 | Enable WMM Multimedia Extensions | Turn [WMM](/glossary/w/wmm) multimedia extensions on or off. |
 | Disable WMM Ack | Turn [WMM acknowledgement](/glossary/w/wmm) on or off. |

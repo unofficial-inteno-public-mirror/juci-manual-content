@@ -2,7 +2,7 @@
 
 {{indexmenu_n>10}}
 
-# System Status
+# System
 
 The **System Status** overview shows basic data about the device.
 
@@ -14,7 +14,7 @@ The **System Status** overview shows basic data about the device.
 | Firmware Version | Version of installed firmware. | DG400-WU7U_INT3.5.5-160513_1617 |
 | Kernel Version | The gateway operating system kernel version. | 3.11 |
 | Filesystem | Filesystem used in gateway storage. | [UBIFS](/glossary/u/ubifs) |
-| BRCM Version | Version number for the Broadcom driver. | 4.16L.04 |
+| BRCM Version | (Broadcom Devices only) Version number for the Broadcom driver. | 4.16L.04 |
 | Local Time | Time according to the gateway internal clock. | Mon May 23 2016 17:21:12 GMT+0200 (CEST) |
 | Uptime | Time the gateway has been runnning since last startup. | 5d 2h 53m 14s |
 | CPU | Percentage of CPU processing in use. | 0% |

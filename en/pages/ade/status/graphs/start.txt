@@ -1,0 +1,15 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>95}}
+
+# Realtime Graphs
+
+The **Realtime Graphs** view provides access to graphical representations of status for the device. The graphs scroll as time progresses and lines indicate the current status.
+
+## Overview
+
+{{page>./load}}
+
+{{page>./traffic}}
+
+{{page>./connections}}

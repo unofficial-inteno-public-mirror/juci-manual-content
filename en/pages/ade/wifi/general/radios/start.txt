@@ -8,18 +8,24 @@ The **Wireless Radios** view allows you to configure wireless radios installed o
 
 ##
 
+At the top of the page is a list of radios.
+
+Clicking the **Edit** buttin will open the edit view for that radio.
+
 ^ Item ^ Comment ^
-| Wireless Radio List | List of selectable radios. |
 | Radio On/off | Turn radio on or off. |
 | WiFi Mode (SSID) | Choose [wifi mode](/glossary/w/wifi_mode). |
 | Channel | Choose [WiFi Channel](/glossary/w/wifi_channel). |
 | Bandwidth | Choose [bandwidth](/glossary/b/bandwidth). |
-| Beamforming | Turn [beamforming](/glossary/b/beamforming) on or off. |
+| Scan Timer | Determine the [dwell time](/glossary/d/dwell_time) for channel hopping. |
 | DFS Channels | Turn [DFS](/glossary/d/dfs) channels on or off. |
+| Beamforming | Turn [beamforming](/glossary/b/beamforming) on or off. |
+| Airtime Fairness | Turn [ATF](/glossary/a/atf) on or off. | 
+| Maximum Associated Stations | Maximum number of clients allowed. |
 | RX Chain PowerSave Quiet Time | Turn [RXC PS Quiet Time](/glossary/r/rxc_psqt) on or off. |
 | RX Chain PowerSave PPS | Turn [RXC PS PPS](/glossary/r/rxc_pspss) on or off one of the receive chains to save power. |
-| Max. Assoc Clients | Maximum number of clients allowed. |
-| Scan Timer | Determine the [dwell time](/glossary/d/dwell_time) for channel hopping. |
 | Enable WMM Multimedia Extensions | Turn [WMM](/glossary/w/wmm) multimedia extensions on or off. |
 | Disable WMM Ack | Turn [WMM acknowledgement](/glossary/w/wmm_ack) on or off. |
 | Enable WMM UAPSD Power Saving | Turn WMM [UAPSD](/glossary/u/uapsd) power saving on or off. |
+
+

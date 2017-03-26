@@ -2,7 +2,7 @@
 
 {{indexmenu_n>30}}
 
-# WiFi Status
+# WiFi
 
 The **WiFi Status** view shows information about the wireless network, and allows you
  to scan the local area for other wireless access points.

@@ -2,7 +2,7 @@
 
 {{indexmenu_n>50}}
 
-# IGPM TV Status
+# IGPM TV
 
 The **IGPM TV Status** views shows information about your IPTV services and their connection status.
 

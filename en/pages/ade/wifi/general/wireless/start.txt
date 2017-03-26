@@ -4,18 +4,26 @@
 
 # Wireless
 
-In the **Wireless** view you can view and edit the [wireless interface](/glossary/w/wifi_interface).
+In the **Wireless** view you can view and edit the [wireless interfaces](/glossary/w/wifi_interface).
+
+Each radio can have up to 4 [SSIDs](/glossary/s/ssid).
 
 ##
 
+At the top of the page is a list of selectable interfaces.
+
+When a interface is selected, the edit view for the interface is shown below.
+
 ^ Item ^ Comment ^
 | Enabled | Turn on or off. |
-| WiFi Network Name | Edit name of [SSID](/glossary/s/ssid) network |
-| Broadcast SSID | Toggle to make network visible or invisible |
-| Encryption | Change to a different encryption method |
-| Cipher | Choose form of [Cipher](/glossary/c/cipher) |
-| WiFi Key (Password)| Reset to default password |
-| Show Key Text | Change format of wifi key text |
+| WiFi Network Name | Edit name of [SSID](/glossary/s/ssid) network. |
+| Broadcast SSID | Toggle to make network visible or invisible. |
+| Wireless Multicast Forwarding | Toggle to turn [multicast](/glossary/m/multicast) forwarding on or off.  |
+| Maximum Number of Connected Clients | Maximum number of connected clients. |
+| Encryption | Change to a different encryption method. |
+| Cipher | Choose form of [Cipher](/glossary/c/cipher). |
+| WiFi Key (Password)| Reset to default password. |
+| Show Key Text | Change format of wifi key text. |
 
 ## Add Wireless Interface
 

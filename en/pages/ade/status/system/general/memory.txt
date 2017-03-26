@@ -2,7 +2,7 @@
 
 {{indexmenu_n>20}}
 
-# System Memory Status
+# System Memory
 
 The **System Memory Status** view displays information about memory usage in the device.
 

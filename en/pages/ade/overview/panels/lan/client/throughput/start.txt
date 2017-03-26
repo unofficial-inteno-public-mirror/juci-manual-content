@@ -1,0 +1,31 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>25}}
+
+# Throughput Graph
+
+For WiFi clients, the **Throughput Graph** tab you can map incoming connections on different [ports](/glossary/p/port) to ports on the client.
+
+## Graph
+
+![Graph](./graph.png)
+
+The display is shown in realtime, with lines representing traffic in kbit/s:
+
+^ Color ^ Traffic ^
+| Blue | Downstream. | 
+| Red | Upstream. | 
+
+
+## Table
+
+The table below the graph displays collected data since the tab was opened, and the total connection uptime since last downtime.
+
+![Table](./table.png)
+
+^ Item ^ Description ^
+| Download Speed | Current download speed. |
+| Upload Speed | Current upload speed. |
+| Total Received Data | Downloaded data since the tab was opened. |
+| Total Transmitted Data | Transmitted data since the tab was opened. |
+| Total Uptime | Connection uptime since last downtime. |

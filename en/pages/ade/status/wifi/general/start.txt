@@ -1,6 +1,6 @@
 {{indexmenu_n>10}}
 
-# WiFi Status
+# WiFi
 
 The **general WiFI Status** view displays information about your wireless channels and network interfaces.
 

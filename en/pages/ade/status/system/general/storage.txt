@@ -2,7 +2,7 @@
 
 {{indexmenu_n>30}}
 
-# System Storage Status
+# System Storage
 
 The **System Storage Status** view shows information about file systems and space used.
 

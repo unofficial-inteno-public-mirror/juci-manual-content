@@ -1,0 +1,23 @@
+{{indexmenu_n>30}}
+
+# Classifications
+
+The **Classifications** tab lets you add classifications for connected clients.
+
+The classificiations can be used to provide specific [DHCP Options](/glossary/d/dhcp_options) options for the classified clients, based on
+
+
+## Types
+
+{{page>./mac}}
+
+{{page>./vendor}}
+
+{{page>./user}}
+
+{{page>./circuit}}
+
+{{page>./remote}}
+
+{{page>./subscriber}}
+

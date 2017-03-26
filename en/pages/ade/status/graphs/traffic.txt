@@ -1,0 +1,19 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>20}}
+
+# Traffic
+
+The **Traffic** graph shows upload and download traffic for the interfaces.
+
+## Graph Lines
+
+Each interface is available in its own tab. The display is shown in realtime, with lines representing traffic in kbit/s:
+
+^ Color ^ Traffic ^
+| Blue | Downstream. | 
+| Red | Upstream. | 
+
+
+![Traffic](traffic.png)
+

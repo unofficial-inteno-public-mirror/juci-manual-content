@@ -2,7 +2,7 @@
 
 {{indexmenu_n>100}}
 
-# Voice Status
+# Voice
 
 The **Voice Status** view shows information about SIP accounts, phone numbers and voice lines connected to the device.
 

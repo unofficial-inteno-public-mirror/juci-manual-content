@@ -2,7 +2,7 @@
 
 {{indexmenu_n>40}}
 
-# DSL Status
+# DSL
 
 The **DSL status** view shows information about any [DSL](/glossary/d/dsl) connections to the device.
 
@@ -86,7 +86,7 @@ The CRC Corrections table shows [CRC corrections](/glossary/c/crc) for the strea
 The Cell Statistics section shows the number of [cells](/glossary/c/cell) transmitted for the streams.
 
 ^ Column ^ Description ^
-| Recieved | To the device.|
+| Received | To the device.|
 | Transmitted | From the device. |
 
 

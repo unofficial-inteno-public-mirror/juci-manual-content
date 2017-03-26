@@ -20,3 +20,5 @@ Information about the client is divided into several tabs.
 {{page>./lease}}
 
 {{page>./parental/start}}
+
+{{page>./throughput/start}}

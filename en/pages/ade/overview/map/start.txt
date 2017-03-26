@@ -6,7 +6,7 @@
 
 The device map shows how your device is connected to the LAN and the WAN, as well as other devices in the local network.
 
-##
+## View
 
 ![Map](./main.png)
 
@@ -19,3 +19,4 @@ The status of a device is indicated by the color of the icon.
 | Black | Enabled, not active |
 | Yellow | Active, with warnings. |
 | Red | Active, not functional. |
+

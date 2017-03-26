@@ -2,7 +2,7 @@
 
 {{indexmenu_n>60}}
 
-# USB Status
+# USB
 
 The **USB devices** views displays information about any [USB](/glossary/u/usb) devices connected to the gateway device.
 

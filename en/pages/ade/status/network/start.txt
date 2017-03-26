@@ -2,7 +2,7 @@
 
 {{indexmenu_n>20}}
 
-# Network Status
+# Network
 
 The **Network Status** view shows information about various aspects of your network.
 

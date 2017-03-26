@@ -13,3 +13,7 @@ The DHCP settings are divided into tabs.
 {{page>./advanced}}
 
 {{page>./hostnames}}
+
+{{page>./classifications}}
+
+{{page>./tags}}

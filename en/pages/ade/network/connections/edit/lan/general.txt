@@ -29,25 +29,6 @@ The IPv4 section contains IP configuration.
 | IPv4 Broadcast Mask | IPv4  [Broadcast Mask](/glossary/i/ipv4_broadcast) |
 
 
-### Add/Remove custom DNS Servers
-
-You can add as many custom DNS servers as you like, but they must be unique.
-
-To add a custom DNS server:
-
-* Click the {{/icon/add.png}} **add** button
-
-* Add the IP numbers to the DNS server
-
-* Click **Save**
-
-To remove a custom DNS server:
-
-* Click the {{/icon/delete.png}} **delete** button next to the item to delete
-
-* Click **Save**
-
-
 ### IPv6
 
 The IPv6 section contains IP configuration.

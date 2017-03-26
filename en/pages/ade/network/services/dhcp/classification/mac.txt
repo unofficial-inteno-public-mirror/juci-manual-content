@@ -1,0 +1,14 @@
+{{indexmenu_n>30}}
+
+# Classifications
+
+The **Classifications** tab lets you add classifications
+
+to configure advanced settings for the [DHCP](/glossary/d/dhcp) server.
+
+##
+
+^ Item ^ Description ^
+|  |  |
+
+

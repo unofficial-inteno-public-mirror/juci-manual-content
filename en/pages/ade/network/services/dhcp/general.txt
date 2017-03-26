@@ -13,6 +13,5 @@ The **General** tab allows you to configure the [DHCP server](/glossary/d/dhcp_s
 | Ignore resolve file | Do not use the local Resolve file. |
 | Resolve file | Local [DNS](/glossary/d/dns) file storage. |
 | Ignore Hosts file | Do not use the local Hosts file. . |
-| Hosts file | Local hostname file storage. |
-
+| Hostname Entries file(s) | Path to additional host files to read for serving DNS responses. |
 

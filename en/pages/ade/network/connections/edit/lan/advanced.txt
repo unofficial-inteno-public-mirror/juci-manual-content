@@ -11,3 +11,24 @@ The advanced tab contains settings for management of advanced features for the c
 | Use gateway metric | [Gateway metric](/glossary/g/gateway) to use. |
 | Override MAC address | Enforced [MAC](/glossary/m/mac) address to use. |
 | Override MTU | [MTU](/glossary/m/mtu) size to use. |
+
+
+
+### Add/Remove custom DNS Servers
+
+You can add as many custom DNS servers as you like, but they must be unique.
+
+To add a custom DNS server:
+
+* Click the {{/icon/add.png}} **add** button
+
+* Add the IP numbers to the DNS server
+
+* Click **Save**
+
+To remove a custom DNS server:
+
+* Click the {{/icon/delete.png}} **delete** button next to the item to delete
+
+* Click **Save**
+

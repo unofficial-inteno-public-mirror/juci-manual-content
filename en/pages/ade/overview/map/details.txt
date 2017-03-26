@@ -6,7 +6,37 @@
 
 More detailed Information about the status of an item in the map is availabe by pointing the cursor at an icon in the map.
 
-##
+## View
 
 ![Details](./point.png)
+
+The information displayed in the popups varies with the item being viewed.
+
+#### WAN
+
+![Wan](./wan.png)
+
+![Wan](./wan6.png)
+
+
+
+#### Device
+
+![Device](./device.png)
+
+#### LAN
+
+![Lan](./lan.png)
+
+#### Port
+
+![Port](./port.png)
+
+#### Wifi
+
+![Wifi](./wifi.png)
+
+#### Client
+
+![Client](./client.png)
 

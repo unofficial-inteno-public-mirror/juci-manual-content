@@ -23,7 +23,7 @@ The DDM table shows information about the [DDM](/glossary/d/ddm) retrieved from 
 | tx-pwr-dBm | Broadcasting power. | `-4.5223 (dBm)` |
 | rx-pwr | Received signal power. | `0.3026 (mW)` |
 | rx-pwr-dBm | Received signal power. | `-5.1913 (dBm)` |
-| rx-pwr-type | Recieved power type. | `average` |
+| rx-pwr-type | Received power type. | `average` |
 
 
 #### ROM
