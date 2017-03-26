@@ -4,9 +4,10 @@
 
 The **DHCP** view lets you configure the [DHCP](/glossary/d/dhcp) server settings.
 
+
 ##
 
-The DHCP settings are divided into tabs.
+The DHCP settings are divided into several tabs.
 
 {{page>./general}}
 
@@ -14,6 +15,6 @@ The DHCP settings are divided into tabs.
 
 {{page>./hostnames}}
 
-{{page>./classifications}}
+{{page>./classification}}
 
 {{page>./tags}}

@@ -1,0 +1,17 @@
+{{indexmenu_n>50}}
+
+# Static DHCP
+
+The **Static DHCP** tab lets you add fixed IP address for connected clients.
+
+
+## View
+
+| Device Name | Turn [DHCP Server](/glossary/d/dhcp_server) on or off. |
+| MAC Address  | [MAC address](/glossary/m/mac). |
+| IP Address  | [IP address](/glossary/i/ipv4_address). |
+| DUID (IPv6)  | IPv6 [DUID](/glossary/d/duid). |
+| Host ID (IPv6) | IPv6 [Host ID](/glossary/i/ipv6_address). |
+| Tag | Tag with further [DHCP Options](/glossary/d/dhcp_option) as configured in the [DHCP/DNS](../../../../../network/services/dhcp/tags) settings. |
+
+

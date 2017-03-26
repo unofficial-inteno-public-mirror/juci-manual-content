@@ -4,7 +4,7 @@
 
 The **SIP Users** view shows information about configured [SIP users](/glossary/s/sip_user) for the device.
 
-##
+## View
 
 At the top of the page is a list of selectable accounts.
 

@@ -42,7 +42,7 @@
 {{page>/glossary/d/dect&fullpage}}
 {{page>/glossary/d/dfs&fullpage}}
 {{page>/glossary/d/dhcp_lease&fullpage}}
-{{page>/glossary/d/dhcp_options&fullpage}}
+{{page>/glossary/d/dhcp_option&fullpage}}
 {{page>/glossary/d/dhcp_pool&fullpage}}
 {{page>/glossary/d/dhcp_server&fullpage}}
 {{page>/glossary/d/dhcp&fullpage}}

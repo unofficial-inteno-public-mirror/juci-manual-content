@@ -2,11 +2,10 @@
 
 {{indexmenu_n>130}}
 
-# Configure Interface
+# Connection Editor
 
-You can configure the settings for interfaces from the [connections](../start) page.
+You can view, manage and configure the settings for interfaces from the [connections](../start) page.
 
-##
 
 ### Edit Connections
 

@@ -2,11 +2,11 @@
 
 {{indexmenu_n>20}}
 
-# Create Interface
+# Create Connection Wizard
 
-The **Create New Network Interface** dialog allows you to create a new [interface](/glossary/n/network_interface) according to your needs.
+The **Create New Network Interface** wizard allows you to create a new [interface](/glossary/n/network_interface) according to your needs through a number of dialogs.
 
-##
+## Create Connection
 
 The dialog is a wizard where you add information in several steps.
 

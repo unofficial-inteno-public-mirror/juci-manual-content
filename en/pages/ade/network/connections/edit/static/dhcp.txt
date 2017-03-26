@@ -18,14 +18,3 @@ The DHCP tab allows you to enable and use a specific DHCP server for the connect
 
 ## IPv6
 
-
-## Static DHCP
-
-| Device Name | Turn [DHCP Server](/glossary/d/dhcp_server) on or off. |
-| MAC Address  |  [MAC address](/glossary/m/mac). |
-| IP Address  |  [IP address](/glossary/i/ipv4_address). |
-| DUID (IPv6)  | [IP address](/glossary/d/duid). |
-| Host ID (IPv6) | [IP address](/glossary/i/ipv6_address). |
-| Tag | Tag with further [DHCP Options](/glossary/d/dhcp_options) as configured in the [DHCP/DNS](../../../../network/services/dhcp/tags) settings. |
-
-

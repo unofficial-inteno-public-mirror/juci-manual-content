@@ -1,0 +1,21 @@
+{{indexmenu_n>50}}
+
+# IPv6 Settings
+
+The DHCP tab allows you to enable and use a specific [DHCP](/glossary/d/dhcp_server) server for the connection.
+
+## View
+
+^ Item ^ Description ^ Comment ^
+| DHCPv6 Service | Service handling [DHCP](/glossary/d/dhcp) services for [IPv6](/glossary/i/ipv6). | `server` / `relay` / `disabled` |
+| Router Advertisement Service | Service handling [Router Advertisement](/glossary/r/router_advertisment). | `server` / `relay` / `disabled` |
+| NDP-Proxy | [NDP](/glossary/n/ndp) proxy. | `relay` / `none` |
+
+
+### Values
+
+^ Value ^ Description ^
+| `server` | Provide service. |
+| `relay` | Forward messages. |
+| `disabled` | Turn service off. |
+| `none` | Do not provide this service. |

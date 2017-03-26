@@ -550,7 +550,7 @@
 {{page>/glossary/d/dhcp&fullpage&noreadmore}} 
 {{page>/glossary/d/dhcp_lease&fullpage&noreadmore}} 
 {{page>/glossary/d/dhcp_pool&fullpage&noreadmore}} 
-{{page>/glossary/d/dhcp_options&fullpage&noreadmore}} 
+{{page>/glossary/d/dhcp_option&fullpage&noreadmore}}
 {{page>/glossary/d/downlink&fullpage&noreadmore}} 
 {{page>/glossary/d/dmz&fullpage&noreadmore}} 
 {{page>/glossary/d/dsl&fullpage&noreadmore}} 

@@ -4,7 +4,7 @@
 
 The DHCP tab allows you to enable and use a specific DHCP server for the connection.
 
-##
+## View
 
 ^ Item ^ Description ^
 | DHCP Server | Turn [DHCP Server](/glossary/d/dhcp_server) on or off. |
@@ -13,3 +13,11 @@ The DHCP tab allows you to enable and use a specific DHCP server for the connect
 | DHCP Lease Time | DHCP [Lease Time](/glossary/l/lease_time) for the LAN.  |
 | Static DHCP | Reserve an IP address [DHCP Lease](/glossary/d/dhcp_lease) for a connected device. |
 
+
+### Additional Sections
+
+{{page>./advanced}}
+
+{{page>./ipv6}}
+
+{{page>./static}}

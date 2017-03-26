@@ -1,0 +1,67 @@
+{{indexmenu_n>30}}
+
+# Classifications
+
+The **Classifications** tab lets you add classifications for connected clients.
+
+The classifications can be used to provide specific [DHCP Options](/glossary/d/dhcp_option) options for the classified clients, based on client parameters.
+
+## Parameters
+
+The classification can be based on client parameters:
+
+* [MAC](/glossary/m/mac) class
+* [Vendor ID](/glossary/v/vendor_id)
+* [User Class](/glossary/u/user_class)
+* [Circuit ID](/glossary/c/circuit_id)
+* [Remote ID](/glossary/r/remote_id)
+* [Subscriber ID](/glossary/s/subscriber_id)
+
+
+## View
+
+At the top of the page is a list of configured classifications.
+
+When a particular account is selected, details about it is shown in the configuration section.
+
+For all classification types, the configuration is similar:
+
+^ Item ^ Description ^
+| Parameter value | Value for the classification parameter, according to its type. |
+| Network ID | Option value. |
+| ID | [DHCP option](/glossary/d/dhcp_option) ID. |
+| Option | Option value. |
+
+
+### Add Tag
+
+You can add as many tags as you like.
+
+To add a tag:
+
+* Click the **Add** button
+
+The **Select type of Classification** dialog opens:
+
+* Pick a **Select Classification Type** from the dropdown menu
+
+* Click **Apply**
+
+The tag is added to the list.
+
+* Click the **Edit** button
+
+ * Enter **Parameter** value according to Classification Type
+
+* Add as many DHCP options as needed:
+
+ * Click the {{fa>plus}} **Add option** button
+
+ * Select the **ID** value
+
+ * Enter **Option** value
+
+* Click **Apply**
+
+
+

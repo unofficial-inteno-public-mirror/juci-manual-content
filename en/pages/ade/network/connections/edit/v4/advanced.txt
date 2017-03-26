@@ -37,7 +37,7 @@ To remove a custom DNS server:
 ### DHCP Options
 
 ^ Item ^ Description ^
-| Additional DHCP options to request from the server | DHCP codes for additional options. |
+| Additional DHCP options to request from the server | [DHCP option ID:s](/glossary/d/dhcp_option) for additional options. |
 | Client ID to send when requesting DHCP | Custom ID to use for DHCP requests. |
 | Vendor Class to send when requesting DHCP | Use for device-specific DHCP options. |
 

@@ -13,10 +13,14 @@ The advanced tab contains settings for management of advanced features for the c
 | Override MTU | [MTU](/glossary/m/mtu) size to use. |
 
 
-
 ### Add/Remove custom DNS Servers
 
+These DNS entries will be applied on the interface
+
 You can add as many custom DNS servers as you like, but they must be unique.
+
+**Note:** These custom DNS entries only affect the interface where they are added.
+
 
 To add a custom DNS server:
 

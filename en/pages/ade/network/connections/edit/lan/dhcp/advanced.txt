@@ -1,0 +1,15 @@
+{{indexmenu_n>40}}
+
+# Advanced
+
+The **Advanced** section contains advanced [DHCP options](/glossary/d/dhcp_option).
+
+## View
+
+^ Item ^ Description ^ Comment ^
+| DHCP Options | [DHCP Option](/glossary/d/dhcp_option) ID and value to assign. |  |
+| Dynamic DHCP | Use Dynamic DHCP. |  |
+| Force | Override existing options. |  |
+
+
+

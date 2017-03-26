@@ -12,8 +12,10 @@ The **Static Leases** tab allows you to assign a static [IP address](/glossary/i
 ^ Item ^ Description ^
 | Device Name | [Hostname](/glossary/h/hostname) for [IPv4](/glossary/i/ip) |
 | IP Address | IP address for [IPv4](/glossary/i/ip) |
+| Tag | Tag with further [DHCP Options](/glossary/d/dhcp_option) as configured in the [DHCP/DNS](../../../../network/services/dhcp/tags) settings. |
 | DUID | [DUID](/glossary/d/duid) for [IPv6](/glossary/i/ip) |
 | Host ID | [Host ID](/glossary/h/hostid) for [IPv6](/glossary/i/ip) |
+
 
 ## Static Leases Settings
 
