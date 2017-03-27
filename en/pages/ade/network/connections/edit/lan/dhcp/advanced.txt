@@ -8,8 +8,6 @@ The **Advanced** section contains advanced [DHCP options](/glossary/d/dhcp_optio
 
 ^ Item ^ Description ^ Comment ^
 | DHCP Options | [DHCP Option](/glossary/d/dhcp_option) ID and value to assign. |  |
-| Dynamic DHCP | Use Dynamic DHCP. |  |
+| Dynamic DHCP | Use Dynamic DHCP. | If disabled, only clients with static leases will be allowed. |
 | Force | Override existing options. |  |
-
-
 

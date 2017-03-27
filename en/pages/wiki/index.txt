@@ -1,914 +1,951 @@
+# JUCI Manual
 
-{{page>/ade/intro/start&fullpage&noreadmore}} 
+## Version 3.11
 
+{{page>ade:intro:start&fullpage&noreadmore}}
 
+{{page>ade:intro:modes:start&fullpage&noreadmore}}
 
-{{page>/ade/intro/modes/start&fullpage&noreadmore}} 
+{{page>ade:intro:modes:basic&fullpage&noreadmore}}
+{{page>ade:intro:modes:expert&fullpage&noreadmore}}
 
-{{page>/ade/intro/modes/basic&fullpage&noreadmore}} 
-{{page>/ade/intro/modes/expert&fullpage&noreadmore}} 
 
+{{page>ade:intro:roles:start&fullpage&noreadmore}}
+{{page>ade:intro:features:start&fullpage&noreadmore}}
 
-{{page>/ade/intro/roles/start&fullpage&noreadmore}} 
-{{page>/ade/intro/features/start&fullpage&noreadmore}} 
+{{page>ade:intro:features:availability&fullpage&noreadmore}}
 
-{{page>/ade/intro/features/availability&fullpage&noreadmore}} 
 
+{{page>ade:intro:menu:start&fullpage&noreadmore}}
+{{page>ade:intro:work:start&fullpage&noreadmore}}
+{{page>ade:intro:access&fullpage&noreadmore}}
+{{page>ade:intro:login&fullpage&noreadmore}}
 
-{{page>/ade/intro/menu/start&fullpage&noreadmore}} 
-{{page>/ade/intro/work/start&fullpage&noreadmore}} 
 
+{{page>ade:overview:start&fullpage&noreadmore}}
 
-{{page>/ade/overview/start&fullpage&noreadmore}} 
+{{page>ade:overview:map:start&fullpage&noreadmore}}
 
-{{page>/ade/overview/map/start&fullpage&noreadmore}} 
+{{page>ade:overview:map:edit:start&fullpage&noreadmore}}
+{{page>ade:overview:map:details&fullpage&noreadmore}}
 
-{{page>/ade/overview/map/details&fullpage&noreadmore}} 
-{{page>/ade/overview/map/edit/start&fullpage&noreadmore}} 
 
+{{page>ade:overview:shortcuts:start&fullpage&noreadmore}}
+{{page>ade:overview:panels:start&fullpage&noreadmore}}
 
-{{page>/ade/overview/shortcuts/start&fullpage&noreadmore}} 
-{{page>/ade/overview/panels/start&fullpage&noreadmore}} 
+{{page>ade:overview:panels:wifi:start&fullpage&noreadmore}}
 
-{{page>/ade/overview/panels/wifi/start&fullpage&noreadmore}} 
+{{page>ade:overview:panels:wifi:wps&fullpage&noreadmore}}
+{{page>ade:overview:panels:wifi:2_4ghz&fullpage&noreadmore}}
+{{page>ade:overview:panels:wifi:5ghz&fullpage&noreadmore}}
 
 
+{{page>ade:overview:panels:lan:start&fullpage&noreadmore}}
 
+{{page>ade:overview:panels:lan:overview:start&fullpage&noreadmore}}
+{{page>ade:overview:panels:lan:edit:start&fullpage&noreadmore}}
 
+{{page>ade:overview:panels:lan:edit:dhcp&fullpage&noreadmore}}
 
 
-{{page>/ade/overview/panels/lan/start&fullpage&noreadmore}} 
+{{page>ade:overview:panels:lan:client:start&fullpage&noreadmore}}
 
-{{page>/ade/overview/panels/lan/overview/start&fullpage&noreadmore}} 
-{{page>/ade/overview/panels/lan/edit/start&fullpage&noreadmore}} 
+{{page>ade:overview:panels:lan:client:parental:start&fullpage&noreadmore}}
 
+{{page>ade:overview:panels:lan:client:parental:add&fullpage&noreadmore}}
 
 
+{{page>ade:overview:panels:lan:client:throughput:start&fullpage&noreadmore}}
+{{page>ade:overview:panels:lan:client:status&fullpage&noreadmore}}
+{{page>ade:overview:panels:lan:client:port&fullpage&noreadmore}}
+{{page>ade:overview:panels:lan:client:lease&fullpage&noreadmore}}
 
-{{page>/ade/overview/panels/lan/client/start&fullpage&noreadmore}} 
 
 
 
+{{page>ade:overview:panels:wan:start&fullpage&noreadmore}}
+{{page>ade:overview:panels:usb:start&fullpage&noreadmore}}
+{{page>ade:overview:panels:voice:start&fullpage&noreadmore}}
+{{page>ade:overview:panels:profile:start&fullpage&noreadmore}}
 
-{{page>/ade/overview/panels/lan/client/parental/start&fullpage&noreadmore}} 
 
 
 
+{{page>ade:voice:start&fullpage&noreadmore}}
 
+{{page>ade:voice:log:start&fullpage&noreadmore}}
+{{page>ade:voice:accounts:start&fullpage&noreadmore}}
+{{page>ade:voice:users:start&fullpage&noreadmore}}
+{{page>ade:voice:lines:start&fullpage&noreadmore}}
+{{page>ade:voice:advanced:start&fullpage&noreadmore}}
 
+{{page>ade:voice:advanced:sip:start&fullpage&noreadmore}}
+{{page>ade:voice:advanced:line:start&fullpage&noreadmore}}
+{{page>ade:voice:advanced:dialplan:start&fullpage&noreadmore}}
 
 
+{{page>ade:voice:blocking:start&fullpage&noreadmore}}
+{{page>ade:voice:schedule:start&fullpage&noreadmore}}
+{{page>ade:voice:dialing:start&fullpage&noreadmore}}
+{{page>ade:voice:dect:start&fullpage&noreadmore}}
 
-{{page>/ade/overview/panels/wan/start&fullpage&noreadmore}} 
-{{page>/ade/overview/panels/usb/start&fullpage&noreadmore}} 
-{{page>/ade/overview/panels/voice/start&fullpage&noreadmore}} 
-{{page>/ade/overview/panels/profile/start&fullpage&noreadmore}} 
 
+{{page>ade:network:start&fullpage&noreadmore}}
 
+{{page>ade:network:devices:start&fullpage&noreadmore}}
 
+{{page>ade:network:devices:base:start&fullpage&noreadmore}}
+{{page>ade:network:devices:ethernet:start&fullpage&noreadmore}}
+{{page>ade:network:devices:adsl:start&fullpage&noreadmore}}
+{{page>ade:network:devices:vdsl:start&fullpage&noreadmore}}
+{{page>ade:network:devices:vlan:start&fullpage&noreadmore}}
 
-{{page>/ade/voice/start&fullpage&noreadmore}} 
 
-{{page>/ade/voice/log/start&fullpage&noreadmore}} 
-{{page>/ade/voice/accounts/start&fullpage&noreadmore}} 
-{{page>/ade/voice/users/start&fullpage&noreadmore}} 
-{{page>/ade/voice/lines/start&fullpage&noreadmore}} 
-{{page>/ade/voice/advanced/start&fullpage&noreadmore}} 
+{{page>ade:network:xdsl:start&fullpage&noreadmore}}
 
-{{page>/ade/voice/advanced/sip/start&fullpage&noreadmore}} 
-{{page>/ade/voice/advanced/line/start&fullpage&noreadmore}} 
-{{page>/ade/voice/advanced/dialplan/start&fullpage&noreadmore}} 
+{{page>ade:network:xdsl:modulation&fullpage&noreadmore}}
+{{page>ade:network:xdsl:profile&fullpage&noreadmore}}
+{{page>ade:network:xdsl:capabilites&fullpage&noreadmore}}
 
 
-{{page>/ade/voice/blocking/start&fullpage&noreadmore}} 
-{{page>/ade/voice/schedule/start&fullpage&noreadmore}} 
-{{page>/ade/voice/dialing/start&fullpage&noreadmore}} 
-{{page>/ade/voice/dect/start&fullpage&noreadmore}} 
+{{page>ade:network:connections:start&fullpage&noreadmore}}
 
+{{page>ade:network:connections:add:start&fullpage&noreadmore}}
 
-{{page>/ade/network/start&fullpage&noreadmore}} 
+{{page>ade:network:connections:add:uplink:start&fullpage&noreadmore}}
 
-{{page>/ade/network/devices/start&fullpage&noreadmore}} 
+{{page>ade:network:connections:add:uplink:wwan:start&fullpage&noreadmore}}
+{{page>ade:network:connections:add:uplink:v4:start&fullpage&noreadmore}}
+{{page>ade:network:connections:add:uplink:v6:start&fullpage&noreadmore}}
+{{page>ade:network:connections:add:uplink:ppp:start&fullpage&noreadmore}}
+{{page>ade:network:connections:add:uplink:pppoe:start&fullpage&noreadmore}}
+{{page>ade:network:connections:add:uplink:pppoa:start&fullpage&noreadmore}}
+{{page>ade:network:connections:add:uplink:3g:start&fullpage&noreadmore}}
+{{page>ade:network:connections:add:uplink:ptpt:start&fullpage&noreadmore}}
+{{page>ade:network:connections:add:uplink:6in4:start&fullpage&noreadmore}}
+{{page>ade:network:connections:add:uplink:6to4:start&fullpage&noreadmore}}
+{{page>ade:network:connections:add:uplink:6rd:start&fullpage&noreadmore}}
 
-{{page>/ade/network/devices/base/start&fullpage&noreadmore}} 
-{{page>/ade/network/devices/ethernet/start&fullpage&noreadmore}} 
-{{page>/ade/network/devices/adsl/start&fullpage&noreadmore}} 
-{{page>/ade/network/devices/vdsl/start&fullpage&noreadmore}} 
-{{page>/ade/network/devices/vlan/start&fullpage&noreadmore}} 
 
+{{page>ade:network:connections:add:downlink:start&fullpage&noreadmore}}
+{{page>ade:network:connections:add:unmanaged:start&fullpage&noreadmore}}
 
-{{page>/ade/network/xdsl/start&fullpage&noreadmore}} 
 
-{{page>/ade/network/xdsl/modulation&fullpage&noreadmore}} 
-{{page>/ade/network/xdsl/profile&fullpage&noreadmore}} 
-{{page>/ade/network/xdsl/capabilites&fullpage&noreadmore}} 
+{{page>ade:network:connections:edit:start&fullpage&noreadmore}}
 
+{{page>ade:network:connections:edit:lan:start&fullpage&noreadmore}}
 
-{{page>/ade/network/connections/start&fullpage&noreadmore}} 
+{{page>ade:network:connections:edit:lan:dhcp:start&fullpage&noreadmore}}
 
-{{page>/ade/network/connections/add/start&fullpage&noreadmore}} 
+{{page>ade:network:connections:edit:lan:dhcp:advanced&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:lan:dhcp:ipv6&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:lan:dhcp:static&fullpage&noreadmore}}
 
-{{page>/ade/network/connections/add/uplink/start&fullpage&noreadmore}} 
 
-{{page>/ade/network/connections/add/uplink/wwan/start&fullpage&noreadmore}} 
-{{page>/ade/network/connections/add/uplink/v6/start&fullpage&noreadmore}} 
-{{page>/ade/network/connections/add/uplink/v4/start&fullpage&noreadmore}} 
-{{page>/ade/network/connections/add/uplink/ppp/start&fullpage&noreadmore}} 
-{{page>/ade/network/connections/add/uplink/pppoe/start&fullpage&noreadmore}} 
-{{page>/ade/network/connections/add/uplink/pppoa/start&fullpage&noreadmore}} 
-{{page>/ade/network/connections/add/uplink/3g/start&fullpage&noreadmore}} 
-{{page>/ade/network/connections/add/uplink/ptpt/start&fullpage&noreadmore}} 
-{{page>/ade/network/connections/add/uplink/6in4/start&fullpage&noreadmore}} 
-{{page>/ade/network/connections/add/uplink/6to4/start&fullpage&noreadmore}} 
-{{page>/ade/network/connections/add/uplink/6rd/start&fullpage&noreadmore}} 
+{{page>ade:network:connections:edit:lan:general&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:lan:physical&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:lan:advanced&fullpage&noreadmore}}
 
 
-{{page>/ade/network/connections/add/downlink/start&fullpage&noreadmore}} 
-{{page>/ade/network/connections/add/unmanaged/start&fullpage&noreadmore}} 
+{{page>ade:network:connections:edit:wan:start&fullpage&noreadmore}}
 
+{{page>ade:network:connections:edit:wan:general&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:wan:physical&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:wan:advanced&fullpage&noreadmore}}
 
-{{page>/ade/network/connections/edit/start&fullpage&noreadmore}} 
 
-{{page>/ade/network/connections/edit/lan/start&fullpage&noreadmore}} 
+{{page>ade:network:connections:edit:wan6:start&fullpage&noreadmore}}
 
+{{page>ade:network:connections:edit:wan6:general&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:wan6:physical&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:wan6:advanced&fullpage&noreadmore}}
 
 
+{{page>ade:network:connections:edit:unmanaged:start&fullpage&noreadmore}}
 
+{{page>ade:network:connections:edit:unmanaged:general&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:unmanaged:physical&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:unmanaged:advanced&fullpage&noreadmore}}
 
 
+{{page>ade:network:connections:edit:static:start&fullpage&noreadmore}}
 
-{{page>/ade/network/connections/edit/wan/start&fullpage&noreadmore}} 
+{{page>ade:network:connections:edit:static:general&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:static:physical&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:static:advanced&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:static:dhcp&fullpage&noreadmore}}
 
 
+{{page>ade:network:connections:edit:v4:start&fullpage&noreadmore}}
 
+{{page>ade:network:connections:edit:v4:general&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:v4:physical&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:v4:advanced&fullpage&noreadmore}}
 
 
+{{page>ade:network:connections:edit:v6:start&fullpage&noreadmore}}
 
-{{page>/ade/network/connections/edit/wan6/start&fullpage&noreadmore}} 
+{{page>ade:network:connections:edit:v6:general&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:v6:physical&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:v6:advanced&fullpage&noreadmore}}
 
 
+{{page>ade:network:connections:edit:ppp:start&fullpage&noreadmore}}
 
+{{page>ade:network:connections:edit:ppp:general&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:ppp:advanced&fullpage&noreadmore}}
 
 
+{{page>ade:network:connections:edit:pppoe:start&fullpage&noreadmore}}
 
-{{page>/ade/network/connections/edit/unmanaged/start&fullpage&noreadmore}} 
+{{page>ade:network:connections:edit:pppoe:general&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:pppoe:physical&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:pppoe:advanced&fullpage&noreadmore}}
 
 
+{{page>ade:network:connections:edit:pppoa:start&fullpage&noreadmore}}
 
+{{page>ade:network:connections:edit:pppoa:general&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:pppoa:physical&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:pppoa:advanced&fullpage&noreadmore}}
 
 
+{{page>ade:network:connections:edit:3g:start&fullpage&noreadmore}}
 
-{{page>/ade/network/connections/edit/static/start&fullpage&noreadmore}} 
+{{page>ade:network:connections:edit:3g:general&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:3g:advanced&fullpage&noreadmore}}
 
 
+{{page>ade:network:connections:edit:wwan:start&fullpage&noreadmore}}
 
+{{page>ade:network:connections:edit:wwan:general&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:wwan:advanced&fullpage&noreadmore}}
 
 
+{{page>ade:network:connections:edit:4g:start&fullpage&noreadmore}}
 
+{{page>ade:network:connections:edit:4g:general&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:4g:advanced&fullpage&noreadmore}}
 
-{{page>/ade/network/connections/edit/v4/start&fullpage&noreadmore}} 
 
+{{page>ade:network:connections:edit:ptpt:start&fullpage&noreadmore}}
 
+{{page>ade:network:connections:edit:ptpt:general&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:ptpt:advanced&fullpage&noreadmore}}
 
 
+{{page>ade:network:connections:edit:6in4:start&fullpage&noreadmore}}
 
+{{page>ade:network:connections:edit:6in4:general&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:6in4:advanced&fullpage&noreadmore}}
 
-{{page>/ade/network/connections/edit/v6/start&fullpage&noreadmore}} 
 
+{{page>ade:network:connections:edit:6to4:start&fullpage&noreadmore}}
 
+{{page>ade:network:connections:edit:6to4:general&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:6to4:advanced&fullpage&noreadmore}}
 
 
+{{page>ade:network:connections:edit:6rd:start&fullpage&noreadmore}}
 
+{{page>ade:network:connections:edit:6rd:general&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:6rd:advanced&fullpage&noreadmore}}
 
-{{page>/ade/network/connections/edit/ppp/start&fullpage&noreadmore}} 
 
+{{page>ade:network:connections:edit:ds_lite:start&fullpage&noreadmore}}
 
+{{page>ade:network:connections:edit:ds_lite:general&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:ds_lite:advanced&fullpage&noreadmore}}
 
 
+{{page>ade:network:connections:edit:pppol2tp:start&fullpage&noreadmore}}
 
-{{page>/ade/network/connections/edit/pppoe/start&fullpage&noreadmore}} 
+{{page>ade:network:connections:edit:pppol2tp:general&fullpage&noreadmore}}
+{{page>ade:network:connections:edit:pppol2tp:advanced&fullpage&noreadmore}}
 
 
 
 
 
 
-{{page>/ade/network/connections/edit/pppoa/start&fullpage&noreadmore}} 
+{{page>ade:network:routes:start&fullpage&noreadmore}}
 
+{{page>ade:network:routes:ipv4&fullpage&noreadmore}}
+{{page>ade:network:routes:ipv6&fullpage&noreadmore}}
 
 
+{{page>ade:network:firewall:start&fullpage&noreadmore}}
 
+{{page>ade:network:firewall:general:start&fullpage&noreadmore}}
+{{page>ade:network:firewall:zones:start&fullpage&noreadmore}}
+{{page>ade:network:firewall:rules:start&fullpage&noreadmore}}
 
+{{page>ade:network:firewall:rules:default&fullpage&noreadmore}}
 
-{{page>/ade/network/connections/edit/3g/start&fullpage&noreadmore}} 
 
+{{page>ade:network:firewall:forwarding:start&fullpage&noreadmore}}
 
+{{page>ade:network:firewall:forwarding:add:start&fullpage&noreadmore}}
 
 
+{{page>ade:network:firewall:dmz:start&fullpage&noreadmore}}
 
-{{page>/ade/network/connections/edit/wwan/start&fullpage&noreadmore}} 
 
+{{page>ade:network:parental:start&fullpage&noreadmore}}
+{{page>ade:network:qos:start&fullpage&noreadmore}}
 
+{{page>ade:network:qos:workflow:start&fullpage&noreadmore}}
 
+{{page>ade:network:qos:workflow:class&fullpage&noreadmore}}
+{{page>ade:network:qos:workflow:classify&fullpage&noreadmore}}
+{{page>ade:network:qos:workflow:group&fullpage&noreadmore}}
+{{page>ade:network:qos:workflow:interface&fullpage&noreadmore}}
 
 
-{{page>/ade/network/connections/edit/4g/start&fullpage&noreadmore}} 
+{{page>ade:network:qos:class:start&fullpage&noreadmore}}
 
+{{page>ade:network:qos:class:classes&fullpage&noreadmore}}
 
 
+{{page>ade:network:qos:interface:start&fullpage&noreadmore}}
+{{page>ade:network:qos:group:start&fullpage&noreadmore}}
+{{page>ade:network:qos:classify:start&fullpage&noreadmore}}
 
 
-{{page>/ade/network/connections/edit/ptpt/start&fullpage&noreadmore}} 
+{{page>ade:network:multiwan:start&fullpage&noreadmore}}
 
+{{page>ade:network:multiwan:basic&fullpage&noreadmore}}
+{{page>ade:network:multiwan:rules&fullpage&noreadmore}}
+{{page>ade:network:multiwan:faq&fullpage&noreadmore}}
 
 
+{{page>ade:network:services:start&fullpage&noreadmore}}
 
+{{page>ade:network:services:printer:start&fullpage&noreadmore}}
+{{page>ade:network:services:minidlna:start&fullpage&noreadmore}}
 
-{{page>/ade/network/connections/edit/6in4/start&fullpage&noreadmore}} 
+{{page>ade:network:services:minidlna:status&fullpage&noreadmore}}
+{{page>ade:network:services:minidlna:general&fullpage&noreadmore}}
+{{page>ade:network:services:minidlna:advanced&fullpage&noreadmore}}
 
 
+{{page>ade:network:services:upnp:start&fullpage&noreadmore}}
 
+{{page>ade:network:services:upnp:general&fullpage&noreadmore}}
+{{page>ade:network:services:upnp:advanced&fullpage&noreadmore}}
+{{page>ade:network:services:upnp:acl&fullpage&noreadmore}}
 
 
-{{page>/ade/network/connections/edit/6to4/start&fullpage&noreadmore}} 
+{{page>ade:network:services:ddns:start&fullpage&noreadmore}}
+{{page>ade:network:services:iptv:start&fullpage&noreadmore}}
+{{page>ade:network:services:dhcp:start&fullpage&noreadmore}}
 
+{{page>ade:network:services:dhcp:general&fullpage&noreadmore}}
+{{page>ade:network:services:dhcp:advanced&fullpage&noreadmore}}
+{{page>ade:network:services:dhcp:classification&fullpage&noreadmore}}
+{{page>ade:network:services:dhcp:tags&fullpage&noreadmore}}
+{{page>ade:network:services:dhcp:hostnames&fullpage&noreadmore}}
 
 
+{{page>ade:network:services:snmp:start&fullpage&noreadmore}}
 
+{{page>ade:network:services:snmp:system&fullpage&noreadmore}}
+{{page>ade:network:services:snmp:agent&fullpage&noreadmore}}
+{{page>ade:network:services:snmp:com2sec&fullpage&noreadmore}}
+{{page>ade:network:services:snmp:group&fullpage&noreadmore}}
+{{page>ade:network:services:snmp:view&fullpage&noreadmore}}
+{{page>ade:network:services:snmp:access&fullpage&noreadmore}}
+{{page>ade:network:services:snmp:pass&fullpage&noreadmore}}
 
-{{page>/ade/network/connections/edit/6rd/start&fullpage&noreadmore}} 
 
+{{page>ade:network:services:samba:start&fullpage&noreadmore}}
 
+{{page>ade:network:services:samba:general&fullpage&noreadmore}}
+{{page>ade:network:services:samba:users&fullpage&noreadmore}}
+{{page>ade:network:services:samba:shares&fullpage&noreadmore}}
 
 
 
-{{page>/ade/network/connections/edit/ds_lite/start&fullpage&noreadmore}} 
 
 
 
+{{page>ade:wifi:start&fullpage&noreadmore}}
 
+{{page>ade:wifi:general:start&fullpage&noreadmore}}
 
-{{page>/ade/network/connections/edit/pppol2tp/start&fullpage&noreadmore}} 
+{{page>ade:wifi:general:radios:start&fullpage&noreadmore}}
+{{page>ade:wifi:general:wireless:start&fullpage&noreadmore}}
 
 
+{{page>ade:wifi:steering:start&fullpage&noreadmore}}
+{{page>ade:wifi:wps:start&fullpage&noreadmore}}
 
+{{page>ade:wifi:wps:general&fullpage&noreadmore}}
+{{page>ade:wifi:wps:pbc&fullpage&noreadmore}}
+{{page>ade:wifi:wps:pin&fullpage&noreadmore}}
+{{page>ade:wifi:wps:reg&fullpage&noreadmore}}
 
 
+{{page>ade:wifi:mac:start&fullpage&noreadmore}}
 
 
+{{page>ade:system:start&fullpage&noreadmore}}
 
+{{page>ade:system:general:start&fullpage&noreadmore}}
 
-{{page>/ade/network/routes/start&fullpage&noreadmore}} 
+{{page>ade:system:general:time&fullpage&noreadmore}}
+{{page>ade:system:general:log&fullpage&noreadmore}}
+{{page>ade:system:general:connectivity&fullpage&noreadmore}}
 
-{{page>/ade/network/routes/ipv4&fullpage&noreadmore}} 
-{{page>/ade/network/routes/ipv6&fullpage&noreadmore}} 
 
+{{page>ade:system:menu:start&fullpage&noreadmore}}
+{{page>ade:system:passwords:start&fullpage&noreadmore}}
+{{page>ade:system:firmware:start&fullpage&noreadmore}}
 
-{{page>/ade/network/firewall/start&fullpage&noreadmore}} 
+{{page>ade:system:firmware:options&fullpage&noreadmore}}
 
-{{page>/ade/network/firewall/general/start&fullpage&noreadmore}} 
-{{page>/ade/network/firewall/zones/start&fullpage&noreadmore}} 
-{{page>/ade/network/firewall/rules/start&fullpage&noreadmore}} 
 
+{{page>ade:system:restore:start&fullpage&noreadmore}}
 
+{{page>ade:system:restore:settings&fullpage&noreadmore}}
 
 
-{{page>/ade/network/firewall/forwarding/start&fullpage&noreadmore}} 
+{{page>ade:system:iup:start&fullpage&noreadmore}}
+{{page>ade:system:tr69:start&fullpage&noreadmore}}
+{{page>ade:system:management:start&fullpage&noreadmore}}
 
-{{page>/ade/network/firewall/forwarding/add/start&fullpage&noreadmore}} 
+{{page>ade:system:management:owsd&fullpage&noreadmore}}
+{{page>ade:system:management:ssh&fullpage&noreadmore}}
+{{page>ade:system:management:services&fullpage&noreadmore}}
 
 
-{{page>/ade/network/firewall/dmz/start&fullpage&noreadmore}} 
+{{page>ade:system:hardware:start&fullpage&noreadmore}}
 
+{{page>ade:system:hardware:buttons&fullpage&noreadmore}}
+{{page>ade:system:hardware:leds&fullpage&noreadmore}}
 
-{{page>/ade/network/parental/start&fullpage&noreadmore}} 
-{{page>/ade/network/qos/start&fullpage&noreadmore}} 
 
-{{page>/ade/network/qos/interface/start&fullpage&noreadmore}} 
-{{page>/ade/network/qos/class/start&fullpage&noreadmore}} 
+{{page>ade:system:power:start&fullpage&noreadmore}}
+{{page>ade:system:services:start&fullpage&noreadmore}}
+{{page>ade:system:restart:start&fullpage&noreadmore}}
 
 
+{{page>ade:status:start&fullpage&noreadmore}}
 
+{{page>ade:status:system:start&fullpage&noreadmore}}
 
-{{page>/ade/network/qos/group/start&fullpage&noreadmore}} 
-{{page>/ade/network/qos/classify/start&fullpage&noreadmore}} 
-{{page>/ade/network/qos/workflow/start&fullpage&noreadmore}} 
+{{page>ade:status:system:general:start&fullpage&noreadmore}}
 
+{{page>ade:status:system:general:memory&fullpage&noreadmore}}
+{{page>ade:status:system:general:storage&fullpage&noreadmore}}
 
 
+{{page>ade:status:system:processes:start&fullpage&noreadmore}}
 
+{{page>ade:status:system:processes:details&fullpage&noreadmore}}
 
 
 
 
+{{page>ade:status:network:start&fullpage&noreadmore}}
 
-{{page>/ade/network/multiwan/start&fullpage&noreadmore}} 
+{{page>ade:status:network:general:start&fullpage&noreadmore}}
+{{page>ade:status:network:clients:start&fullpage&noreadmore}}
+{{page>ade:status:network:routing:start&fullpage&noreadmore}}
 
-{{page>/ade/network/multiwan/basic&fullpage&noreadmore}} 
-{{page>/ade/network/multiwan/rules&fullpage&noreadmore}} 
-{{page>/ade/network/multiwan/faq&fullpage&noreadmore}} 
+{{page>ade:status:network:routing:arp&fullpage&noreadmore}}
+{{page>ade:status:network:routing:ipv4&fullpage&noreadmore}}
+{{page>ade:status:network:routing:ipv6&fullpage&noreadmore}}
+{{page>ade:status:network:routing:neighbors&fullpage&noreadmore}}
 
 
-{{page>/ade/network/services/start&fullpage&noreadmore}} 
+{{page>ade:status:network:upnp:start&fullpage&noreadmore}}
+{{page>ade:status:network:dhcp:start&fullpage&noreadmore}}
+{{page>ade:status:network:nat:start&fullpage&noreadmore}}
 
-{{page>/ade/network/services/printer/start&fullpage&noreadmore}} 
-{{page>/ade/network/services/minidlna/start&fullpage&noreadmore}} 
 
+{{page>ade:status:wifi:start&fullpage&noreadmore}}
 
+{{page>ade:status:wifi:general:start&fullpage&noreadmore}}
 
+{{page>ade:status:wifi:general:client&fullpage&noreadmore}}
 
 
+<a data-curid="true" href=":ade:status:wifi:scan:start&fullpage&noreadmore}}
+{{page>ade:status:wifi:steering:start&fullpage&noreadmore}}
 
-{{page>/ade/network/services/upnp/start&fullpage&noreadmore}} 
 
+{{page>ade:status:dsl:start&fullpage&noreadmore}}
+{{page>ade:status:igmp:start&fullpage&noreadmore}}
+{{page>ade:status:usb:start&fullpage&noreadmore}}
+{{page>ade:status:catv:start&fullpage&noreadmore}}
+{{page>ade:status:sfp:start&fullpage&noreadmore}}
+{{page>ade:status:diagnostics:start&fullpage&noreadmore}}
 
+{{page>ade:status:diagnostics:ping&fullpage&noreadmore}}
+{{page>ade:status:diagnostics:trace&fullpage&noreadmore}}
+{{page>ade:status:diagnostics:tp&fullpage&noreadmore}}
 
 
+{{page>ade:status:graphs:start&fullpage&noreadmore}}
 
+{{page>ade:status:graphs:load&fullpage&noreadmore}}
+{{page>ade:status:graphs:traffic&fullpage&noreadmore}}
+{{page>ade:status:graphs:connections&fullpage&noreadmore}}
 
-{{page>/ade/network/services/ddns/start&fullpage&noreadmore}} 
-{{page>/ade/network/services/iptv/start&fullpage&noreadmore}} 
-{{page>/ade/network/services/dhcp/start&fullpage&noreadmore}} 
 
+{{page>ade:status:voice:start&fullpage&noreadmore}}
+{{page>ade:status:log:start&fullpage&noreadmore}}
 
 
+{{page>ade:cli:start&fullpage&noreadmore}}
 
 
+# Glossary
 
-{{page>/ade/network/services/snmp/start&fullpage&noreadmore}} 
 
+{{page>ade:glossary:a:abr&fullpage&noreadmore}}
+{{page>ade:glossary:a:access_point&fullpage&noreadmore}}
+{{page>ade:glossary:a:acl&fullpage&noreadmore}}
+{{page>ade:glossary:a:acs&fullpage&noreadmore}}
+{{page>ade:glossary:a:adpcm&fullpage&noreadmore}}
+{{page>ade:glossary:a:adsl&fullpage&noreadmore}}
+{{page>ade:glossary:a:adspec&fullpage&noreadmore}}
+{{page>ade:glossary:a:af&fullpage&noreadmore}}
+{{page>ade:glossary:a:aftr&fullpage&noreadmore}}
+{{page>ade:glossary:a:ampdu&fullpage&noreadmore}}
+{{page>ade:glossary:a:amsdu&fullpage&noreadmore}}
+{{page>ade:glossary:a:apn&fullpage&noreadmore}}
+{{page>ade:glossary:a:arp&fullpage&noreadmore}}
+{{page>ade:glossary:a:asterisk&fullpage&noreadmore}}
+{{page>ade:glossary:a:atf&fullpage&noreadmore}}
+{{page>ade:glossary:a:atm&fullpage&noreadmore}}
+{{page>ade:glossary:a:auto_negotiation&fullpage&noreadmore}}
 
 
 
 
+{{page>ade:glossary:b:backoff&fullpage&noreadmore}}
+{{page>ade:glossary:b:bandwidth&fullpage&noreadmore}}
+{{page>ade:glossary:b:band_steering&fullpage&noreadmore}}
+{{page>ade:glossary:b:beamforming&fullpage&noreadmore}}
+{{page>ade:glossary:b:ber&fullpage&noreadmore}}
+{{page>ade:glossary:b:bitswap&fullpage&noreadmore}}
+{{page>ade:glossary:b:bit_rate&fullpage&noreadmore}}
+{{page>ade:glossary:b:bss&fullpage&noreadmore}}
 
 
 
 
+{{page>ade:glossary:c:ca&fullpage&noreadmore}}
+{{page>ade:glossary:c:catv&fullpage&noreadmore}}
+{{page>ade:glossary:c:cbr&fullpage&noreadmore}}
+{{page>ade:glossary:c:ccmp&fullpage&noreadmore}}
+{{page>ade:glossary:c:cdma&fullpage&noreadmore}}
+{{page>ade:glossary:c:cell&fullpage&noreadmore}}
+{{page>ade:glossary:c:chap&fullpage&noreadmore}}
+{{page>ade:glossary:c:checksum&fullpage&noreadmore}}
+{{page>ade:glossary:c:cipher&fullpage&noreadmore}}
+{{page>ade:glossary:c:circuit_id&fullpage&noreadmore}}
+{{page>ade:glossary:c:classful_qdisc&fullpage&noreadmore}}
+{{page>ade:glossary:c:clr&fullpage&noreadmore}}
+{{page>ade:glossary:c:codec&fullpage&noreadmore}}
+{{page>ade:glossary:c:com2sec&fullpage&noreadmore}}
+{{page>ade:glossary:c:companding&fullpage&noreadmore}}
+{{page>ade:glossary:c:congestion&fullpage&noreadmore}}
+{{page>ade:glossary:c:connection_bytes&fullpage&noreadmore}}
+{{page>ade:glossary:c:cpe&fullpage&noreadmore}}
+{{page>ade:glossary:c:cpu&fullpage&noreadmore}}
+{{page>ade:glossary:c:cpu_percentage&fullpage&noreadmore}}
+{{page>ade:glossary:c:crc&fullpage&noreadmore}}
+{{page>ade:glossary:c:cron_logging_level&fullpage&noreadmore}}
+{{page>ade:glossary:c:cs&fullpage&noreadmore}}
 
-{{page>/ade/network/services/samba/start&fullpage&noreadmore}} 
 
 
 
+{{page>ade:glossary:d:data_package&fullpage&noreadmore}}
+{{page>ade:glossary:d:ddm&fullpage&noreadmore}}
+{{page>ade:glossary:d:ddns&fullpage&noreadmore}}
+{{page>ade:glossary:d:dect&fullpage&noreadmore}}
+{{page>ade:glossary:d:delay&fullpage&noreadmore}}
+{{page>ade:glossary:d:device_flags&fullpage&noreadmore}}
+{{page>ade:glossary:d:dfs&fullpage&noreadmore}}
+{{page>ade:glossary:d:dhcp&fullpage&noreadmore}}
+{{page>ade:glossary:d:dhcp_lease&fullpage&noreadmore}}
+{{page>ade:glossary:d:dhcp_option&fullpage&noreadmore}}
+{{page>ade:glossary:d:dhcp_pool&fullpage&noreadmore}}
+{{page>ade:glossary:d:dhcp_server&fullpage&noreadmore}}
+{{page>ade:glossary:d:dial_plan&fullpage&noreadmore}}
+{{page>ade:glossary:d:diffserv&fullpage&noreadmore}}
+{{page>ade:glossary:d:dlna&fullpage&noreadmore}}
+{{page>ade:glossary:d:dmt&fullpage&noreadmore}}
+{{page>ade:glossary:d:dmz&fullpage&noreadmore}}
+{{page>ade:glossary:d:dns&fullpage&noreadmore}}
+{{page>ade:glossary:d:dns_server&fullpage&noreadmore}}
+{{page>ade:glossary:d:domain_name&fullpage&noreadmore}}
+{{page>ade:glossary:d:downlink&fullpage&noreadmore}}
+{{page>ade:glossary:d:dpcm&fullpage&noreadmore}}
+{{page>ade:glossary:d:dropping&fullpage&noreadmore}}
+{{page>ade:glossary:d:dscp&fullpage&noreadmore}}
+{{page>ade:glossary:d:dsl&fullpage&noreadmore}}
+{{page>ade:glossary:d:dsl_mode&fullpage&noreadmore}}
+{{page>ade:glossary:d:ds_lite&fullpage&noreadmore}}
+{{page>ade:glossary:d:dtmf&fullpage&noreadmore}}
+{{page>ade:glossary:d:dtmf_mode&fullpage&noreadmore}}
+{{page>ade:glossary:d:duid&fullpage&noreadmore}}
+{{page>ade:glossary:d:duplex&fullpage&noreadmore}}
+{{page>ade:glossary:d:dwell_time&fullpage&noreadmore}}
 
 
 
 
+{{page>ade:glossary:e:eapw&fullpage&noreadmore}}
+{{page>ade:glossary:e:edns&fullpage&noreadmore}}
+{{page>ade:glossary:e:eee&fullpage&noreadmore}}
+{{page>ade:glossary:e:eoa&fullpage&noreadmore}}
+{{page>ade:glossary:e:esp&fullpage&noreadmore}}
+{{page>ade:glossary:e:ethernet&fullpage&noreadmore}}
+{{page>ade:glossary:e:evdo&fullpage&noreadmore}}
 
 
 
-{{page>/ade/wifi/start&fullpage&noreadmore}} 
 
-{{page>/ade/wifi/general/start&fullpage&noreadmore}} 
+{{page>ade:glossary:f:failover&fullpage&noreadmore}}
+{{page>ade:glossary:f:fec&fullpage&noreadmore}}
+{{page>ade:glossary:f:firewall_action&fullpage&noreadmore}}
+{{page>ade:glossary:f:firewall_group&fullpage&noreadmore}}
+{{page>ade:glossary:f:firewall_zone&fullpage&noreadmore}}
+{{page>ade:glossary:f:flowspec&fullpage&noreadmore}}
+{{page>ade:glossary:f:frame&fullpage&noreadmore}}
 
-{{page>/ade/wifi/general/radios/start&fullpage&noreadmore}} 
-{{page>/ade/wifi/general/wireless/start&fullpage&noreadmore}} 
 
 
-{{page>/ade/wifi/steering/start&fullpage&noreadmore}} 
-{{page>/ade/wifi/wps/start&fullpage&noreadmore}} 
 
-{{page>/ade/wifi/wps/pin&fullpage&noreadmore}} 
-{{page>/ade/wifi/wps/reg&fullpage&noreadmore}} 
-{{page>/ade/wifi/wps/general&fullpage&noreadmore}} 
-{{page>/ade/wifi/wps/pbc&fullpage&noreadmore}} 
+{{page>ade:glossary:g:gateway&fullpage&noreadmore}}
+{{page>ade:glossary:g:gateway_metric&fullpage&noreadmore}}
+{{page>ade:glossary:g:genmask&fullpage&noreadmore}}
+{{page>ade:glossary:g:gprs&fullpage&noreadmore}}
+{{page>ade:glossary:g:gre&fullpage&noreadmore}}
+{{page>ade:glossary:g:gsm&fullpage&noreadmore}}
 
 
-{{page>/ade/wifi/mac/start&fullpage&noreadmore}} 
 
 
-{{page>/ade/system/start&fullpage&noreadmore}} 
+{{page>ade:glossary:h:hostid&fullpage&noreadmore}}
+{{page>ade:glossary:h:hostname&fullpage&noreadmore}}
+{{page>ade:glossary:h:hspa&fullpage&noreadmore}}
+{{page>ade:glossary:h:ht_capabilities&fullpage&noreadmore}}
 
-{{page>/ade/system/general/start&fullpage&noreadmore}} 
 
-{{page>/ade/system/general/time&fullpage&noreadmore}} 
-{{page>/ade/system/general/log&fullpage&noreadmore}} 
-{{page>/ade/system/general/connectivity&fullpage&noreadmore}} 
 
 
-{{page>/ade/system/menu/start&fullpage&noreadmore}} 
-{{page>/ade/system/passwords/start&fullpage&noreadmore}} 
-{{page>/ade/system/firmware/start&fullpage&noreadmore}} 
+{{page>ade:glossary:i:iaid&fullpage&noreadmore}}
+{{page>ade:glossary:i:icmp&fullpage&noreadmore}}
+{{page>ade:glossary:i:igmp&fullpage&noreadmore}}
+{{page>ade:glossary:i:igmp_proxy&fullpage&noreadmore}}
+{{page>ade:glossary:i:igmp_snooping&fullpage&noreadmore}}
+{{page>ade:glossary:i:inotify&fullpage&noreadmore}}
+{{page>ade:glossary:i:interface_protocol&fullpage&noreadmore}}
+{{page>ade:glossary:i:interface_protocol_type&fullpage&noreadmore}}
+{{page>ade:glossary:i:interface_type&fullpage&noreadmore}}
+{{page>ade:glossary:i:intserv&fullpage&noreadmore}}
+{{page>ade:glossary:i:iopsys&fullpage&noreadmore}}
+{{page>ade:glossary:i:ip&fullpage&noreadmore}}
+{{page>ade:glossary:i:ipoe&fullpage&noreadmore}}
+{{page>ade:glossary:i:iproute&fullpage&noreadmore}}
+{{page>ade:glossary:i:iptables&fullpage&noreadmore}}
+{{page>ade:glossary:i:iptv&fullpage&noreadmore}}
+{{page>ade:glossary:i:ipui&fullpage&noreadmore}}
+{{page>ade:glossary:i:ipv4&fullpage&noreadmore}}
+{{page>ade:glossary:i:ipv4_address&fullpage&noreadmore}}
+{{page>ade:glossary:i:ipv4_broadcast&fullpage&noreadmore}}
+{{page>ade:glossary:i:ipv6&fullpage&noreadmore}}
+{{page>ade:glossary:i:ipv6_address&fullpage&noreadmore}}
+{{page>ade:glossary:i:ip_address&fullpage&noreadmore}}
+{{page>ade:glossary:i:ip_datagram&fullpage&noreadmore}}
+{{page>ade:glossary:i:ip_ecn&fullpage&noreadmore}}
+{{page>ade:glossary:i:ip_in_ip&fullpage&noreadmore}}
+{{page>ade:glossary:i:ip_precedence&fullpage&noreadmore}}
+{{page>ade:glossary:i:ip_qos&fullpage&noreadmore}}
+{{page>ade:glossary:i:ip_tos&fullpage&noreadmore}}
+{{page>ade:glossary:i:iup&fullpage&noreadmore}}
 
-{{page>/ade/system/firmware/options&fullpage&noreadmore}} 
 
 
-{{page>/ade/system/restore/start&fullpage&noreadmore}} 
 
-{{page>/ade/system/restore/settings&fullpage&noreadmore}} 
+{{page>ade:glossary:j:jitter&fullpage&noreadmore}}
+{{page>ade:glossary:j:jitter_buffer&fullpage&noreadmore}}
+{{page>ade:glossary:j:juci&fullpage&noreadmore}}
 
 
-{{page>/ade/system/iup/start&fullpage&noreadmore}} 
-{{page>/ade/system/tr69/start&fullpage&noreadmore}} 
-{{page>/ade/system/management/start&fullpage&noreadmore}} 
 
-{{page>/ade/system/management/owsd&fullpage&noreadmore}} 
-{{page>/ade/system/management/ssh&fullpage&noreadmore}} 
-{{page>/ade/system/management/services&fullpage&noreadmore}} 
 
+{{page>ade:glossary:l:l2tp&fullpage&noreadmore}}
+{{page>ade:glossary:l:lan&fullpage&noreadmore}}
+{{page>ade:glossary:l:latency&fullpage&noreadmore}}
+{{page>ade:glossary:l:latency_path&fullpage&noreadmore}}
+{{page>ade:glossary:l:lcp&fullpage&noreadmore}}
+{{page>ade:glossary:l:lease_time&fullpage&noreadmore}}
+{{page>ade:glossary:l:link_speed&fullpage&noreadmore}}
+{{page>ade:glossary:l:llc&fullpage&noreadmore}}
+{{page>ade:glossary:l:load_balancing&fullpage&noreadmore}}
+{{page>ade:glossary:l:logging_level&fullpage&noreadmore}}
+{{page>ade:glossary:l:loop_attenuation&fullpage&noreadmore}}
+{{page>ade:glossary:l:lsap&fullpage&noreadmore}}
+{{page>ade:glossary:l:lte&fullpage&noreadmore}}
 
-{{page>/ade/system/hardware/start&fullpage&noreadmore}} 
 
-{{page>/ade/system/hardware/buttons&fullpage&noreadmore}} 
-{{page>/ade/system/hardware/leds&fullpage&noreadmore}} 
 
 
-{{page>/ade/system/power/start&fullpage&noreadmore}} 
-{{page>/ade/system/services/start&fullpage&noreadmore}} 
-{{page>/ade/system/restart/start&fullpage&noreadmore}} 
+{{page>ade:glossary:m:mac&fullpage&noreadmore}}
+{{page>ade:glossary:m:masquerading&fullpage&noreadmore}}
+{{page>ade:glossary:m:mbs&fullpage&noreadmore}}
+{{page>ade:glossary:m:mcr&fullpage&noreadmore}}
+{{page>ade:glossary:m:mib&fullpage&noreadmore}}
+{{page>ade:glossary:m:minidlna&fullpage&noreadmore}}
+{{page>ade:glossary:m:mpdu&fullpage&noreadmore}}
+{{page>ade:glossary:m:msdu&fullpage&noreadmore}}
+{{page>ade:glossary:m:mss&fullpage&noreadmore}}
+{{page>ade:glossary:m:mss_clamping&fullpage&noreadmore}}
+{{page>ade:glossary:m:mtu&fullpage&noreadmore}}
+{{page>ade:glossary:m:multicast&fullpage&noreadmore}}
 
 
-{{page>/ade/status/start&fullpage&noreadmore}} 
 
-{{page>/ade/status/system/start&fullpage&noreadmore}} 
 
-{{page>/ade/status/system/general/start&fullpage&noreadmore}} 
+{{page>ade:glossary:n:nat&fullpage&noreadmore}}
+{{page>ade:glossary:n:nat_loopback&fullpage&noreadmore}}
+{{page>ade:glossary:n:nat_pmp&fullpage&noreadmore}}
+{{page>ade:glossary:n:ndp&fullpage&noreadmore}}
+{{page>ade:glossary:n:neighbor_advertisement&fullpage&noreadmore}}
+{{page>ade:glossary:n:neighbor_solicitation&fullpage&noreadmore}}
+{{page>ade:glossary:n:netmask&fullpage&noreadmore}}
+{{page>ade:glossary:n:network_bridge&fullpage&noreadmore}}
+{{page>ade:glossary:n:network_interface&fullpage&noreadmore}}
+{{page>ade:glossary:n:network_profile&fullpage&noreadmore}}
+{{page>ade:glossary:n:network_redirect&fullpage&noreadmore}}
+{{page>ade:glossary:n:next_hop&fullpage&noreadmore}}
+{{page>ade:glossary:n:nic&fullpage&noreadmore}}
+{{page>ade:glossary:n:noise_level&fullpage&noreadmore}}
+{{page>ade:glossary:n:ntp&fullpage&noreadmore}}
+{{page>ade:glossary:n:ntp_mode&fullpage&noreadmore}}
 
 
 
 
+{{page>ade:glossary:o:obss_coexistence&fullpage&noreadmore}}
+{{page>ade:glossary:o:odhcpd&fullpage&noreadmore}}
+{{page>ade:glossary:o:openwrt&fullpage&noreadmore}}
+{{page>ade:glossary:o:oui&fullpage&noreadmore}}
+{{page>ade:glossary:o:overhead&fullpage&noreadmore}}
+{{page>ade:glossary:o:owsd&fullpage&noreadmore}}
 
-{{page>/ade/status/system/processes/start&fullpage&noreadmore}} 
 
 
 
+{{page>ade:glossary:p:packet&fullpage&noreadmore}}
+{{page>ade:glossary:p:packetization&fullpage&noreadmore}}
+{{page>ade:glossary:p:packet_aggregation&fullpage&noreadmore}}
+{{page>ade:glossary:p:packet_loss&fullpage&noreadmore}}
+{{page>ade:glossary:p:packet_scheduler&fullpage&noreadmore}}
+{{page>ade:glossary:p:pairing&fullpage&noreadmore}}
+{{page>ade:glossary:p:pap&fullpage&noreadmore}}
+{{page>ade:glossary:p:pbx&fullpage&noreadmore}}
+{{page>ade:glossary:p:pcm&fullpage&noreadmore}}
+{{page>ade:glossary:p:pcr&fullpage&noreadmore}}
+{{page>ade:glossary:p:periodic_inform&fullpage&noreadmore}}
+{{page>ade:glossary:p:pid&fullpage&noreadmore}}
+{{page>ade:glossary:p:ping&fullpage&noreadmore}}
+{{page>ade:glossary:p:plc&fullpage&noreadmore}}
+{{page>ade:glossary:p:policing&fullpage&noreadmore}}
+{{page>ade:glossary:p:pop&fullpage&noreadmore}}
+{{page>ade:glossary:p:port&fullpage&noreadmore}}
+{{page>ade:glossary:p:port_forwarding&fullpage&noreadmore}}
+{{page>ade:glossary:p:port_speed&fullpage&noreadmore}}
+{{page>ade:glossary:p:ppid&fullpage&noreadmore}}
+{{page>ade:glossary:p:ppp&fullpage&noreadmore}}
+{{page>ade:glossary:p:pppoa&fullpage&noreadmore}}
+{{page>ade:glossary:p:pppoe&fullpage&noreadmore}}
+{{page>ade:glossary:p:precedence&fullpage&noreadmore}}
+{{page>ade:glossary:p:prefix_delegation&fullpage&noreadmore}}
+{{page>ade:glossary:p:protocol&fullpage&noreadmore}}
+{{page>ade:glossary:p:proxy&fullpage&noreadmore}}
+{{page>ade:glossary:p:psdn&fullpage&noreadmore}}
+{{page>ade:glossary:p:psk&fullpage&noreadmore}}
+{{page>ade:glossary:p:pstn&fullpage&noreadmore}}
+{{page>ade:glossary:p:ptm&fullpage&noreadmore}}
+{{page>ade:glossary:p:ptm_prio&fullpage&noreadmore}}
+{{page>ade:glossary:p:ptpt&fullpage&noreadmore}}
 
 
 
-{{page>/ade/status/network/start&fullpage&noreadmore}} 
 
-{{page>/ade/status/network/general/start&fullpage&noreadmore}} 
-{{page>/ade/status/network/clients/start&fullpage&noreadmore}} 
-{{page>/ade/status/network/routing/start&fullpage&noreadmore}} 
+{{page>ade:glossary:q:qdisc&fullpage&noreadmore}}
+{{page>ade:glossary:q:qos&fullpage&noreadmore}}
+{{page>ade:glossary:q:qos_class&fullpage&noreadmore}}
+{{page>ade:glossary:q:qos_filter&fullpage&noreadmore}}
+{{page>ade:glossary:q:qos_group&fullpage&noreadmore}}
+{{page>ade:glossary:q:qos_mark&fullpage&noreadmore}}
+{{page>ade:glossary:q:qos_scheduling&fullpage&noreadmore}}
+{{page>ade:glossary:q:quantization&fullpage&noreadmore}}
 
 
 
 
+{{page>ade:glossary:r:radvd&fullpage&noreadmore}}
+{{page>ade:glossary:r:remote_id&fullpage&noreadmore}}
+{{page>ade:glossary:r:rfc1918&fullpage&noreadmore}}
+{{page>ade:glossary:r:rfc2275&fullpage&noreadmore}}
+{{page>ade:glossary:r:rom&fullpage&noreadmore}}
+{{page>ade:glossary:r:root_qdisc&fullpage&noreadmore}}
+{{page>ade:glossary:r:route&fullpage&noreadmore}}
+{{page>ade:glossary:r:router_advertisment&fullpage&noreadmore}}
+{{page>ade:glossary:r:router_solicitation&fullpage&noreadmore}}
+{{page>ade:glossary:r:route_metric&fullpage&noreadmore}}
+{{page>ade:glossary:r:routing&fullpage&noreadmore}}
+{{page>ade:glossary:r:routing_table&fullpage&noreadmore}}
+{{page>ade:glossary:r:rspec&fullpage&noreadmore}}
+{{page>ade:glossary:r:rssi&fullpage&noreadmore}}
+{{page>ade:glossary:r:rss_memory&fullpage&noreadmore}}
+{{page>ade:glossary:r:rsvp&fullpage&noreadmore}}
+{{page>ade:glossary:r:rtp&fullpage&noreadmore}}
+{{page>ade:glossary:r:rtsp&fullpage&noreadmore}}
+{{page>ade:glossary:r:rxc&fullpage&noreadmore}}
+{{page>ade:glossary:r:rxc_ps&fullpage&noreadmore}}
+{{page>ade:glossary:r:rxc_pspss&fullpage&noreadmore}}
+{{page>ade:glossary:r:rxc_psqt&fullpage&noreadmore}}
 
 
 
-{{page>/ade/status/network/upnp/start&fullpage&noreadmore}} 
-{{page>/ade/status/network/dhcp/start&fullpage&noreadmore}} 
-{{page>/ade/status/network/nat/start&fullpage&noreadmore}} 
 
+{{page>ade:glossary:s:samba&fullpage&noreadmore}}
+{{page>ade:glossary:s:scr&fullpage&noreadmore}}
+{{page>ade:glossary:s:service_type&fullpage&noreadmore}}
+{{page>ade:glossary:s:sfp&fullpage&noreadmore}}
+{{page>ade:glossary:s:shaping&fullpage&noreadmore}}
+{{page>ade:glossary:s:sip&fullpage&noreadmore}}
+{{page>ade:glossary:s:sip_account&fullpage&noreadmore}}
+{{page>ade:glossary:s:sip_address&fullpage&noreadmore}}
+{{page>ade:glossary:s:sip_auth&fullpage&noreadmore}}
+{{page>ade:glossary:s:sip_codec&fullpage&noreadmore}}
+{{page>ade:glossary:s:sip_domain&fullpage&noreadmore}}
+{{page>ade:glossary:s:sip_realm&fullpage&noreadmore}}
+{{page>ade:glossary:s:sip_reg_interval&fullpage&noreadmore}}
+{{page>ade:glossary:s:sip_server&fullpage&noreadmore}}
+{{page>ade:glossary:s:sip_user&fullpage&noreadmore}}
+{{page>ade:glossary:s:snap&fullpage&noreadmore}}
+{{page>ade:glossary:s:snmp&fullpage&noreadmore}}
+{{page>ade:glossary:s:snmp_agent&fullpage&noreadmore}}
+{{page>ade:glossary:s:snr&fullpage&noreadmore}}
+{{page>ade:glossary:s:snr_margin&fullpage&noreadmore}}
+{{page>ade:glossary:s:spp&fullpage&noreadmore}}
+{{page>ade:glossary:s:sra&fullpage&noreadmore}}
+{{page>ade:glossary:s:srtp&fullpage&noreadmore}}
+{{page>ade:glossary:s:srv&fullpage&noreadmore}}
+{{page>ade:glossary:s:ssdp&fullpage&noreadmore}}
+{{page>ade:glossary:s:ssh&fullpage&noreadmore}}
+{{page>ade:glossary:s:ssid&fullpage&noreadmore}}
+{{page>ade:glossary:s:ssl&fullpage&noreadmore}}
+{{page>ade:glossary:s:ssm&fullpage&noreadmore}}
+{{page>ade:glossary:s:state_code&fullpage&noreadmore}}
+{{page>ade:glossary:s:static_address&fullpage&noreadmore}}
+{{page>ade:glossary:s:static_route&fullpage&noreadmore}}
+{{page>ade:glossary:s:stun&fullpage&noreadmore}}
+{{page>ade:glossary:s:subnet_mask&fullpage&noreadmore}}
+{{page>ade:glossary:s:subscriber_id&fullpage&noreadmore}}
 
-{{page>/ade/status/wifi/start&fullpage&noreadmore}} 
 
-{{page>/ade/status/wifi/general/start&fullpage&noreadmore}} 
 
 
+{{page>ade:glossary:t:tcp&fullpage&noreadmore}}
+{{page>ade:glossary:t:tcp_flags&fullpage&noreadmore}}
+{{page>ade:glossary:t:td_scdma&fullpage&noreadmore}}
+{{page>ade:glossary:t:tkip&fullpage&noreadmore}}
+{{page>ade:glossary:t:tls&fullpage&noreadmore}}
+{{page>ade:glossary:t:token_bucket&fullpage&noreadmore}}
+{{page>ade:glossary:t:tpc&fullpage&noreadmore}}
+{{page>ade:glossary:t:tptest&fullpage&noreadmore}}
+{{page>ade:glossary:t:tr069&fullpage&noreadmore}}
+{{page>ade:glossary:t:traceroute&fullpage&noreadmore}}
+{{page>ade:glossary:t:tspec&fullpage&noreadmore}}
+{{page>ade:glossary:t:ttl&fullpage&noreadmore}}
 
 
-{{page>/ade/status/wifi/scan/start&fullpage&noreadmore}} 
-{{page>/ade/status/wifi/steering/start&fullpage&noreadmore}} 
 
 
-{{page>/ade/status/dsl/start&fullpage&noreadmore}} 
-{{page>/ade/status/igmp/start&fullpage&noreadmore}} 
-{{page>/ade/status/usb/start&fullpage&noreadmore}} 
-{{page>/ade/status/catv/start&fullpage&noreadmore}} 
-{{page>/ade/status/sfp/start&fullpage&noreadmore}} 
-{{page>/ade/status/diagnostics/start&fullpage&noreadmore}} 
+{{page>ade:glossary:u:uapsd&fullpage&noreadmore}}
+{{page>ade:glossary:u:ubifs&fullpage&noreadmore}}
+{{page>ade:glossary:u:ubr&fullpage&noreadmore}}
+{{page>ade:glossary:u:ubus&fullpage&noreadmore}}
+{{page>ade:glossary:u:udp&fullpage&noreadmore}}
+{{page>ade:glossary:u:umts&fullpage&noreadmore}}
+{{page>ade:glossary:u:unicast&fullpage&noreadmore}}
+{{page>ade:glossary:u:unmanaged&fullpage&noreadmore}}
+{{page>ade:glossary:u:uplink&fullpage&noreadmore}}
+{{page>ade:glossary:u:upnp&fullpage&noreadmore}}
+{{page>ade:glossary:u:usb&fullpage&noreadmore}}
+{{page>ade:glossary:u:user_class&fullpage&noreadmore}}
+{{page>ade:glossary:u:uuid&fullpage&noreadmore}}
 
-{{page>/ade/status/diagnostics/ping&fullpage&noreadmore}} 
-{{page>/ade/status/diagnostics/trace&fullpage&noreadmore}} 
-{{page>/ade/status/diagnostics/tp&fullpage&noreadmore}} 
 
 
-{{page>/ade/status/voice/start&fullpage&noreadmore}} 
-{{page>/ade/status/log/start&fullpage&noreadmore}} 
 
+{{page>ade:glossary:v:vbr&fullpage&noreadmore}}
+{{page>ade:glossary:v:vci&fullpage&noreadmore}}
+{{page>ade:glossary:v:vc_mux&fullpage&noreadmore}}
+{{page>ade:glossary:v:vdsl&fullpage&noreadmore}}
+{{page>ade:glossary:v:vendor_id&fullpage&noreadmore}}
+{{page>ade:glossary:v:virtual_interface&fullpage&noreadmore}}
+{{page>ade:glossary:v:vlan&fullpage&noreadmore}}
+{{page>ade:glossary:v:voip&fullpage&noreadmore}}
+{{page>ade:glossary:v:vpi&fullpage&noreadmore}}
+{{page>ade:glossary:v:vpn&fullpage&noreadmore}}
+{{page>ade:glossary:v:vsz&fullpage&noreadmore}}
+{{page>ade:glossary:v:vsz_percentage&fullpage&noreadmore}}
 
- 
 
-{{page>/glossary/a/acs&fullpage&noreadmore}} 
-{{page>/glossary/a/arp&fullpage&noreadmore}} 
-{{page>/glossary/a/atm&fullpage&noreadmore}} 
-{{page>/glossary/a/af&fullpage&noreadmore}} 
-{{page>/glossary/a/auto_negotiation&fullpage&noreadmore}} 
-{{page>/glossary/a/acl&fullpage&noreadmore}} 
-{{page>/glossary/a/apn&fullpage&noreadmore}} 
-{{page>/glossary/a/adspec&fullpage&noreadmore}} 
-{{page>/glossary/a/ampdu&fullpage&noreadmore}} 
-{{page>/glossary/a/asterisk&fullpage&noreadmore}} 
-{{page>/glossary/a/amsdu&fullpage&noreadmore}} 
-{{page>/glossary/a/adpcm&fullpage&noreadmore}} 
-{{page>/glossary/a/adsl&fullpage&noreadmore}} 
-{{page>/glossary/a/access_point&fullpage&noreadmore}} 
-{{page>/glossary/a/abr&fullpage&noreadmore}} 
-{{page>/glossary/a/aftr&fullpage&noreadmore}} 
 
 
- 
+{{page>ade:glossary:w:wan&fullpage&noreadmore}}
+{{page>ade:glossary:w:wcdma&fullpage&noreadmore}}
+{{page>ade:glossary:w:wep&fullpage&noreadmore}}
+{{page>ade:glossary:w:wfq&fullpage&noreadmore}}
+{{page>ade:glossary:w:wifi&fullpage&noreadmore}}
+{{page>ade:glossary:w:wifi_band&fullpage&noreadmore}}
+{{page>ade:glossary:w:wifi_channel&fullpage&noreadmore}}
+{{page>ade:glossary:w:wifi_encryption&fullpage&noreadmore}}
+{{page>ade:glossary:w:wifi_interface&fullpage&noreadmore}}
+{{page>ade:glossary:w:wifi_key&fullpage&noreadmore}}
+{{page>ade:glossary:w:wifi_mode&fullpage&noreadmore}}
+{{page>ade:glossary:w:wireless_radio&fullpage&noreadmore}}
+{{page>ade:glossary:w:wlan&fullpage&noreadmore}}
+{{page>ade:glossary:w:wmm&fullpage&noreadmore}}
+{{page>ade:glossary:w:wmm_ack&fullpage&noreadmore}}
+{{page>ade:glossary:w:wmm_power&fullpage&noreadmore}}
+{{page>ade:glossary:w:wpa2_enterprise&fullpage&noreadmore}}
+{{page>ade:glossary:w:wpa2_personal&fullpage&noreadmore}}
+{{page>ade:glossary:w:wpa_enterprise&fullpage&noreadmore}}
+{{page>ade:glossary:w:wpa_personal&fullpage&noreadmore}}
+{{page>ade:glossary:w:wps&fullpage&noreadmore}}
+{{page>ade:glossary:w:wwan&fullpage&noreadmore}}
 
-{{page>/glossary/b/band_steering&fullpage&noreadmore}} 
-{{page>/glossary/b/ber&fullpage&noreadmore}} 
-{{page>/glossary/b/bitswap&fullpage&noreadmore}} 
-{{page>/glossary/b/beamforming&fullpage&noreadmore}} 
-{{page>/glossary/b/backoff&fullpage&noreadmore}} 
-{{page>/glossary/b/bandwidth&fullpage&noreadmore}} 
-{{page>/glossary/b/bit_rate&fullpage&noreadmore}} 
-{{page>/glossary/b/bss&fullpage&noreadmore}} 
 
 
- 
 
-{{page>/glossary/c/companding&fullpage&noreadmore}} 
-{{page>/glossary/c/crc&fullpage&noreadmore}} 
-{{page>/glossary/c/ca&fullpage&noreadmore}} 
-{{page>/glossary/c/cpe&fullpage&noreadmore}} 
-{{page>/glossary/c/cell&fullpage&noreadmore}} 
-{{page>/glossary/c/congestion&fullpage&noreadmore}} 
-{{page>/glossary/c/clr&fullpage&noreadmore}} 
-{{page>/glossary/c/connection_bytes&fullpage&noreadmore}} 
-{{page>/glossary/c/classful_qdisc&fullpage&noreadmore}} 
-{{page>/glossary/c/cs&fullpage&noreadmore}} 
-{{page>/glossary/c/cpu&fullpage&noreadmore}} 
-{{page>/glossary/c/checksum&fullpage&noreadmore}} 
-{{page>/glossary/c/ccmp&fullpage&noreadmore}} 
-{{page>/glossary/c/cdma&fullpage&noreadmore}} 
-{{page>/glossary/c/catv&fullpage&noreadmore}} 
-{{page>/glossary/c/cbr&fullpage&noreadmore}} 
-{{page>/glossary/c/cipher&fullpage&noreadmore}} 
-{{page>/glossary/c/codec&fullpage&noreadmore}} 
-{{page>/glossary/c/cpu_percentage&fullpage&noreadmore}} 
-{{page>/glossary/c/com2sec&fullpage&noreadmore}} 
-{{page>/glossary/c/cron_logging_level&fullpage&noreadmore}} 
-{{page>/glossary/c/chap&fullpage&noreadmore}} 
+{{page>ade:glossary:0:2g&fullpage&noreadmore}}
+{{page>ade:glossary:0:3g&fullpage&noreadmore}}
+{{page>ade:glossary:0:4g&fullpage&noreadmore}}
+{{page>ade:glossary:0:6in4&fullpage&noreadmore}}
+{{page>ade:glossary:0:6rd&fullpage&noreadmore}}
+{{page>ade:glossary:0:6to4&fullpage&noreadmore}}
+{{page>ade:glossary:0:802_1p&fullpage&noreadmore}}
+{{page>ade:glossary:0:802_1q&fullpage&noreadmore}}
+{{page>ade:glossary:0:802_11a&fullpage&noreadmore}}
+{{page>ade:glossary:0:802_11ac&fullpage&noreadmore}}
+{{page>ade:glossary:0:802_11b&fullpage&noreadmore}}
+{{page>ade:glossary:0:802_11bg&fullpage&noreadmore}}
+{{page>ade:glossary:0:802_11g&fullpage&noreadmore}}
+{{page>ade:glossary:0:802_11n&fullpage&noreadmore}}
 
 
- 
-
-{{page>/glossary/d/ds_lite&fullpage&noreadmore}} 
-{{page>/glossary/d/dial_plan&fullpage&noreadmore}} 
-{{page>/glossary/d/device_flags&fullpage&noreadmore}} 
-{{page>/glossary/d/domain_name&fullpage&noreadmore}} 
-{{page>/glossary/d/delay&fullpage&noreadmore}} 
-{{page>/glossary/d/dwell_time&fullpage&noreadmore}} 
-{{page>/glossary/d/dlna&fullpage&noreadmore}} 
-{{page>/glossary/d/dns&fullpage&noreadmore}} 
-{{page>/glossary/d/dhcp&fullpage&noreadmore}} 
-{{page>/glossary/d/dhcp_lease&fullpage&noreadmore}} 
-{{page>/glossary/d/dhcp_pool&fullpage&noreadmore}} 
-{{page>/glossary/d/dhcp_option&fullpage&noreadmore}}
-{{page>/glossary/d/downlink&fullpage&noreadmore}} 
-{{page>/glossary/d/dmz&fullpage&noreadmore}} 
-{{page>/glossary/d/dsl&fullpage&noreadmore}} 
-{{page>/glossary/d/dmt&fullpage&noreadmore}} 
-{{page>/glossary/d/dhcp_server&fullpage&noreadmore}} 
-{{page>/glossary/d/ddns&fullpage&noreadmore}} 
-{{page>/glossary/d/dtmf&fullpage&noreadmore}} 
-{{page>/glossary/d/dsl_mode&fullpage&noreadmore}} 
-{{page>/glossary/d/dns_server&fullpage&noreadmore}} 
-{{page>/glossary/d/dscp&fullpage&noreadmore}} 
-{{page>/glossary/d/diffserv&fullpage&noreadmore}} 
-{{page>/glossary/d/duplex&fullpage&noreadmore}} 
-{{page>/glossary/d/dfs&fullpage&noreadmore}} 
-{{page>/glossary/d/duid&fullpage&noreadmore}} 
-{{page>/glossary/d/data_package&fullpage&noreadmore}} 
-{{page>/glossary/d/dect&fullpage&noreadmore}} 
-{{page>/glossary/d/dpcm&fullpage&noreadmore}} 
-{{page>/glossary/d/dropping&fullpage&noreadmore}} 
-{{page>/glossary/d/ddm&fullpage&noreadmore}} 
-{{page>/glossary/d/dtmf_mode&fullpage&noreadmore}} 
-
-
- 
-
-{{page>/glossary/e/eapw&fullpage&noreadmore}} 
-{{page>/glossary/e/eee&fullpage&noreadmore}} 
-{{page>/glossary/e/eoa&fullpage&noreadmore}} 
-{{page>/glossary/e/esp&fullpage&noreadmore}} 
-{{page>/glossary/e/ethernet&fullpage&noreadmore}} 
-{{page>/glossary/e/evdo&fullpage&noreadmore}} 
-
-
- 
-
-{{page>/glossary/f/firewall_zone&fullpage&noreadmore}} 
-{{page>/glossary/f/failover&fullpage&noreadmore}} 
-{{page>/glossary/f/firewall_group&fullpage&noreadmore}} 
-{{page>/glossary/f/firewall_action&fullpage&noreadmore}} 
-{{page>/glossary/f/flowspec&fullpage&noreadmore}} 
-{{page>/glossary/f/frame&fullpage&noreadmore}} 
-{{page>/glossary/f/fec&fullpage&noreadmore}} 
-
-
- 
-
-{{page>/glossary/g/gsm&fullpage&noreadmore}} 
-{{page>/glossary/g/gre&fullpage&noreadmore}} 
-{{page>/glossary/g/genmask&fullpage&noreadmore}} 
-{{page>/glossary/g/gateway&fullpage&noreadmore}} 
-{{page>/glossary/g/gprs&fullpage&noreadmore}} 
-{{page>/glossary/g/gateway_metric&fullpage&noreadmore}} 
-
-
- 
-
-{{page>/glossary/h/hostid&fullpage&noreadmore}} 
-{{page>/glossary/h/hostname&fullpage&noreadmore}} 
-{{page>/glossary/h/ht_capabilities&fullpage&noreadmore}} 
-{{page>/glossary/h/hspa&fullpage&noreadmore}} 
-
-
- 
-
-{{page>/glossary/i/iup&fullpage&noreadmore}} 
-{{page>/glossary/i/icmp&fullpage&noreadmore}} 
-{{page>/glossary/i/ip_datagram&fullpage&noreadmore}} 
-{{page>/glossary/i/igmp_snooping&fullpage&noreadmore}} 
-{{page>/glossary/i/iproute&fullpage&noreadmore}} 
-{{page>/glossary/i/ip_in_ip&fullpage&noreadmore}} 
-{{page>/glossary/i/ipui&fullpage&noreadmore}} 
-{{page>/glossary/i/ip_ecn&fullpage&noreadmore}} 
-{{page>/glossary/i/ip_address&fullpage&noreadmore}} 
-{{page>/glossary/i/ip_qos&fullpage&noreadmore}} 
-{{page>/glossary/i/interface_protocol_type&fullpage&noreadmore}} 
-{{page>/glossary/i/ipoe&fullpage&noreadmore}} 
-{{page>/glossary/i/igmp&fullpage&noreadmore}} 
-{{page>/glossary/i/ipv4_broadcast&fullpage&noreadmore}} 
-{{page>/glossary/i/ipv4_address&fullpage&noreadmore}} 
-{{page>/glossary/i/inotify&fullpage&noreadmore}} 
-{{page>/glossary/i/interface_protocol&fullpage&noreadmore}} 
-{{page>/glossary/i/interface_type&fullpage&noreadmore}} 
-{{page>/glossary/i/ipv4&fullpage&noreadmore}} 
-{{page>/glossary/i/iopsys&fullpage&noreadmore}} 
-{{page>/glossary/i/ip_precedence&fullpage&noreadmore}} 
-{{page>/glossary/i/ip&fullpage&noreadmore}} 
-{{page>/glossary/i/intserv&fullpage&noreadmore}} 
-{{page>/glossary/i/iptv&fullpage&noreadmore}} 
-{{page>/glossary/i/ipv6_address&fullpage&noreadmore}} 
-{{page>/glossary/i/iaid&fullpage&noreadmore}} 
-{{page>/glossary/i/igmp_proxy&fullpage&noreadmore}} 
-{{page>/glossary/i/ip_tos&fullpage&noreadmore}} 
-{{page>/glossary/i/ipv6&fullpage&noreadmore}} 
-{{page>/glossary/i/iptables&fullpage&noreadmore}} 
-
-
-
-
-
-
- 
-
-{{page>/glossary/j/jitter&fullpage&noreadmore}} 
-{{page>/glossary/j/jitter_buffer&fullpage&noreadmore}} 
-{{page>/glossary/j/juci&fullpage&noreadmore}} 
-
-
- 
-
-{{page>/glossary/l/lte&fullpage&noreadmore}} 
-{{page>/glossary/l/lcp&fullpage&noreadmore}} 
-{{page>/glossary/l/llc&fullpage&noreadmore}} 
-{{page>/glossary/l/lease_time&fullpage&noreadmore}} 
-{{page>/glossary/l/logging_level&fullpage&noreadmore}} 
-{{page>/glossary/l/lsap&fullpage&noreadmore}} 
-{{page>/glossary/l/l2tp&fullpage&noreadmore}} 
-{{page>/glossary/l/latency&fullpage&noreadmore}} 
-{{page>/glossary/l/lan&fullpage&noreadmore}} 
-{{page>/glossary/l/loop_attenuation&fullpage&noreadmore}} 
-{{page>/glossary/l/latency_path&fullpage&noreadmore}} 
-{{page>/glossary/l/load_balancing&fullpage&noreadmore}} 
-{{page>/glossary/l/link_speed&fullpage&noreadmore}} 
-
-
- 
-
-{{page>/glossary/m/mcr&fullpage&noreadmore}} 
-{{page>/glossary/m/multicast&fullpage&noreadmore}} 
-{{page>/glossary/m/mpdu&fullpage&noreadmore}} 
-{{page>/glossary/m/mib&fullpage&noreadmore}} 
-{{page>/glossary/m/masquerading&fullpage&noreadmore}} 
-{{page>/glossary/m/minidlna&fullpage&noreadmore}} 
-{{page>/glossary/m/mtu&fullpage&noreadmore}} 
-{{page>/glossary/m/mac&fullpage&noreadmore}} 
-{{page>/glossary/m/mss_clamping&fullpage&noreadmore}} 
-{{page>/glossary/m/msdu&fullpage&noreadmore}} 
-{{page>/glossary/m/mbs&fullpage&noreadmore}} 
-{{page>/glossary/m/mss&fullpage&noreadmore}} 
-
-
- 
-
-{{page>/glossary/n/nic&fullpage&noreadmore}} 
-{{page>/glossary/n/netmask&fullpage&noreadmore}} 
-{{page>/glossary/n/ntp&fullpage&noreadmore}} 
-{{page>/glossary/n/network_interface&fullpage&noreadmore}} 
-{{page>/glossary/n/nat_loopback&fullpage&noreadmore}} 
-{{page>/glossary/n/network_profile&fullpage&noreadmore}} 
-{{page>/glossary/n/nat&fullpage&noreadmore}} 
-{{page>/glossary/n/next_hop&fullpage&noreadmore}} 
-{{page>/glossary/n/ntp_mode&fullpage&noreadmore}} 
-{{page>/glossary/n/nat_pmp&fullpage&noreadmore}} 
-{{page>/glossary/n/noise_level&fullpage&noreadmore}} 
-{{page>/glossary/n/network_bridge&fullpage&noreadmore}} 
-
-
- 
-
-{{page>/glossary/o/obss_coexistence&fullpage&noreadmore}} 
-{{page>/glossary/o/openwrt&fullpage&noreadmore}} 
-{{page>/glossary/o/owsd&fullpage&noreadmore}} 
-{{page>/glossary/o/overhead&fullpage&noreadmore}} 
-{{page>/glossary/o/oui&fullpage&noreadmore}} 
-
-
- 
-
-{{page>/glossary/p/port&fullpage&noreadmore}} 
-{{page>/glossary/p/packet_scheduler&fullpage&noreadmore}} 
-{{page>/glossary/p/port_forwarding&fullpage&noreadmore}} 
-{{page>/glossary/p/ptm_prio&fullpage&noreadmore}} 
-{{page>/glossary/p/packet_loss&fullpage&noreadmore}} 
-{{page>/glossary/p/precedence&fullpage&noreadmore}} 
-{{page>/glossary/p/proxy&fullpage&noreadmore}} 
-{{page>/glossary/p/periodic_inform&fullpage&noreadmore}} 
-{{page>/glossary/p/ptm&fullpage&noreadmore}} 
-{{page>/glossary/p/policing&fullpage&noreadmore}} 
-{{page>/glossary/p/packet_aggregation&fullpage&noreadmore}} 
-{{page>/glossary/p/pairing&fullpage&noreadmore}} 
-{{page>/glossary/p/plc&fullpage&noreadmore}} 
-{{page>/glossary/p/pcr&fullpage&noreadmore}} 
-{{page>/glossary/p/ptpt&fullpage&noreadmore}} 
-{{page>/glossary/p/port_speed&fullpage&noreadmore}} 
-{{page>/glossary/p/pop&fullpage&noreadmore}} 
-{{page>/glossary/p/ping&fullpage&noreadmore}} 
-{{page>/glossary/p/ppp&fullpage&noreadmore}} 
-{{page>/glossary/p/psk&fullpage&noreadmore}} 
-{{page>/glossary/p/pppoa&fullpage&noreadmore}} 
-{{page>/glossary/p/protocol&fullpage&noreadmore}} 
-{{page>/glossary/p/pap&fullpage&noreadmore}} 
-{{page>/glossary/p/ppid&fullpage&noreadmore}} 
-{{page>/glossary/p/prefix_delegation&fullpage&noreadmore}} 
-{{page>/glossary/p/psdn&fullpage&noreadmore}} 
-{{page>/glossary/p/pppoe&fullpage&noreadmore}} 
-{{page>/glossary/p/pstn&fullpage&noreadmore}} 
-{{page>/glossary/p/packetization&fullpage&noreadmore}} 
-{{page>/glossary/p/pcm&fullpage&noreadmore}} 
-{{page>/glossary/p/pbx&fullpage&noreadmore}} 
-{{page>/glossary/p/pid&fullpage&noreadmore}} 
-{{page>/glossary/p/packet&fullpage&noreadmore}} 
-
-
- 
-
-{{page>/glossary/q/quantization&fullpage&noreadmore}} 
-{{page>/glossary/q/qos_mark&fullpage&noreadmore}} 
-{{page>/glossary/q/qos&fullpage&noreadmore}} 
-{{page>/glossary/q/qos_filter&fullpage&noreadmore}} 
-{{page>/glossary/q/qos_scheduling&fullpage&noreadmore}} 
-{{page>/glossary/q/qos_class&fullpage&noreadmore}} 
-{{page>/glossary/q/qos_group&fullpage&noreadmore}} 
-{{page>/glossary/q/qdisc&fullpage&noreadmore}} 
-
-
- 
-
-{{page>/glossary/r/routing&fullpage&noreadmore}} 
-{{page>/glossary/r/rtsp&fullpage&noreadmore}} 
-{{page>/glossary/r/route&fullpage&noreadmore}} 
-{{page>/glossary/r/rxc_psqt&fullpage&noreadmore}} 
-{{page>/glossary/r/root_qdisc&fullpage&noreadmore}} 
-{{page>/glossary/r/routing_table&fullpage&noreadmore}} 
-{{page>/glossary/r/route_metric&fullpage&noreadmore}} 
-{{page>/glossary/r/rxc_ps&fullpage&noreadmore}} 
-{{page>/glossary/r/rspec&fullpage&noreadmore}} 
-{{page>/glossary/r/rfc2275&fullpage&noreadmore}} 
-{{page>/glossary/r/rom&fullpage&noreadmore}} 
-{{page>/glossary/r/rfc1918&fullpage&noreadmore}} 
-{{page>/glossary/r/rxc&fullpage&noreadmore}} 
-{{page>/glossary/r/rssi&fullpage&noreadmore}} 
-{{page>/glossary/r/rsvp&fullpage&noreadmore}} 
-{{page>/glossary/r/rss_memory&fullpage&noreadmore}} 
-{{page>/glossary/r/rxc_pspss&fullpage&noreadmore}} 
-{{page>/glossary/r/rtp&fullpage&noreadmore}} 
-
-
- 
-
-{{page>/glossary/s/shaping&fullpage&noreadmore}} 
-{{page>/glossary/s/static_route&fullpage&noreadmore}} 
-{{page>/glossary/s/static_address&fullpage&noreadmore}} 
-{{page>/glossary/s/snr&fullpage&noreadmore}} 
-{{page>/glossary/s/sra&fullpage&noreadmore}} 
-{{page>/glossary/s/srv&fullpage&noreadmore}} 
-{{page>/glossary/s/snmp&fullpage&noreadmore}} 
-{{page>/glossary/s/snap&fullpage&noreadmore}} 
-{{page>/glossary/s/ssid&fullpage&noreadmore}} 
-{{page>/glossary/s/sip_realm&fullpage&noreadmore}} 
-{{page>/glossary/s/snr_margin&fullpage&noreadmore}} 
-{{page>/glossary/s/stun&fullpage&noreadmore}} 
-{{page>/glossary/s/sip_reg_interval&fullpage&noreadmore}} 
-{{page>/glossary/s/samba&fullpage&noreadmore}} 
-{{page>/glossary/s/ssdp&fullpage&noreadmore}} 
-{{page>/glossary/s/sip&fullpage&noreadmore}} 
-{{page>/glossary/s/state_code&fullpage&noreadmore}} 
-{{page>/glossary/s/ssm&fullpage&noreadmore}} 
-{{page>/glossary/s/sip_server&fullpage&noreadmore}} 
-{{page>/glossary/s/service_type&fullpage&noreadmore}} 
-{{page>/glossary/s/srtp&fullpage&noreadmore}} 
-{{page>/glossary/s/sip_account&fullpage&noreadmore}} 
-{{page>/glossary/s/ssh&fullpage&noreadmore}} 
-{{page>/glossary/s/subnet_mask&fullpage&noreadmore}} 
-{{page>/glossary/s/sip_domain&fullpage&noreadmore}} 
-{{page>/glossary/s/sip_user&fullpage&noreadmore}} 
-{{page>/glossary/s/sip_address&fullpage&noreadmore}} 
-{{page>/glossary/s/sip_codec&fullpage&noreadmore}} 
-{{page>/glossary/s/sfp&fullpage&noreadmore}} 
-{{page>/glossary/s/scr&fullpage&noreadmore}} 
-{{page>/glossary/s/spp&fullpage&noreadmore}} 
-{{page>/glossary/s/ssl&fullpage&noreadmore}} 
-{{page>/glossary/s/sip_auth&fullpage&noreadmore}} 
-{{page>/glossary/s/snmp_agent&fullpage&noreadmore}} 
-
-
- 
-
-{{page>/glossary/t/tr069&fullpage&noreadmore}} 
-{{page>/glossary/t/traceroute&fullpage&noreadmore}} 
-{{page>/glossary/t/tptest&fullpage&noreadmore}} 
-{{page>/glossary/t/tls&fullpage&noreadmore}} 
-{{page>/glossary/t/td_scdma&fullpage&noreadmore}} 
-{{page>/glossary/t/tcp&fullpage&noreadmore}} 
-{{page>/glossary/t/ttl&fullpage&noreadmore}} 
-{{page>/glossary/t/token_bucket&fullpage&noreadmore}} 
-{{page>/glossary/t/tcp_flags&fullpage&noreadmore}} 
-{{page>/glossary/t/tpc&fullpage&noreadmore}} 
-{{page>/glossary/t/tkip&fullpage&noreadmore}} 
-{{page>/glossary/t/tspec&fullpage&noreadmore}} 
-
-
- 
-
-{{page>/glossary/u/udp&fullpage&noreadmore}} 
-{{page>/glossary/u/unicast&fullpage&noreadmore}} 
-{{page>/glossary/u/ubifs&fullpage&noreadmore}} 
-{{page>/glossary/u/uapsd&fullpage&noreadmore}} 
-{{page>/glossary/u/upnp&fullpage&noreadmore}} 
-{{page>/glossary/u/usb&fullpage&noreadmore}} 
-{{page>/glossary/u/ubr&fullpage&noreadmore}} 
-{{page>/glossary/u/umts&fullpage&noreadmore}} 
-{{page>/glossary/u/uplink&fullpage&noreadmore}} 
-{{page>/glossary/u/uuid&fullpage&noreadmore}} 
-{{page>/glossary/u/unmanaged&fullpage&noreadmore}} 
-
-
- 
-
-{{page>/glossary/v/voip&fullpage&noreadmore}} 
-{{page>/glossary/v/vc_mux&fullpage&noreadmore}} 
-{{page>/glossary/v/vci&fullpage&noreadmore}} 
-{{page>/glossary/v/vsz_percentage&fullpage&noreadmore}} 
-{{page>/glossary/v/vpi&fullpage&noreadmore}} 
-{{page>/glossary/v/vlan&fullpage&noreadmore}} 
-{{page>/glossary/v/vdsl&fullpage&noreadmore}} 
-{{page>/glossary/v/vpn&fullpage&noreadmore}} 
-{{page>/glossary/v/vbr&fullpage&noreadmore}} 
-{{page>/glossary/v/vsz&fullpage&noreadmore}} 
-{{page>/glossary/v/virtual_interface&fullpage&noreadmore}} 
-
-
- 
-
-{{page>/glossary/w/wfq&fullpage&noreadmore}} 
-{{page>/glossary/w/wep&fullpage&noreadmore}} 
-{{page>/glossary/w/wifi_mode&fullpage&noreadmore}} 
-{{page>/glossary/w/wpa2_personal&fullpage&noreadmore}} 
-{{page>/glossary/w/wifi_key&fullpage&noreadmore}} 
-{{page>/glossary/w/wireless_radio&fullpage&noreadmore}} 
-{{page>/glossary/w/wmm&fullpage&noreadmore}} 
-{{page>/glossary/w/wpa_personal&fullpage&noreadmore}} 
-{{page>/glossary/w/wcdma&fullpage&noreadmore}} 
-{{page>/glossary/w/wifi_encryption&fullpage&noreadmore}} 
-{{page>/glossary/w/wpa2_enterprise&fullpage&noreadmore}} 
-{{page>/glossary/w/wifi_channel&fullpage&noreadmore}} 
-{{page>/glossary/w/wpa_enterprise&fullpage&noreadmore}} 
-{{page>/glossary/w/wmm_power&fullpage&noreadmore}} 
-{{page>/glossary/w/wifi_band&fullpage&noreadmore}} 
-{{page>/glossary/w/wifi&fullpage&noreadmore}} 
-{{page>/glossary/w/wmm_ack&fullpage&noreadmore}} 
-{{page>/glossary/w/wan&fullpage&noreadmore}} 
-{{page>/glossary/w/wps&fullpage&noreadmore}} 
-{{page>/glossary/w/wlan&fullpage&noreadmore}} 
-{{page>/glossary/w/wifi_interface&fullpage&noreadmore}} 
-{{page>/glossary/w/wwan&fullpage&noreadmore}} 
-
-
- 
-
-{{page>/glossary/0/6to4&fullpage&noreadmore}} 
-{{page>/glossary/0/6rd&fullpage&noreadmore}} 
-{{page>/glossary/0/802_11g&fullpage&noreadmore}} 
-{{page>/glossary/0/802_11n&fullpage&noreadmore}} 
-{{page>/glossary/0/3g&fullpage&noreadmore}} 
-{{page>/glossary/0/802_11ac&fullpage&noreadmore}} 
-{{page>/glossary/0/6in4&fullpage&noreadmore}} 
-{{page>/glossary/0/802_11a&fullpage&noreadmore}} 
-{{page>/glossary/0/802_11bg&fullpage&noreadmore}} 
-{{page>/glossary/0/802_1q&fullpage&noreadmore}} 
-{{page>/glossary/0/802_1p&fullpage&noreadmore}} 
-{{page>/glossary/0/802_11b&fullpage&noreadmore}} 
-{{page>/glossary/0/2g&fullpage&noreadmore}} 
-{{page>/glossary/0/4g&fullpage&noreadmore}} 
