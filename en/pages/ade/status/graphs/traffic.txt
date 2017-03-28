@@ -15,5 +15,5 @@ Each interface is available in its own tab. The display is shown in realtime, wi
 | Red | Upstream. | 
 
 
-![Traffic](traffic.png)
+![Traffic](./traffic.png)
 

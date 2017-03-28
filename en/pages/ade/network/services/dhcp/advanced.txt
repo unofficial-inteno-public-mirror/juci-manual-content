@@ -7,7 +7,7 @@ The **Advanced** tab allows you to configure advanced settings for the [DHCP](/g
 ##
 
 ^ Item ^ Description ^
-| Domain required | Do  not forward [DHCP](/glossary/d/dns)-Requests without [DHCP](/glossary/d/dns)-Name. |
+| Domain required | Do  not forward [DHCP](/glossary/d/dns)-requests without [DHCP](/glossary/d/dns)-Name. |
 | Authoritative | This is the only [DHCP](/glossary/d/dhcp) in the local network. |
 | Filter private | Do not forward reverse lookups for local networks. |
 | Filter useless | Do not forward requests that cannot be answered by public name servers. |
@@ -24,6 +24,6 @@ The **Advanced** tab allows you to configure advanced settings for the [DHCP](/g
 | [DHCP](/glossary/d/dns) server port | Listening [port](/glossary/p/port) for inbound [DHCP](/glossary/d/dns) queries. |
 | [DHCP](/glossary/d/dns) query port | Fixed source [port](/glossary/p/port) for outbound [DHCP](/glossary/d/dns) queries. |
 | Max [DHCP](/glossary/d/dhcp) leases | Maximum allowed number of active [DHCP leases](/glossary/d/dhcp_lease). |
-| Max. [EDNS0](/glossary/d/edns0) packet size | Maximum size of [EDNS0](/glossary/d/edns0) [UDP](/glossary/u/udp) packets. |
+| Max. [EDNS0](/glossary/e/edns) packet size | Maximum size of [EDNS0](/glossary/e/edns) [UDP](/glossary/u/udp) packets. |
 | Max. concurrent queries | Maximum number of concurrent [DHCP](/glossary/d/dns) queries. |
 

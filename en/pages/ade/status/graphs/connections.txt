@@ -15,4 +15,4 @@ The lines representing different connection types:
 | Red | UDP connections. | 
 
 
-![Connections](connections.png)
+![Connections](./connections.png)

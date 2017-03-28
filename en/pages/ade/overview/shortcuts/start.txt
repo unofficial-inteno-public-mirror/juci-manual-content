@@ -4,7 +4,7 @@
 
 # Configuration Shortcuts
 
-The shortcuts show you the main wireless, Ethernet, LAN, WAN, USB, voice and profile configurations.
+The configurations show status for and provide shortcuts provide quick access to various common settings.
 
 ##
 

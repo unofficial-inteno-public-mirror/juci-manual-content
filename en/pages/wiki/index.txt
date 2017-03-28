@@ -800,7 +800,7 @@
 {{page>ade:glossary:r:rom&fullpage&noreadmore}}
 {{page>ade:glossary:r:root_qdisc&fullpage&noreadmore}}
 {{page>ade:glossary:r:route&fullpage&noreadmore}}
-{{page>ade:glossary:r:router_advertisment&fullpage&noreadmore}}
+{{page>ade:glossary:r:router_advertisement&fullpage&noreadmore}}
 {{page>ade:glossary:r:router_solicitation&fullpage&noreadmore}}
 {{page>ade:glossary:r:route_metric&fullpage&noreadmore}}
 {{page>ade:glossary:r:routing&fullpage&noreadmore}}

@@ -1,3 +1,2 @@
 ^ OFF ^ Original ^ Fixed link ^ [E](?do=edit) ^
-| [V](/adb/network/routes/ipv6) | [IP address](/glossary/i/ipv6) | [IP address](/glossary/i/ipv6) | [E](/adb/network/routes/ipv6?do=edit) | 
 

@@ -1,5 +1,3 @@
 OFF; 
 
-[IP address](/glossary/i/ipv6);[IP address](/glossary/i/ipv6)
-
 

@@ -16,4 +16,4 @@ The display is shown in realtime, and the lines represent the average over diffe
 | Purple | 15 minutes | 
 
 
-![Load](load.png)
+![Load](./load.png)
