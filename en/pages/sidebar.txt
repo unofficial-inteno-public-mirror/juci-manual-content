@@ -1,1 +1,1 @@
-{{indexmenu>:.#1|nomenu name navbar nsort msort skipns+/wiki|conref/ skipfile+/index(.*)|conref(.*)|note(.*)/ }}
+{{indexmenu>:.#1|js#ap.png nomenu name navbar nsort msort skipns+/wiki|conref/ skipfile+/index(.*)|conref(.*)|note(.*)/ }}
