@@ -16,7 +16,7 @@ To open the **Edit LAN Settings** dialog, click the {{/icon/edit.png}} **edit** 
 
 To view a more detailed overview of the clients, click the {{/icon/expand.png}} **expand** button
 
-To view details about a client click the client in the list.
+To view or details about a client click the client in the list.
 
 ##
 

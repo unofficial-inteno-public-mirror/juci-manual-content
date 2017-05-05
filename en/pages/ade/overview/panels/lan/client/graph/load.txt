@@ -1,0 +1,19 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>10}}
+
+# Load
+
+The **Load** graph shows device load averages for different time recent periods.
+
+## Graph Lines
+
+The display is shown in realtime, and the lines represent the average over different intervals:
+
+^ Color ^ Time ^
+| Blue | 1 minute | 
+| Red | 5 minutes | 
+| Purple | 15 minutes | 
+
+
+![Load](./load.png)

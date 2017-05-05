@@ -21,4 +21,4 @@ Information about the client is divided into several tabs.
 
 {{page>./parental/start}}
 
-{{page>./throughput/start}}
+{{page>./realtime/start}}

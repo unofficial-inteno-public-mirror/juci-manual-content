@@ -2,9 +2,9 @@
 
 {{indexmenu_n>25}}
 
-# Throughput Graph
+# Realtime Graphs
 
-For WiFi clients, the **Throughput Graph** tab you can map incoming connections on different [ports](/glossary/p/port) to ports on the client.
+For **WiFi clients** (it is not shown for regular lan clients), the **Realtime Graphs** tab you can map incoming connections on different [ports](/glossary/p/port) to ports on the client.
 
 ## Graph
 

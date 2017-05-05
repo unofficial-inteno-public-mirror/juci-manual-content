@@ -1,0 +1,18 @@
+{{tag>user_basic}}
+
+{{indexmenu_n>30}}
+
+# Connections
+
+The **Connections** graph shows the number of currently active connections for the device.
+
+## Graph Lines
+
+The lines representing different connection types:
+
+^ Color ^ Traffic ^
+| Blue | TCP connections. | 
+| Red | UDP connections. | 
+
+
+![Connections](./connections.png)
