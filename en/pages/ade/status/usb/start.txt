@@ -6,6 +6,9 @@
 
 The **USB devices** views displays information about any [USB](/glossary/u/usb) devices connected to the gateway device.
 
+**Note:** Supported [file systems](/glossary/f/file_system) for USB devices are [NTFS](/glossary/n/ntfs) and [FAT32](/glossary/f/fat32).
+
+
 ### Table
 
 The **USB device information** table shows information about the USB devices.

@@ -12,4 +12,4 @@ The **System Memory Status** view displays information about memory usage in the
 | Usage| Memory used by the system. | 163144 kB / 226308 kB (72%) |
 | Shared | Shared memory in use. | 0 kB / 226308 kB (0%) |
 | Buffered| Memory buffer in use. | 0 kB / 226308 kB (0%) |
-| Swap | Swap file system used. | 0 kB / 0 kB (0%) |
+| Swap | Swap [file system](/glossary/f/file_system) used. | 0 kB / 0 kB (0%) |

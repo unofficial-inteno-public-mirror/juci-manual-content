@@ -4,7 +4,7 @@
 
 # System Storage
 
-The **System Storage Status** view shows information about file systems and space used.
+The **System Storage Status** view shows information about [file systems](/glossary/f/file_system) and space used.
 
 ## Examples
 
