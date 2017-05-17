@@ -1,2 +1,5 @@
 ^ OFF ^ Original ^ Fixed link ^ [E](?do=edit) ^
+| [V](/ade/overview/panels/lan/client/graph/connections) | ![Connections](./connections.png) | ![Connections](/ade/overview/panels/lan/client/graph/connections.png) | [E](/ade/overview/panels/lan/client/graph/connections?do=edit) | 
+| [V](/ade/overview/panels/lan/client/graph/load) | ![Load](./load.png) | ![Load](/ade/overview/panels/lan/client/graph/load.png) | [E](/ade/overview/panels/lan/client/graph/load?do=edit) | 
+| [V](/sub/start) | ![Overview](./iopsys_overview.png) | ![Overview](/sub/iopsys_overview.png) | [E](/sub/start?do=edit) | 
 

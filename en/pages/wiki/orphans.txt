@@ -107,6 +107,7 @@
 | [N/A] | `/adb/overview/map/wan.png` | ![Image](/adb/overview/map/wan.png) | [N/A] | 
 | [N/A] | `/adb/overview/map/wan6.png` | ![Image](/adb/overview/map/wan6.png) | [N/A] | 
 | [N/A] | `/adb/overview/map/wifi.png` | ![Image](/adb/overview/map/wifi.png) | [N/A] | 
+| [N/A] | `/adb/overview/panels/lan/client/graph/main.png` | ![Image](/adb/overview/panels/lan/client/graph/main.png) | [N/A] | 
 | [N/A] | `/adb/overview/panels/lan/client/lease/add.png` | ![Image](/adb/overview/panels/lan/client/lease/add.png) | [N/A] | 
 | [N/A] | `/adb/overview/panels/lan/client/lease/lease.png` | ![Image](/adb/overview/panels/lan/client/lease/lease.png) | [N/A] | 
 | [N/A] | `/adb/overview/panels/lan/client/parental/1.clickclient.png` | ![Image](/adb/overview/panels/lan/client/parental/1.clickclient.png) | [N/A] | 
@@ -118,8 +119,9 @@
 | [N/A] | `/adb/overview/panels/lan/client/port/add.png` | ![Image](/adb/overview/panels/lan/client/port/add.png) | [N/A] | 
 | [N/A] | `/adb/overview/panels/lan/client/port/forwarding.png` | ![Image](/adb/overview/panels/lan/client/port/forwarding.png) | [N/A] | 
 | [N/A] | `/adb/overview/panels/lan/client/port/main.png` | ![Image](/adb/overview/panels/lan/client/port/main.png) | [N/A] | 
-| [N/A] | `/adb/overview/panels/lan/client/throughput/graph.png` | ![Image](/adb/overview/panels/lan/client/throughput/graph.png) | [N/A] | 
-| [N/A] | `/adb/overview/panels/lan/client/throughput/table.png` | ![Image](/adb/overview/panels/lan/client/throughput/table.png) | [N/A] | 
+| [N/A] | `/adb/overview/panels/lan/client/realtime/graph.png` | ![Image](/adb/overview/panels/lan/client/realtime/graph.png) | [N/A] | 
+| [N/A] | `/adb/overview/panels/lan/client/realtime/realtime.png` | ![Image](/adb/overview/panels/lan/client/realtime/realtime.png) | [N/A] | 
+| [N/A] | `/adb/overview/panels/lan/client/realtime/table.png` | ![Image](/adb/overview/panels/lan/client/realtime/table.png) | [N/A] | 
 | [N/A] | `/adb/overview/panels/lan/lan.png` | ![Image](/adb/overview/panels/lan/lan.png) | [N/A] | 
 | [N/A] | `/adb/overview/panels/lan/overview/main.png` | ![Image](/adb/overview/panels/lan/overview/main.png) | [N/A] | 
 | [N/A] | `/adb/overview/panels/lan/overview/overview_button.png` | ![Image](/adb/overview/panels/lan/overview/overview_button.png) | [N/A] | 
@@ -357,6 +359,7 @@
 | [N/A] | `/ade/overview/panels/lan/client/port/add.png` | ![Image](/ade/overview/panels/lan/client/port/add.png) | [N/A] | 
 | [N/A] | `/ade/overview/panels/lan/client/port/forwarding.png` | ![Image](/ade/overview/panels/lan/client/port/forwarding.png) | [N/A] | 
 | [N/A] | `/ade/overview/panels/lan/client/port/main.png` | ![Image](/ade/overview/panels/lan/client/port/main.png) | [N/A] | 
+| [N/A] | `/ade/overview/panels/lan/client/realtime/realtime.png` | ![Image](/ade/overview/panels/lan/client/realtime/realtime.png) | [N/A] | 
 | [N/A] | `/ade/overview/panels/lan/lan.png` | ![Image](/ade/overview/panels/lan/lan.png) | [N/A] | 
 | [N/A] | `/ade/overview/panels/lan/overview/overview_button.png` | ![Image](/ade/overview/panels/lan/overview/overview_button.png) | [N/A] | 
 | [N/A] | `/ade/overview/panels/profile/main.png` | ![Image](/ade/overview/panels/profile/main.png) | [N/A] | 
@@ -479,6 +482,7 @@
 | [N/A] | `/ade/wifi/wps/pbc/main.png` | ![Image](/ade/wifi/wps/pbc/main.png) | [N/A] | 
 | [N/A] | `/ade/wifi/wps/pin/main.png` | ![Image](/ade/wifi/wps/pin/main.png) | [N/A] | 
 | [N/A] | `/ade/wifi/wps/reg/main.png` | ![Image](/ade/wifi/wps/reg/main.png) | [N/A] | 
+| [N/A] | `/icon/client.png` | ![Image](/icon/client.png) | [N/A] | 
 | [N/A] | `/iopsys_logo.png` | ![Image](/iopsys_logo.png) | [N/A] | 
 | [N/A] | `/usb/intro/iopsys_architecture.png` | ![Image](/usb/intro/iopsys_architecture.png) | [N/A] | 
 | [N/A] | `/usb/intro/iopsys_logo.png` | ![Image](/usb/intro/iopsys_logo.png) | [N/A] | 
@@ -588,6 +592,7 @@
 | [N/A] | `/usb/overview/map/wan.png` | ![Image](/usb/overview/map/wan.png) | [N/A] | 
 | [N/A] | `/usb/overview/map/wan6.png` | ![Image](/usb/overview/map/wan6.png) | [N/A] | 
 | [N/A] | `/usb/overview/map/wifi.png` | ![Image](/usb/overview/map/wifi.png) | [N/A] | 
+| [N/A] | `/usb/overview/panels/lan/client/graph/main.png` | ![Image](/usb/overview/panels/lan/client/graph/main.png) | [N/A] | 
 | [N/A] | `/usb/overview/panels/lan/client/lease/add.png` | ![Image](/usb/overview/panels/lan/client/lease/add.png) | [N/A] | 
 | [N/A] | `/usb/overview/panels/lan/client/lease/lease.png` | ![Image](/usb/overview/panels/lan/client/lease/lease.png) | [N/A] | 
 | [N/A] | `/usb/overview/panels/lan/client/parental/1.clickclient.png` | ![Image](/usb/overview/panels/lan/client/parental/1.clickclient.png) | [N/A] | 
@@ -599,8 +604,9 @@
 | [N/A] | `/usb/overview/panels/lan/client/port/add.png` | ![Image](/usb/overview/panels/lan/client/port/add.png) | [N/A] | 
 | [N/A] | `/usb/overview/panels/lan/client/port/forwarding.png` | ![Image](/usb/overview/panels/lan/client/port/forwarding.png) | [N/A] | 
 | [N/A] | `/usb/overview/panels/lan/client/port/main.png` | ![Image](/usb/overview/panels/lan/client/port/main.png) | [N/A] | 
-| [N/A] | `/usb/overview/panels/lan/client/throughput/graph.png` | ![Image](/usb/overview/panels/lan/client/throughput/graph.png) | [N/A] | 
-| [N/A] | `/usb/overview/panels/lan/client/throughput/table.png` | ![Image](/usb/overview/panels/lan/client/throughput/table.png) | [N/A] | 
+| [N/A] | `/usb/overview/panels/lan/client/realtime/graph.png` | ![Image](/usb/overview/panels/lan/client/realtime/graph.png) | [N/A] | 
+| [N/A] | `/usb/overview/panels/lan/client/realtime/realtime.png` | ![Image](/usb/overview/panels/lan/client/realtime/realtime.png) | [N/A] | 
+| [N/A] | `/usb/overview/panels/lan/client/realtime/table.png` | ![Image](/usb/overview/panels/lan/client/realtime/table.png) | [N/A] | 
 | [N/A] | `/usb/overview/panels/lan/lan.png` | ![Image](/usb/overview/panels/lan/lan.png) | [N/A] | 
 | [N/A] | `/usb/overview/panels/lan/overview/main.png` | ![Image](/usb/overview/panels/lan/overview/main.png) | [N/A] | 
 | [N/A] | `/usb/overview/panels/lan/overview/overview_button.png` | ![Image](/usb/overview/panels/lan/overview/overview_button.png) | [N/A] | 
@@ -835,6 +841,7 @@
 | [N/A] | `/use/overview/map/wan.png` | ![Image](/use/overview/map/wan.png) | [N/A] | 
 | [N/A] | `/use/overview/map/wan6.png` | ![Image](/use/overview/map/wan6.png) | [N/A] | 
 | [N/A] | `/use/overview/map/wifi.png` | ![Image](/use/overview/map/wifi.png) | [N/A] | 
+| [N/A] | `/use/overview/panels/lan/client/graph/main.png` | ![Image](/use/overview/panels/lan/client/graph/main.png) | [N/A] | 
 | [N/A] | `/use/overview/panels/lan/client/lease/add.png` | ![Image](/use/overview/panels/lan/client/lease/add.png) | [N/A] | 
 | [N/A] | `/use/overview/panels/lan/client/lease/lease.png` | ![Image](/use/overview/panels/lan/client/lease/lease.png) | [N/A] | 
 | [N/A] | `/use/overview/panels/lan/client/parental/1.clickclient.png` | ![Image](/use/overview/panels/lan/client/parental/1.clickclient.png) | [N/A] | 
@@ -846,8 +853,9 @@
 | [N/A] | `/use/overview/panels/lan/client/port/add.png` | ![Image](/use/overview/panels/lan/client/port/add.png) | [N/A] | 
 | [N/A] | `/use/overview/panels/lan/client/port/forwarding.png` | ![Image](/use/overview/panels/lan/client/port/forwarding.png) | [N/A] | 
 | [N/A] | `/use/overview/panels/lan/client/port/main.png` | ![Image](/use/overview/panels/lan/client/port/main.png) | [N/A] | 
-| [N/A] | `/use/overview/panels/lan/client/throughput/graph.png` | ![Image](/use/overview/panels/lan/client/throughput/graph.png) | [N/A] | 
-| [N/A] | `/use/overview/panels/lan/client/throughput/table.png` | ![Image](/use/overview/panels/lan/client/throughput/table.png) | [N/A] | 
+| [N/A] | `/use/overview/panels/lan/client/realtime/graph.png` | ![Image](/use/overview/panels/lan/client/realtime/graph.png) | [N/A] | 
+| [N/A] | `/use/overview/panels/lan/client/realtime/realtime.png` | ![Image](/use/overview/panels/lan/client/realtime/realtime.png) | [N/A] | 
+| [N/A] | `/use/overview/panels/lan/client/realtime/table.png` | ![Image](/use/overview/panels/lan/client/realtime/table.png) | [N/A] | 
 | [N/A] | `/use/overview/panels/lan/lan.png` | ![Image](/use/overview/panels/lan/lan.png) | [N/A] | 
 | [N/A] | `/use/overview/panels/lan/overview/main.png` | ![Image](/use/overview/panels/lan/overview/main.png) | [N/A] | 
 | [N/A] | `/use/overview/panels/lan/overview/overview_button.png` | ![Image](/use/overview/panels/lan/overview/overview_button.png) | [N/A] | 
